@@ -3,34 +3,33 @@ title: Fluvial Geomorphology - Syllabus
 weight: 1
 ---
 
-# Course Description
+# WATS 5150 - Course Description
 
-## [Catalog Description](https://ssb.banner.usu.edu/zprod/bwckctlg.p_display_courses?term_in=202120&one_subj=WATS&sel_crse_strt=6900&sel_crse_end=6900&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=)
+## [Catalog Description](https://ssb.banner.usu.edu/zprod/bwckctlg.p_display_courses?term_in=202120&one_subj=WATS&sel_crse_strt=5150&sel_crse_end=5150&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=)
 This course focuses on field analysis of physical processes in streams that control their shape, plan form, slope, bed material, and channel bar distribution. Students apply geomorphology to aquatic ecology and environmental restoration. Weekend field trips are required. 
 
-|**Semester(s) Traditionally Offered**| Spring|
-|**Credits**: |1.000 Credit hours  (1.5 CEU)|
-|**Levels**: |Graduate|
+|**Semester(s) Traditionally Offered**| Fall|
+|**Credits**: |3.000 Credit hours |
+|**Levels**: |Graduate, Undergraduate|
 |**Schedule Types**: |Hybrid Face to Face Lecture |
-|**Cross-Listed As**: |NA|
+|**Cross-Listed As**: |WATS 6150/ GEO 5150/6150|
 
 
 ## Schedule
 
-#### Spring 2021
-##### Intro to LTPBR
-- Matriculated Students: [ST:INTRO LOWTECH PROC REST RIV - 12043 - WATS 6900 - 002](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12043)
+#### Spring 2021 WATS 5150/6150
+- [Fluvial Geomorphology - 12014 - WATS 5150 - 001](https://ssb.banner.usu.edu/zprod/bwckctlg.p_disp_listcrse?term_in=202120&subj_in=WATS&crse_in=5150&schd_in=HL)
 - Non-Matriculated Students: CEWA 5700 - 26236 - LB1 
 
 | Class     | Time              | Days | Where                     | Dates                 |  Instructors                                                                                         |
 |----------|-------------------|------|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------|
-| [Intro to LTPBR](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1)     | 1:30 pm - 3:30 pm | Tuesdays    | Zoom | Jan 19, 26 & Feb 2,  2021 |  [Joseph Michael Wheaton (P), Stephen Nicholas Bennett, Nicolaas W Bouwes, Scott M Shahverdian]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| Discussion, Workshop and/or Field Trips    | 1:30 pm - 5:00 pm | Monday    | Mainly [Zoom](https://usu-edu.zoom.us/j/87517261687?pwd=QTJHMGYzangxYW5CMGtYUlhsR0FTZz09) | Jan 19 - Apr 27,  2021 |  [Joseph Michael Wheaton ](http://joewheaton.org) |
+| Lecutre /Discussion    | 1:30 pm - 2:30 pm | Wednesday    | [Zoom](https://usu-edu.zoom.us/j/87517261687?pwd=QTJHMGYzangxYW5CMGtYUlhsR0FTZz09) | Jan 19 - Apr 27,  2021 |  [Joseph Michael Wheaton ](http://joewheaton.org) |
 
-
+Next Planned for Fall 2023
 
 # Fees
-
-Insert content here.
+Regular Tuition. No additional fees.
 
 # Course Objectives
 
@@ -88,7 +87,7 @@ Required and Optional Course Resources (e.g., textbook, safety equipment, etc.).
 <div align="center">
 <a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - Intro to LTPBR Course Assignments</a>
 
-<a class="hollow button" href="{{ site.baseurl }}/modules"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 1 - Intro</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
+<a class="hollow button" href="{{ site.baseurl }}/modules"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Modules</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
 
 
