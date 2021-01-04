@@ -45,13 +45,19 @@ By the end of this course, you will be able to:
 <div class="row small-up-2 medium-up-2 large-up-4" align="center">
 
    <div class="column column-block">
-    <a href="http://joewheaton.org"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
+    <a href="http://joewheaton.org"><img src="{{ site.baseurl }}/assets/images/people/Joe_Cartoon_KellyStanford_Round200.png"></a>
     <h4><a href="http://joewheaton.org">Joseph Wheaton<sup>1,2</sup></a></h4>
     Associate Professor of Riverscapes<br>
-   <b>Lead Instructor</b><br>
+   <b>Instructor</b><br>
    Office Hour: Wednesday, 12:00 to 13:00 - <a href="https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09">Zoom Drop-In</a> or By Appointment
   </div>
+  <div class="column column-block">
+    <a href="https://qcnr.usu.edu/wats/index"><img src="{{ site.baseurl }}/assets/images/logos/USU.png"></a>1. 
+  </div>
+  <div class="column column-block">
+	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/logos/anabranchS.png"></a><br>2. 
 
+  </div>
 
 </div>
 
@@ -59,21 +65,7 @@ To get in touch with instructor(s), please use [Canvas](https://usu.instructure.
 Please use Office Hours (Wednesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) <i class="fa fa-search" aria-hidden="true"></i>
 
 
-## Instructor Affiliations
 
-<div class="row small-up-2 medium-up-2 large-up-5" align="center">
-  <div class="column column-block">
-    <a href="https://qcnr.usu.edu/wats/index"><img src="{{ site.baseurl }}/assets/images/sponsors/USU.png"></a>1. 
-  </div>
-  <div class="column column-block">
-	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a><br>2. 
-
-  </div>
-
-
-
-
-</div>
 
 --------
 # Course Resources
