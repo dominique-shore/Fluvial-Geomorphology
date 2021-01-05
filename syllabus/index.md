@@ -31,50 +31,43 @@ This course will typically be taught every Fall. However, the first revamped ver
 ### Course Schedule / Outline
 
 
-- [CHAPTER FOUR: Catchment hydrology](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=60)
-- [CHAPTER FIVE: Impelling and resisting forces in river systems](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=81)
-- [CHAPTER SIX: Sediment movement and deposition in river systems](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=97)
-- [CHAPTER SEVEN: Channel geometry](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=132)
-- [CHAPTER EIGHT: Instream geomorphic units](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=148)
-- [CHAPTER NINE: Floodplain forms and processes](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=171)
-- [CHAPTER TEN: River diversity](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=190)
-- [CHAPTER ELEVEN: River behaviour](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=221)
-- [CHAPTER TWELVE: River evolution](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=251)
-- [CHAPTER THIRTEEN: Human impacts on river systems](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=285)
-- [CHAPTER FOURTEEN: Sediment flux at the catchment scale: source-to-sink relationships](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=313)
-- [CHAPTER FIFTEEN: The usefulness of river geomorphology: reading the landscape in practice](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=336)
 
-| Week | M/W |                     Date                     | Module | Topic                                           | Book Chapter              |
-|------|-----|:--------------------------------------------:|--------|-------------------------------------------------|---------------------------|
-|   1  | Mon | MLK Holiday Monday 1/18 ; Classes Begin 1/19 |        |                                                 |                           |
-|   1  | Wed |                    1/21/21                   |      1 | Geomorphic Analysis - Reading the Landscape     |                         [Chapter 1: Geomorphic analysis of river systems: an approach to reading the landscape](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=17) |
-|   2  | Mon |                   1/25/2021                  |      2 | Key Concepts in Fluvial Geomorphology           |                         [Chapter 2: Key concepts in river geomorphology](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=25) |
-|   2  | Wed |                    1/27/21                   |      3 | Catchment-Scale Controls on River Geomorphology |                        [Chapter 3: Catchment-scale controls on river geomorphology](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=45) |
-|   3  | Mon |                   2/1/2021                   |      4 | Catchment Hydrology                             |                         4 |
-|   3  | Wed |                    2/3/21                    |      5 | Hydraulics                                      |                         5 |
-|   4  | Mon |                    2/9/21                    |      6 | Fluvial Geomorphic Processes                    |                         6 |
-|   4  | Wed |                    2/11/21                   |      6 | Fluvial Geomorphic Processes                    |                         6 |
-|   5  | Mon |     Presidents Day Monday 2/15; No Class     |        |                                                 |                           |
-|   5  | Wed |                    2/17/21                   |      7 | Channel Geometry                                |                         7 |
-|   6  | Mon |                   2/22/2021                  |      8 | Instream Geomorphic Units                       |                         8 |
-|   6  | Wed |                    2/24/21                   |      8 | Instream Geomorphic Units                       |                         8 |
-|   7  | Mon |                   3/1/2021                   |      9 | Floodplain Forms & Processes                    |                         9 |
-|   7  | Wed |                    3/3/21                    |      9 | Floodplain Forms & Processes                    |                         9 |
-|   8  | Mon |                    3/8/21                    |     10 | River Diversity                                 |                        10 |
-|   8  | Wed |                    3/10/21                   |     10 | River Diversity                                 |                        10 |
-|   9  | Mon |                    3/15/21                   |     11 | River Behavior                                  |                        11 |
-|   9  | Wed |                    3/17/21                   |     11 | River Behavior                                  |                        11 |
-|  10  | Mon |                    3/22/21                   |     12 | River Evolution                                 |                        12 |
-|  10  | Wed |                    3/24/21                   |     12 | River Evolution                                 |                        12 |
-|  11  | Mon |                    3/29/21                   |     13 | Human Impacts on River Systems                  |                        13 |
-|  11  | Wed |                    3/31/21                   |     13 | Human Impacts on River Systems                  |                        13 |
-|  12  | Mon |                    4/5/21                    |     14 | Sediment Flux at Catchment Scale                |                        14 |
-|  12  | Wed |                    4/7/21                    |     14 | Sediment Flux at Catchment Scale                |                        14 |
-|  13  | Mon |                    4/12/21                   |     15 | Applications of Fluvial Geomorphology           |                        15 |
-|  13  | Wed |                    4/14/21                   |     15 | Applications of Fluvial Geomorphology           |                        15 |
-|  14  | Mon |                    4/19/21                   |        | Slop                                            |                           |
-|  14  | Wed |                    4/21/21                   |     16 | Review                                          |                           |
-|  15  | Mon |                    4/26/21                   |     17 | Projects                                        | Last Day of Class 4/27/21 |
+
+
+
+
+
+| Week | M/W  |                     Date                     | Module | Topic                                           | Book Chapter                                                 |
+| ---- | ---- | :------------------------------------------: | ------ | ----------------------------------------------- | ------------------------------------------------------------ |
+| 1    | Mon  | MLK Holiday Monday 1/18 ; Classes Begin 1/19 |        |                                                 |                                                              |
+| 1    | Wed  |                   1/21/21                    | 1      | Geomorphic Analysis - Reading the Landscape     | [**Chapter 1**: Geomorphic analysis of river systems: an approach to reading the landscape](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=17) |
+| 2    | Mon  |                  1/25/2021                   | 2      | Key Concepts in Fluvial Geomorphology           | [**Chapter 2**: Key concepts in river geomorphology](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=25) |
+| 2    | Wed  |                   1/27/21                    | 3      | Catchment-Scale Controls on River Geomorphology | [**Chapter 3**: Catchment-scale controls on river geomorphology](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=45) |
+| 3    | Mon  |                   2/1/2021                   | 4      | Catchment Hydrology                             | [**Chapter 4**: Catchment hydrology](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=60) |
+| 3    | Wed  |                    2/3/21                    | 5      | Hydraulics                                      | [**Chapter 5**: Impelling and resisting forces in river systems](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=81) |
+| 4    | Mon  |                    2/9/21                    | 6      | Fluvial Geomorphic Processes                    | [**Chapter 6**: Sediment movement and deposition in river systems](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=97) |
+| 4    | Wed  |                   2/11/21                    | 6      | Fluvial Geomorphic Processes                    | [**Chapter 6**: Sediment movement and deposition in river systems](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=97) |
+| 5    | Mon  |     Presidents Day Monday 2/15; No Class     |        |                                                 |                                                              |
+| 5    | Wed  |                   2/17/21                    | 7      | Channel Geometry                                | [**Chapter 7**: Channel geometry](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=132) |
+| 6    | Mon  |                  2/22/2021                   | 8      | Instream Forms                                  | [**Chapter 8**: Instream geomorphic units](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=148) |
+| 6    | Wed  |                   2/24/21                    | 8      | Instream Forms                                  | [**Chapter 8**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=148) |
+| 7    | Mon  |                   3/1/2021                   | 9      | Floodplain Forms & Processes                    | [**Chapter 9**: Floodplain forms and processes](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=171) |
+| 7    | Wed  |                    3/3/21                    | 9      | Floodplain Forms & Processes                    | [**Chapter 9**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=171) |
+| 8    | Mon  |                    3/8/21                    | 10     | River Diversity                                 | [**Chapter 10**: River diversity](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=190) |
+| 8    | Wed  |                   3/10/21                    | 10     | River Diversity                                 | [**Chapter 10**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=190) |
+| 9    | Mon  |                   3/15/21                    | 11     | River Behavior                                  | [**Chapter 11**: River behaviour](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=221) |
+| 9    | Wed  |                   3/17/21                    | 11     | River Behavior                                  | [**Chapter 11**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=221) |
+| 10   | Mon  |                   3/22/21                    | 12     | River Evolution                                 | [**Chapter 12**: River evolution](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=251) |
+| 10   | Wed  |                   3/24/21                    | 12     | River Evolution                                 | [**Chapter 12**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=251) |
+| 11   | Mon  |                   3/29/21                    | 13     | Human Impacts on River Systems                  | [**Chapter 13**: Human impacts on river systems](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=285) |
+| 11   | Wed  |                   3/31/21                    | 13     | Human Impacts on River Systems                  | [**Chapter 13**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=285) |
+| 12   | Mon  |                    4/5/21                    | 14     | Sediment Flux at Catchment Scale                | [**Chapter 14**: Sediment flux at the catchment scale: source-to-sink relationships](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=313) |
+| 12   | Wed  |                    4/7/21                    | 14     | Sediment Flux at Catchment Scale                | [**Chapter 14**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=313) |
+| 13   | Mon  |                   4/12/21                    | 15     | Applications of Fluvial Geomorphology           | [**Chapter 15**: The usefulness of river geomorphology: reading the landscape in practice](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=336) |
+| 13   | Wed  |                   4/14/21                    | 15     | Applications of Fluvial Geomorphology           | [**Chapter 15**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=336) |
+| 14   | Mon  |                   4/19/21                    |        | Slop                                            |                                                              |
+| 14   | Wed  |                   4/21/21                    | 16     | Review                                          |                                                              |
+| 15   | Mon  |                   4/26/21                    | 17     | Projects                                        | Last Day of Class 4/27/21                                    |
 
 ------
 
@@ -105,7 +98,7 @@ By the end of this course, you will be able to:
     <a href="https://qcnr.usu.edu/wats/index"><img src="{{ site.baseurl }}/assets/images/logos/USU.png"></a>1. 
   </div>
   <div class="column column-block">
-	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/logos/anabranchS.png"></a><br>2. 
+	<a href="http://www.anabranchsolutions.com"><img width="100" src="{{ site.baseurl }}/assets/images/logos/anabranchS.png"></a><br>2. 
 
   </div>
 
