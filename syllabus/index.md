@@ -6,13 +6,14 @@ weight: 1
 # WATS 5150 - Syllabus
 
 ## [Catalog Description](https://ssb.banner.usu.edu/zprod/bwckctlg.p_display_courses?term_in=202120&one_subj=WATS&sel_crse_strt=5150&sel_crse_end=5150&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=)
-This course focuses on field analysis of physical processes in streams that control their shape, plan form, slope, bed material, and channel bar distribution. Students apply geomorphology to aquatic ecology and environmental restoration. Weekend field trips are required. 
+This course focuses on an introduction to fluvial geomorphology through teaching students to read landscapes and riverscapes. Students will develop an appreciation of riverscape diversity, in which distinctive suites of physical and biotic processes (behavior) help shape the form and character of those landscapes. Weekend field trips are required. 
 
 |**Semester(s) Traditionally Offered**| Fall|
 |**Credits**: |3.000 Credit hours |
 |**Levels**: |Graduate, Undergraduate|
 |**Schedule Types**: |Hybrid Face to Face Lecture |
 |**Cross-Listed As**: |WATS 6150/ GEO 5150/6150|
+|**Pre-requisites**| For Undergraduates: WATS 3600 (Geomorphology)  and WATS 4490 (Small Watershed Hydrology).|
 
 
 ## Schedule
@@ -33,8 +34,8 @@ Regular Tuition. $ additional fees.
 
 By the end of this course, you will be able to:
 
-1. Objective
-2. Objective
+1. Confidently *read* any riverscape and be able to map its core characteristics.
+2. Appreciate the 
 3. Objective
 
 
