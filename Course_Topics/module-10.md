@@ -13,13 +13,13 @@ d
 ### [Learning Outcomes]({{ site.baseurl }}/syllabus/#course-objectives)
 
 1. Confidently *read* any riverscape and be able to map its core characteristics.
-2. Differentiate influence of extenrnal controls (e.g. climate and catchment) vs. local controls on form and process. 
+2. Differentiate influence of external controls (e.g., climate and catchment) vs. local controls on form and process. 
 3. Apply principles of geomorphic analysis to a diversity of riverscapes.
 4. Recognize the primary controls on riverscape diversity, in which distinctive suites of physical and biotic processes (behavior) help shape the form and character of those landscapes. 
 5. Understand how hydrologic processes, give rise to hydraulic processes, which in local riverscapes.
-6. Appreciate that topography is a quantitiative record of landforms and apply morphometric analysis can be used to map and differentaite those landforms (i.e. geomorphic units).
-7. Gain an appreciation of how geomorphic processes of erosion, deposition transport and storage of sediment shape topography and create, maintain, sculpt and destroy distincitive landforms. 
-8. Understand human impacts on rivercaapes and fluvial forces.
+6. Appreciate that topography is a quantitative record of landforms and apply morphometric analysis can be used to map and differentiate those landforms (i.e., geomorphic units).
+7. Gain an appreciation of how geomorphic processes of erosion, deposition transport and storage of sediment shape topography and create, maintain, sculpt and destroy distinctive landforms. 
+8. Understand human impacts on riverscapes and fluvial forces.
 9. Recognize how geomorphic analysis is used in practice to help manage riverscapes.
 
 ------
