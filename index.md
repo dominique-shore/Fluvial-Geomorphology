@@ -3,14 +3,18 @@ title: Fluvial Geomorphology - WATS 5150
 weight: 1
 ---
 
-## Course Overview
+## WATS 5150 Course Overview
 
+<img class="float-left" src="{{ site.baseurl }}/assets/images/pics/WATS-5150_Canvas.png">
 Welcome to the Fluvial Geomorphology Course Website! This website is primarily for students of the [WATS 5150/6150]({{ site.baseurl }}/syllabus/) and [GEO 5150/6150]({{ site.baseurl }}/syllabus/) introductory fluvial geomorphology course taught at [Utah State University](https://qcnr.usu.edu/wats/). Secondary audiences may include other students and practitioners looking for an introduction to fluvial geomorphology and the study of riverscapes. 
 
 <div align="center">
 	<a class="hollow button" href="{{ site.baseurl }}/syllabus/"> See Syllabus <br> for More Details</a>
 	<a class="hollow button" href="{{ site.baseurl }}/Course_Topics/"><img src="{{ site.baseurl }}/assets/images/favicons/android-icon-48x48.png">  Fluvial Geomorphology  <b> Course Topics</b></a>  
 	
+</div>
+<div align="center">
+<img  src="{{ site.baseurl }}/assets/images/pics/IcefieldsParkway.png">
 </div>
 
 ------
