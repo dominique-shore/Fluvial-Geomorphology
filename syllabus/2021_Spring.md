@@ -7,9 +7,13 @@ weight: 2
 
 
 
-## Schedule
+<div align="center">
+<img width="500" src="{{ site.baseurl }}/assets/images/pics/BridgePatsBDA.png">
+</div>
 
-### Spring 2021 WATS 5150/6150
+# Schedule
+
+## Spring 2021 WATS 5150/6150
 [Fluvial Geomorphology - 12014 - WATS 5150 - 001](https://ssb.banner.usu.edu/zprod/bwckctlg.p_disp_listcrse?term_in=202120&subj_in=WATS&crse_in=5150&schd_in=HL)
 
 
@@ -18,16 +22,20 @@ weight: 2
 | Discussion, Workshop and/or Field Trips    | 1:30 pm - 5:00 pm | Monday    | Mainly [Zoom](https://usu-edu.zoom.us/j/87517261687?pwd=QTJHMGYzangxYW5CMGtYUlhsR0FTZz09) | Jan 19 - Apr 27,  2021 |  [Joseph Michael Wheaton ](http://joewheaton.org) |
 | Lecutre /Discussion    | 1:30 pm - 2:30 pm | Wednesday    | [Zoom](https://usu-edu.zoom.us/j/87517261687?pwd=QTJHMGYzangxYW5CMGtYUlhsR0FTZz09) | Jan 19 - Apr 27,  2021 |  [Joseph Michael Wheaton ](http://joewheaton.org) |
 
-This course will typically be taught every Fall. However, the first revamped version of the class will be taught Spring 2021 (Fall 2021 will be skipped). Wheaton has a sabbatical planned for Fall 2022-2023. So, next planned for Fall 2023.
+We will use the same recurring Zoom Meeting Link:
+<div align="center">
+<a class="hollow button" href="https://usu-edu.zoom.us/j/87517261687?pwd=QTJHMGYzangxYW5CMGtYUlhsR0FTZz09"><img src="{{ site.baseurl }}/assets/images/zoom_icon_32.png">  <b>Zoom Meeting Link</b><br>Mondays & Wednesdays</a>
+
+</div>
 
 ### Course Schedule / Outline
 
 
+<div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>See Spring 2021 Canvas</b><br> For Latest Schedule</a>
+</div>
 
-
-
-
-
+Rough Plan:
 
 | Week | M/W  |                     Date                     | Module | Topic                                           | Book Chapter                                                 |
 | ---- | ---- | :------------------------------------------: | ------ | ----------------------------------------------- | ------------------------------------------------------------ |

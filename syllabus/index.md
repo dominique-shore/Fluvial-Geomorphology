@@ -6,7 +6,9 @@ weight: 1
 # WATS 5150 - Syllabus
 
 ## [Catalog Description](https://ssb.banner.usu.edu/zprod/bwckctlg.p_display_courses?term_in=202120&one_subj=WATS&sel_crse_strt=5150&sel_crse_end=5150&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=)
-This course focuses on an introduction to fluvial geomorphology through teaching students to read landscapes and riverscapes. Students will develop an appreciation of riverscape diversity, in which distinctive suites of physical and biotic processes (behavior) help shape the form and character of those landscapes. Weekend field trips are required. 
+
+
+<img class="float-right" src="{{ site.baseurl }}/assets/images/pics/WATS-5150_Canvas.png">This course focuses on an introduction to fluvial geomorphology through teaching students to read landscapes and riverscapes. Students will develop an appreciation of riverscape diversity, in which distinctive suites of physical and biotic processes (behavior) help shape the form and character of those landscapes. Weekend field trips are required. 
 
 |**Semester(s) Traditionally Offered**| Fall|
 |**Credits**: |3.000 Credit hours |
@@ -28,10 +30,11 @@ This course will typically be taught every Fall. However, the first revamped ver
 ------
 
 # Fees
-Regular Tuition. $ additional fees.
+Regular Tuition. $150 Field Trip course fee.
 
 # Course Objectives
 
+<img class="float-right" src="{{ site.baseurl }}/assets/images/pics/PeopleInStream.jfif">
 This is an introductory course in fluvial geomorphology. Geomorphology is the study of landforms and processes that shape them. Fluvial geomorphology is a sub-discipline that focuses on *fluvial* processes (i.e., shaped by water) and landforms. We call the part of the landscape in which fluvial processes dominate, riverscapes. 
 
 By the end of this course, you will be able to:
@@ -40,7 +43,7 @@ By the end of this course, you will be able to:
 2. Differentiate influence of external controls (e.g., climate and catchment) vs. local controls on form and process. 
 3. Apply principles of geomorphic analysis to a diversity of riverscapes.
 4. Recognize the primary controls on riverscape diversity, in which distinctive suites of physical and biotic processes (behavior) help shape the form and character of those landscapes. 
-5. Understand how hydrologic processes, give rise to hydraulic processes, which in local riverscapes.
+5. Understand how hydrologic processes, give rise to hydraulic processes, which in local riverscapes determine the rates, magnitudes  and occurece of fluvial geomorphic proceses.
 6. Appreciate that topography is a quantitative record of landforms and apply morphometric analysis can be used to map and differentiate those landforms (i.e., geomorphic units).
 7. Gain an appreciation of how geomorphic processes of erosion, deposition transport and storage of sediment shape topography and create, maintain, sculpt and destroy distinctive landforms. 
 8. Understand human impacts on riverscapes and fluvial forces.
@@ -53,16 +56,7 @@ Required and Optional Course Resources (e.g., textbook, safety equipment, etc.).
 
 
 
-## Slides & Handouts
 
-<div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - Intro to LTPBR Course Assignments</a>
-
-<a class="hollow button" href="{{ site.baseurl }}/modules"><img src="{{ site.baseurl }}/assets/images/presentation.png"> <b>Modules</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
-
-
-
-</div>
 
 ## Course Textbook
 **Mandatory Text** - A hard copy of the [required text book](https://usucampusstore.com/p-33938-geomorphic-analysis-of-river-systems.aspx) is strongly suggested. You can view the text digitally through the library's [Ebook Central](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536).
