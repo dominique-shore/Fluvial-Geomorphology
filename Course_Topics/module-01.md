@@ -8,20 +8,18 @@ weight: 1
 
 ### Why we're covering it
 
-This introductory chapter introduces the organizing framework for how we will approach studying fluvial geomorphology - geomorphic analysis. Geomorphic 
+This introductory chapter introduces the organizing framework for how we will approach studying fluvial geomorphology - geomorphic analysis. Another phrase for geomorphic analysis is *reading the landcape*, and in our case of fluvial geomorphic anlalysis, we will focus on *reading riverscapes*. 
 
 ### [Learning Outcomes]({{ site.baseurl }}/syllabus/#course-objectives)
 
 1. Confidently *read* any riverscape and be able to map its core characteristics.
 
-   
 
 ------
 
 ## Resources
 
 ### Slides & Handouts
-
 
 <div class="row small-up-2 medium-up-2">
 
