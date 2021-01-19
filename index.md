@@ -11,7 +11,7 @@ Welcome to the Fluvial Geomorphology Course Website! This website is primarily f
 <div align="center">
 	<a class="hollow button" href="{{ site.baseurl }}/syllabus/"> See Syllabus <br> for More Details</a>
 	<a class="hollow button" href="{{ site.baseurl }}/Course_Topics/"><img src="{{ site.baseurl }}/assets/images/favicons/android-icon-48x48.png">  Fluvial Geomorphology  <b> Course Topics</b></a>  
-	
+
 </div>
 <div align="center">
 <img  src="{{ site.baseurl }}/assets/images/pics/IcefieldsParkway.png">
@@ -26,6 +26,6 @@ Welcome to the Fluvial Geomorphology Course Website! This website is primarily f
 For students enrolled, all course materials, such as lectures, videos and resources you may want to refer to long after the class  can be found on this site. By contrast, Canvas is where you will submit assignments, track your grades, view due dates for assignments and meetings,  and engage in collaborations on our Canvas Course Pages:
 
 <div align="center">
-	<a class="hollow button" href="https://usu.instructure.com/courses/595866"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Fall 2020 Canvas WATS 5340 Course</a>  
+	<a class="hollow button" target="blank" href="https://usu.instructure.com/courses/637781"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring  2021 Canvas WATS 5150 Course</a>  
 
 </div>
