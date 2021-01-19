@@ -20,7 +20,7 @@ weight: 1
 
 ## Schedule
 
-[Spring 2021 WATS 5150/6150]({{ site.baseurl }}/syllabus/2021_spring)
+[Spring 2021 WATS 5150/6150](https://riverscapes.github.io/Fluvial-Geomorphology/syllabus/2021_Spring.html)
 - [Fluvial Geomorphology - 12014 - WATS 5150 - 001](https://ssb.banner.usu.edu/zprod/bwckctlg.p_disp_listcrse?term_in=202120&subj_in=WATS&crse_in=5150&schd_in=HL)
 
 
