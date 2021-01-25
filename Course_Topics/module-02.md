@@ -4,11 +4,14 @@ weight: 2
 ---
 # Module 2: Key Concepts in Fluvial Geomorphology
 
-## Background
+## Background & Why we're covering it
 
-### Why we're covering it
+ [Chapter 2 on  'Key concepts in river geomorphology'](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=25) will:
+ - Elaborate on the hierarchal spatial scales we introduced in Chapter 1
+ - Introduce temporal scale constructs  in evaluating riverscapes
+ - Introduce some common concepts used by geomorphologists in making spatio-temporal interpretations of these dynamic systems
 
-d
+We will make reference to many of these concepts throughout the course and it will be assumed you are clear on these foundational concepts. 
 
 ### [Learning Outcomes]({{ site.baseurl }}/syllabus/#course-objectives)
 
@@ -20,14 +23,50 @@ d
 
 ------
 
-## Resources
 
-### Slides & Handouts
+# Resources 
 
-[Lecture Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2018/Week2_WATS_5350.pdf)
+## Lecture Videos, Slides & Handouts
 
-<div class="responsive-embed">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTEBwDZh8uD2FbT5guSppFsszlSr5qZ77t7X49_ZkOhPNHNyek1X7MOltB7XEcJHP4WG2Q_4Zl-UQZp/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+We cover Module 2 and [Chapter 2](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=25)  in about 1.5 hours of lecture. A few topics we will discuss in class. 
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Entire Lecture Playlist</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzL_JtW9FRZG90DIdqe9sqMh" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 1 hour  28 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_02_KeyConcepts.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/module02.png"></a>
+        	</div>
+        
+        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_02_KeyConcepts.pdf" target="_blank">Module 2  - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
 </div>
 
 ### Corresponding Chapter in Course Text
@@ -38,7 +77,7 @@ This module focus on: [CHAPTER TWO: Key concepts in river geomorphology](https:/
 
 
 ### Relevant or Cited Literature
-Follow up *selected readings* suggested by Fryris and Brierley (2013) are provided for every chapter in page 328-3334 of the text book. 
+Follow up *selected readings* suggested by Fryris and Brierley (2013) are provided for every chapter in page 328-334 of the text book. 
 
 
 
