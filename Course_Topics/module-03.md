@@ -52,7 +52,7 @@ We cover Module 2 and [Chapter 2](https://ebookcentral-proquest-com.dist.lib.usu
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_03_CatchmentControls.pdff" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/Module03.png"></a>
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_03_CatchmentControls.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/Module03.png"></a>
         	</div>
         
         <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_03_CatchmentControls.pdf" target="_blank">Module 2  - Slides</a>
