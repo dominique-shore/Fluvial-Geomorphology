@@ -28,8 +28,8 @@ On your website, please make a web-page for module 3 (this is what you'll turn i
 
 For the Logan River Watershed:
 1. What is its **catchment length** in meters? 
-2. What is its ** catchment area** in square meters and in square kilometers?
-3. What is the the ** catchment perimeter length** in meters and kilometers?
+2. What is its **catchment area** in square meters and in square kilometers?
+3. What is the the **catchment perimeter length** in meters and kilometers?
 4. Calculate the **circularity ratio**.
 5. Calculate the **elongation ratio**.
 6. Calculate the **form factor** of the Logan River Watershed.
