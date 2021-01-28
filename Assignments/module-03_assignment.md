@@ -6,7 +6,7 @@ weight: 1
 
 ## The Assignment
 
-You will be performing a variety of morphometrics analyses of the Logan River Watershed (you can substitute any other HUC 10 size watershed of interest, but you are on your own if you go there).
+You will be performing a variety of morphometrics analyses of the Logan River Watershed.
 
 On your website, please make a web-page for module 3 (this is what you'll turn in for Canvas. For the Logan River Watershed (a 10 digit HUC - 1601020303). Your page should have a heading for each of the assignment tasks listed below. I describe the bare minimum you need to include in each task on your page, but you may want to provide additional context. Briefly explain your methods as well. Make sure all questions are answered.
 
@@ -15,7 +15,9 @@ On your website, please make a web-page for module 3 (this is what you'll turn i
 #### 1 - Map of Logan River Watershed 
 1. Make a Location Map (where in Utah is the Logan River Watershed).
 2. Make a map of the Logan River Watershed
-3
+
+
+
 #### 2 - Longitudinal Profile
 1. Produce a **longitudinal profile** graph (distance (meters) vs. elevation (meters)  by pulling a elevation profile of the Logan River from Franklin basin (around  [42.0353,-111.599127](https://goo.gl/maps/qHmhTkBy8H4w7BdK7) down to mouth (around [41.741216, -111.938460](https://goo.gl/maps/vKCdUaMe1im98wTL8)). 
 2. What is the **base-level control** of Logan River today (the feature and its elevation)?
