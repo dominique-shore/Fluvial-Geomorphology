@@ -53,9 +53,9 @@ For the perennial drainage network of the Logan River:
 
 ### Riverscapes Context 
 
-A [Riverscapes Context Project for HUC 16010203 (Little-Bear Logan)](https://data.riverscapes.xyz/#/Anabranch/231a4f46-8df5-4bf2-a344-1c1f0c635ada) from the [Riverscapes Consortium](http://riverscapes.xyz). - *<i class="fa fa-file-archive-o" aria-hidden="true"></i> 446.87 MB Riverscapes Project viewable in with [RAVE AddIN to ArcGIS 10.X](http://rave.riverscapes.xyz)*. This project has the watershed boundary, DEM and drainage network lines (you can also go find them on other USGS and USDA websites), as well as a ton of additional context. You do not *need* this project to do the homework, but if you plan to do it in ArcGIS 10.6 or later (not ArcGIS Pro), this will help.
+A [Riverscapes Context Project for HUC 16010203 (Little-Bear Logan)](https://data.riverscapes.xyz/#/PUBLIC_DATA/96c4925e-262f-4726-a6b9-0a57c52639d3) from the [Riverscapes Consortium](http://riverscapes.xyz). - *<i class="fa fa-file-archive-o" aria-hidden="true"></i> 446.87 MB Riverscapes Project viewable in with [RAVE AddIN to ArcGIS 10.X](http://rave.riverscapes.xyz)*. This project has the watershed boundary, DEM and drainage network lines (you can also go find them on other USGS and USDA websites), as well as a ton of additional context. You do not *need* this project to do the homework, but if you plan to do it in ArcGIS 10.6 or later (not ArcGIS Pro), this will help.
 
-Note you will need [RAVE](http://rave.riverscapes.xyz) to view the project. If you prefer, you can download the [project file from Box here isntead](https://usu.box.com/s/ax4sr9zb6jd43bd0iaz1iw175uubwuwu). 
+
 
 
 
