@@ -8,17 +8,19 @@ weight: 1
 
 You will be performing a variety of morphometrics analyses of the Logan River Watershed (you can substitute any other HUC 10 size watershed of interest, but you are on your own if you go there).
 
-On your website, please make a web-page for module 3 (this is what you'll turn in for Canvas. For the Logan River Watershed (a 10 digit HUC - 1601020303). Your page should have a heading for each of the assignment tasks listed below. I describe the bare minimum you need to include in each task on your page, but you may want to provide additional context. Briefly explain your methods as well. The nubmers are not things that need to be done in order, but make sure all questions are answered.
+On your website, please make a web-page for module 3 (this is what you'll turn in for Canvas. For the Logan River Watershed (a 10 digit HUC - 1601020303). Your page should have a heading for each of the assignment tasks listed below. I describe the bare minimum you need to include in each task on your page, but you may want to provide additional context. Briefly explain your methods as well. Make sure all questions are answered.
 
 ### Assignment Tasks
 
 #### 1 - Map of Logan River Watershed 
-
+1. Make a Location Map (where in Utah is the Logan River Watershed).
+2. Make a map of the Logan River Watershed
+3
 #### 2 - Longitudinal Profile
-1. Produce a **longitiduinal profile** graph (distance (meters) vs. elevation (meters)  by pulling a elevation profile of the Logan River from Franklin basin (around  [42.0353,-111.599127](https://goo.gl/maps/qHmhTkBy8H4w7BdK7) down to mouth (around [41.741216, -111.938460](https://goo.gl/maps/vKCdUaMe1im98wTL8)). 
+1. Produce a **longitudinal profile** graph (distance (meters) vs. elevation (meters)  by pulling a elevation profile of the Logan River from Franklin basin (around  [42.0353,-111.599127](https://goo.gl/maps/qHmhTkBy8H4w7BdK7) down to mouth (around [41.741216, -111.938460](https://goo.gl/maps/vKCdUaMe1im98wTL8)). 
 2. What is the **base-level control** of Logan River today (the feature and its elevation)?
 3. What was the **base-level control** of the Logan River about 18,000 years ago (feature and elevation)? 
-4. What is the **mainstem length**of the  Logan River in kilometers?
+4. What is the **mainstem length** of the  Logan River in kilometers?
 5. What is the **concavity** (show calculation)?
 6. Label any **knickpoints** (if present) and pose a working hypothesis about the controls?
 
@@ -27,10 +29,22 @@ On your website, please make a web-page for module 3 (this is what you'll turn i
 For the Logan River Watershed:
 1. What is its **catchment length** in meters? 
 2. What is its ** catchment area** in square meters and in square kilometers?
-3. What is the the ** catchment pereimeter length** in meters and kilometers?
+3. What is the the ** catchment perimeter length** in meters and kilometers?
 4. Calculate the **circularity ratio**.
-2. Calculate the **elongation ratio**.
-3. What is the **catchment length**? 
+5. Calculate the **elongation ratio**.
+6. Calculate the **form factor** of the Logan River Watershed.
+7. What is the **catchment relief** of the Logan River Watershed?
+8.  What is the **relief ratio** of the Logan River Watershed? 
+9.  What is the  **drainage density** of the Logan River perennial drainage network?
+10.  What is the **drainage pattern** of the Logan River drainage network?
+
+#### 4 - Stream Order
+For the perennial drainage network of the Logan River:
+1. What is the **stream order** of the Logan River at its mouth?
+2. What is the **stream order** of Temple Fork at its mouth?
+3. What is the **stream order** of Beaver Creek?
+4. Does the Logan River appear to obey the **Hortonian laws of stream network composition**?
+
 
 
 ## Resources
