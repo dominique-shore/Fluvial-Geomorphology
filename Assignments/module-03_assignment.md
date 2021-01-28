@@ -57,6 +57,17 @@ A [Riverscapes Context Project for HUC 16010203 (Little-Bear Logan)](https://dat
 
 
 
+### Shapefiles Prepped
+There are three files in this [LoganShapefiles+KMZ.zip ](https://usu.instructure.com/files/79945548/download?download_frd=1) <i class="fa fa-file-archive-o" aria-hidden="true"></i> file:
+- `LoganRiver_Only.shp` - From the NHD in the context file, this has been clipped to just the mainstem for which you need to extract a profile.
+- `Logan_PerrenialNetwork.shp`-  From the NHD in the context file, this has been clipped to just the perrinal portion of the network you'll need for drainage density.
+- `LoganWatershed_1601020303.shp` -  From the HUC 8 Watershed, just the HUC 10 for the Logan.
+
+## Google Earth Files
+If you want to work in [Google Earth Pro](https://www.google.com/earth/versions/download-thank-you/?usagestats=1), here are the three prepped shapefiles from above in one KMZ:
+- ['Logan River Watershed Prepped.kmz'](https://usu.instructure.com/files/79945761/download?download_frd=1)
+
+
 
 
 ------
