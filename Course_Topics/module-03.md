@@ -63,7 +63,7 @@ We cover Module 2 and [Chapter 2](https://ebookcentral-proquest-com.dist.lib.usu
   </div>
 </div>
 
-### Corresponding Chapter in Course Text
+## Corresponding Chapter in Course Text
 <a href="https://www.wiley.com/en-au/Geomorphic+Analysis+of+River+Systems%3A+An+Approach+to+Reading+the+Landscape-p-9781405192743"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/ReadingLandscape.png"></a>  From:
 Fryirs KA, Brierley GA. 2013. [Geomorphic Analysis of River Systems: An Approach to Reading the Landscape](https://www.wiley.com/en-au/Geomorphic+Analysis+of+River+Systems%3A+An+Approach+to+Reading+the+Landscape-p-9781405192743), First Edition.  Blackwell Publishing Ltd.: Chichester, U.K.
 
@@ -71,7 +71,7 @@ This module focus on:  [CHAPTER THREE: Catchment-scale controls on river geomorp
 
 
 
-### Relevant or Cited Literature
+## Relevant or Cited Literature
 Follow up *selected readings* suggested by Fryris and Brierley (2013) are provided for every chapter in page 328-3334 of the text book. 
 
 
