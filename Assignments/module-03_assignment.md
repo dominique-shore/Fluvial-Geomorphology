@@ -58,26 +58,16 @@ A [Riverscapes Context Project for HUC 16010203 (Little-Bear Logan)](https://dat
 
 
 ### Shapefiles Prepped
-There are three files in this [LoganShapefiles+KMZ.zip ](https://usu.instructure.com/files/79945548/download?download_frd=1) <i class="fa fa-file-archive-o" aria-hidden="true"></i> file:
+There are three files in this [LoganShapefiles+KMZ.zip ](https://usu.instructure.com/files/79946836/download?download_frd=1) <i class="fa fa-file-archive-o" aria-hidden="true"></i> file:
 - `LoganRiver_Only.shp` - From the NHD in the context file, this has been clipped to just the mainstem for which you need to extract a profile.
 - `Logan_PerrenialNetwork.shp`-  From the NHD in the context file, this has been clipped to just the perrinal portion of the network you'll need for drainage density.
 - `LoganWatershed_1601020303.shp` -  From the HUC 8 Watershed, just the HUC 10 for the Logan.
 
-## Google Earth Files
+### Google Earth Files
 If you want to work in [Google Earth Pro](https://www.google.com/earth/versions/download-thank-you/?usagestats=1), here are the three prepped shapefiles from above in one KMZ:
-- ['Logan River Watershed Prepped.kmz'](https://usu.instructure.com/files/79945761/download?download_frd=1)
+- [Logan River Watershed Prepped.kmz](https://usu.instructure.com/files/79946820/download?download_frd=1)
 
-
-
-
-------
-
-## Resources
-
-## Lecture Videos, Slides & Handouts
-
-We cover Module 2 and [Chapter 2](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=25)  in about 1.5 hours of lecture. A few topics we will discuss in class. 
-
+### How to:
 <div class="row small-up-2 medium-up-2">
 
 
@@ -86,15 +76,15 @@ We cover Module 2 and [Chapter 2](https://ebookcentral-proquest-com.dist.lib.usu
 
 
       <div class="card-section">
-        <h4>Entire Lecture Playlist</h4>
+        <h4>Open Riverscapes Project in GIS with RAVE</h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzJwx_00rfvJOBjTy6hyQiRh" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QLboT-YJw-I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 
 </div>
-<i class="fa fa-clock-o" aria-hidden="true"></i> 1 hour  5 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+<i class="fa fa-clock-o" aria-hidden="true"></i> < 20 minutes (first 7 all you actually need) <i class="fa fa-youtube-play" aria-hidden="true"></i>
       </div>
     </div>
   </div>
@@ -104,12 +94,12 @@ We cover Module 2 and [Chapter 2](https://ebookcentral-proquest-com.dist.lib.usu
 
 
       <div class="card-section">
-        <h4>Slides</h4>
-    <div align="center">
-        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_03_CatchmentControls.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/Module03.png"></a>
+        <h4> Open KMZs in Google Earth Pro and view Profile</h4>
+    <div class="responsive-embed">
+        	<iframe width="560" height="315" src="https://www.youtube.com/embed/Uhbob-qacso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         	</div>
         
-        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_03_CatchmentControls.pdf" target="_blank">Module 3  - Slides</a>
+        <br><br> <i class="fa fa-clock-o" aria-hidden="true"></i> < 4  minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
         
       </div>
     </div>
@@ -118,4 +108,5 @@ We cover Module 2 and [Chapter 2](https://ebookcentral-proquest-com.dist.lib.usu
 </div>
 
 
+------
 
