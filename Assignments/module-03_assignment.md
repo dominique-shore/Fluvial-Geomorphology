@@ -8,15 +8,13 @@ weight: 1
 
 You will be performing a variety of morphometrics analyses of the Logan River Watershed.
 
-On your website, please make a web-page for module 3 (this is what you'll turn in for Canvas. For the Logan River Watershed (a 10 digit HUC - 1601020303). Your page should have a heading for each of the assignment tasks listed below. I describe the bare minimum you need to include in each task on your page, but you may want to provide additional context. Briefly explain your methods as well. Make sure all questions are answered.
+On your website, please make a web-page for [module 3]({{ site.baseurl }}/Fluvial-Geomorphology/Course_Topics/module-03.html) (this is what you'll turn in for Canvas. For the Logan River Watershed (a 10 digit HUC - 1601020303). Your page should have a heading for each of the assignment tasks listed below. I describe the bare minimum you need to include in each task on your page, but you may want to provide additional context. Briefly explain your methods as well. Make sure all questions are answered.
 
 ### Assignment Tasks
 
 #### 1 - Map of Logan River Watershed 
-1. Make a Location Map (where in Utah is the Logan River Watershed).
+1. Make a Location Map (where in Utah is the Logan River Watershed; can skip if you make an interactive embedded map in step 2).
 2. Make a map of the Logan River Watershed
-
-
 
 #### 2 - Longitudinal Profile
 1. Produce a **longitudinal profile** graph (distance (meters) vs. elevation (meters)  by pulling a elevation profile of the Logan River from Franklin basin (around  [42.0353,-111.599127](https://goo.gl/maps/qHmhTkBy8H4w7BdK7) down to mouth (around [41.741216, -111.938460](https://goo.gl/maps/vKCdUaMe1im98wTL8)). 
@@ -47,15 +45,21 @@ For the perennial drainage network of the Logan River:
 3. What is the **stream order** of Beaver Creek?
 4. Does the Logan River appear to obey the **Hortonian laws of stream network composition**?
 
+----------
+## Tips
+You can get carried away with this assignment. I wouldn't recommend starting there. What's the minimum reasonable method you could use to make the above measurements and calculations? Some of you are experienced GIS users, others are not. So the answer will be different for each of you.
+- Yes, learning how to do all this in GIS is helpful. However, there are a ton of tricks to get everything in the right units and make sure you are getting exactly what you want. The precision is nice, but not necessary here. If you need a [refresher on GIS, see here](http://gis.joewheaton.org/topics/introgis). 
+- You can do this entire assignment from the [USGS National Map Viewer](https://viewer.nationalmap.gov/advanced-viewer/) or a paper or PDF [Topo Quad](https://www.sciencebase.gov/catalog/item/5e3bc574e4b0edb47bdf09b6)
+- You can do some of this assignment from Google Earth
 
-
+------------------------
 ## Resources
 
 ### Riverscapes Context 
 
 A [Riverscapes Context Project for HUC 16010203 (Little-Bear Logan)](https://data.riverscapes.xyz/#/PUBLIC_DATA/96c4925e-262f-4726-a6b9-0a57c52639d3) from the [Riverscapes Consortium](http://riverscapes.xyz). - *<i class="fa fa-file-archive-o" aria-hidden="true"></i> 446.87 MB Riverscapes Project viewable in with [RAVE AddIN to ArcGIS 10.X](http://rave.riverscapes.xyz)*. This project has the watershed boundary, DEM and drainage network lines (you can also go find them on other USGS and USDA websites), as well as a ton of additional context. You do not *need* this project to do the homework, but if you plan to do it in ArcGIS 10.6 or later (not ArcGIS Pro), this will help.
 
-
+### 
 
 ### Shapefiles Prepped
 There are three files in this [LoganShapefiles+KMZ.zip ](https://usu.instructure.com/files/79946836/download?download_frd=1) <i class="fa fa-file-archive-o" aria-hidden="true"></i> file:
