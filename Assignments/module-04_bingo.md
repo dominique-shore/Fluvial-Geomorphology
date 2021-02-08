@@ -16,7 +16,7 @@ In normal Bingo you all get different bingo cards. Here, you have four  bingo ca
 The way you record your processes will be as follows:
 Show on your web page, which bingo cell you are reporting. Keep a running list of all cells below as sub-heading sub-sections in which you:
 - denote the process you are reporting
-- provide a one sentence defintion of process
+- provide a one sentence definition of process
 - show us the process (preferably a video narrated) in action (or a very well annotated photo or series of photos) from your own local field observations.
 - explain why you think it is that process
 
@@ -29,31 +29,31 @@ All have the same mix of processes... just in order. Choose one, and stick to it
 ### Card 1
 
 | drizzle (precipitation) | sheet flow (interill) | pipeflow                          | infiltration         | percolation       |
-| overbank flow           | snow througfall       | infiltration excess overland flow | throughflow          | snow accumulation |
-| rain (precipitation)    | base flow             | through flow                      | snow (precipitation) | condensation      |
+| overbank flow           | snow throughfall       | infiltration excess overland flow | throughflow          | snow accumulation |
+| rain (precipitation)    | base flow             | throughflow                      | snow (precipitation) | condensation      |
 | sublimation             | interception          | saturation excess overland flow   | evaporation          | bankfull flow     |
 | gully flow              | stemflow              | subsurface stormflow              | rill flow            | return flow       |
 
 ### Card 2
 
 | sublimation             | condensation          | saturation excess overland flow   | evaporation          | interception    |
-| overbank flow           | bankfull flow         | infiltration excess overland flow | gully flow           | snow througfall |
+| overbank flow           | bankfull flow         | infiltration excess overland flow | gully flow           | snow throughfall |
 | stemflow                | snow accumulation     | subsurface stormflow              | rill flow            | return flow     |
 | drizzle (precipitation) | sheet flow (interill) | pipeflow                          | infiltration         | percolation     |
-| rain (precipitation)    | throughflow           | through flow                      | snow (precipitation) | base flow       |
+| rain (precipitation)    | throughflow           | throughflow                      | snow (precipitation) | base flow       |
 
 ### Card 3
 
 | sublimation             | interception          | saturation excess overland flow   | evaporation          | bankfull flow     |
-| overbank flow           | snow througfall       | infiltration excess overland flow | throughflow          | snow accumulation |
+| overbank flow           | snow throughfall       | infiltration excess overland flow | throughflow          | snow accumulation |
 | gully flow              | stemflow              | subsurface stormflow              | rill flow            | return flow       |
 | drizzle (precipitation) | sheet flow (interill) | pipeflow                          | infiltration         | percolation       |
-| rain (precipitation)    | base flow             | through flow                      | snow (precipitation) | condensation      |
+| rain (precipitation)    | base flow             | throughflow                      | snow (precipitation) | condensation      |
 
 ### Card 4
 
 | drizzle (precipitation) | sheet flow (interill) | pipeflow                          | infiltration         | percolation     |
-| overbank flow           | bankfull flow         | infiltration excess overland flow | gully flow           | snow througfall |
+| overbank flow           | bankfull flow         | infiltration excess overland flow | gully flow           | snow throughfall |
 | stemflow                | snow accumulation     | subsurface stormflow              | rill flow            | return flow     |
 | rain (precipitation)    | throughflow           | through flow                      | snow (precipitation) | base flow       |
 | sublimation             | condensation          | saturation excess overland flow   | evaporation          | interception    |
