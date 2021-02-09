@@ -57,3 +57,27 @@ All have the same mix of processes... just in order. Choose one, and stick to it
 | stemflow                | snow accumulation     | subsurface stormflow              | rill flow            | return flow     |
 | rain (precipitation)    | throughflow           | through flow                      | snow (precipitation) | base flow       |
 | sublimation             | condensation          | saturation excess overland flow   | evaporation          | interception    |
+
+------------
+## Bingo Pages
+### 2021 Class
+Thanks to everyone for sharing their Bingo Pages:
+
+- [Triton Abeyta](https://sites.google.com/view/tritonabeytawats5150/module-4)
+- [Jens Ammon](https://jensammon5.wixsite.com/jens/field-notes)
+- [Alec Andretti](https://sites.google.com/d/1IBDElw-fjeHXFKm5ndgJHb4ZgG-1-6TR/p/1hgyfsrGpYBBqErOpti-4AdS-aQS6RPkm/edit)
+- [Gabe Benitez](https://gavabe45.wixsite.com/website/post/module-4-field-notebook-hydrology-bingo)
+- Bryce Bollinger
+- [Haley Canham](https://sites.google.com/aggiemail.usu.edu/hcanham-fluvial/home/module-4)
+- [Amy Carmellini](https://sites.google.com/aggiemail.usu.edu/fluv/projects/hydrology-bingo)
+- [Jeffrey Chandler](https://sites.google.com/view/jeffreycgeomorphology/projectsassingmnets/bingo-assignment)
+- [Casey Choate](https://cchoate2.wixsite.com/fluvial/field-notebook-copy)
+- [Daniel Cremin-Thurber](https://danielthurber.weebly.com/fluvial-geomorphology/hydrology-bingo)
+- [Denny Haynes](https://fluvialhaynes.weebly.com/hydrology-bingo.html)
+- [Lauren Herbine](https://sites.google.com/aggiemail.usu.edu/lauren-herbine-fluvgeomorph/field-notebook/hydrology-bingo?authuser=1)
+- [Megh Raj](https://fluvialtalk.weebly.com/module-4---bingo.html)
+- [Carter Lybeck](https://sites.google.com/view/fluvialgeomorphology/field-notebook/hydrology-bingo)
+- [Kathryn Ann Margetts](https://sites.google.com/view/field-observations/projectsassignments/assignment-3-hydrologic-processes)
+- [Manisha Panthi](https://waterinaction.wordpress.com/lets-play/)
+- [Anna Paulding](https://geology3a.weebly.com/hydrology-bingo.html)
+- [Shelby Sawyer](https://sites.google.com/view/shelbysawyer/projects-assignments/bingo)
