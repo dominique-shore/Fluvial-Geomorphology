@@ -92,7 +92,7 @@ We mentioned the following in discussion:
 This was experimental work Christian Braudrick did and his featured in this article:
 - Braudrick CA, Dietrich WE, Leverich GT, Sklar LS. 2009. [Experimental evidence for the conditions necessary to sustain meandering in coarse-bedded rivers](http://dx.doi.org/10.1073/pnas.0909417106). Proceedings of the National Academy of Sciences of the United States of America 106 : 16936–16941. DOI: [10.1073/pnas.0909417106](http://dx.doi.org/10.1073/pnas.0909417106)
 
-
+See this [Physics.org](https://phys.org/news/2009-10-alfalfa-line-meandering-streams-video.html) article for a video. I could not find the NPR version of the video.
 
 The work in the NPR article of Christian was based off of earlier [work](https://pubs.geoscienceworld.org/gsa/geology/article-abstract/35/4/347/129823/Dynamic-single-thread-channels-maintained-by-the?redirectedFrom=fulltext) by Michal Tal ([Tal and Paoloa, 2007](https://pubs.geoscienceworld.org/gsa/geology/article-abstract/35/4/347/129823/Dynamic-single-thread-channels-maintained-by-the?redirectedFrom=fulltext)). Here's one of her experiments:
 
