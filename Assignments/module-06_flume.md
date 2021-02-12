@@ -82,3 +82,19 @@ Here is a shared [Google Album](https://photos.app.goo.gl/bBndwsfLFUVFdUb66). If
 
 Some videos Joe took:
 <div class="responsive-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzJe6tlN7uox9VZSyWN3ks0K" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
+## Recipe for a Meandering River
+
+We mentioned the following in discussion:
+
+<iframe src="https://www.npr.org/player/embed/113435517/113435493" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
+
+This was experimental work Christian Braudrick did and his featured in this article:
+- Braudrick CA, Dietrich WE, Leverich GT, Sklar LS. 2009. [Experimental evidence for the conditions necessary to sustain meandering in coarse-bedded rivers](http://dx.doi.org/10.1073/pnas.0909417106). Proceedings of the National Academy of Sciences of the United States of America 106 : 16936–16941. DOI: [10.1073/pnas.0909417106](http://dx.doi.org/10.1073/pnas.0909417106)
+
+
+
+The work in the NPR article of Christian was based off of earlier [work](https://pubs.geoscienceworld.org/gsa/geology/article-abstract/35/4/347/129823/Dynamic-single-thread-channels-maintained-by-the?redirectedFrom=fulltext) by Michal Tal ([Tal and Paoloa, 2007](https://pubs.geoscienceworld.org/gsa/geology/article-abstract/35/4/347/129823/Dynamic-single-thread-channels-maintained-by-the?redirectedFrom=fulltext)). Here's one of her experiments:
+
+<iframe src="https://widgets.figshare.com/articles/12339878/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
+
