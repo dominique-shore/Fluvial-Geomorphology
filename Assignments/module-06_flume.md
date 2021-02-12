@@ -75,5 +75,10 @@ Answer (in up to a  paragraph or so and with illustrations if helpful):
 # Resources
 
 
-# Album
+## Album
 Here is a shared [Google Album](https://photos.app.goo.gl/bBndwsfLFUVFdUb66). If any of your pictures or videos didn't capture everything you need above, you can borrow from here. Please feel  free to contribute and share your own. Others may see different things in the same videos!
+
+## GoPro Videos
+
+Some videos Joe took:
+<div class="responsive-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzJe6tlN7uox9VZSyWN3ks0K" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
