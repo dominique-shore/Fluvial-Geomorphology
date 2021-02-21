@@ -7,9 +7,9 @@ weight: 5
 ## Background
 
 ### Why we're covering it
-A major part of reading local riverscapes is reading the water and flow. Often times, we make our observations at relatively low flows, when geomorphic work is not necessarily being done. However, the skillset for reading water at low-flows is the same for reading them at competnent flows (e.g. high flows) when geomorphic work is being done. Moreover, many of the local controls on flow paterns are the same or similar for low and high flows, and you can infer what might be taking place at those higher flows.
+A major part of reading local riverscapes is reading the water and flow. Often times, we make our observations at relatively low flows, when geomorphic work is not necessarily being done. However, the skillset for reading water at low-flows is the same for reading them at competent flows (e.g. high flows) when geomorphic work is being done. Moreover, many of the local controls on flow patterns are the same or similar for low and high flows, and you can infer what might be taking place at those higher flows.
 
-Hydraulics is the study of mechanics of water flow and from our perspective the battle betwee the imelling forces of fluid flow, interacting with various resisting forces. The impelling forces have a lot of potential energy, that from the perspective of a geomorphologist, have the potential to do work. As water flows through a riverscape, it converts that potential energy into kintetic energy, but then a lot of energy is expedned on things that do not do geomorphic work (e.g. friction losses creating heat, or air entrainment producing bubbles). As geomorphologists, we're interested in those  times when their is excess energy to do geomorphic work. 
+Hydraulics is the study of mechanics of water flow and from our perspective the battle between the impelling forces of fluid flow, interacting with various resisting forces. The impelling forces have a lot of potential energy, that from the perspective of a geomorphologist, have the potential to do work. As water flows through a riverscape, it converts that potential energy into kinetic energy, but then a lot of energy is expended on things that do not do geomorphic work (e.g. friction losses creating heat, or air entrainment producing bubbles). As geomorphologists, we're interested in those  times when their is excess energy to do geomorphic work. 
 
 ### [Learning Outcomes]({{ site.baseurl }}/syllabus/#course-objectives)
 
@@ -63,6 +63,7 @@ We cover Module 5 and [Chapter 5](https://ebookcentral-proquest-com.dist.lib.usu
 
   </div>
 </div>
+----------------
 
 ### Corresponding Chapter in Course Text
 <a href="https://www.wiley.com/en-au/Geomorphic+Analysis+of+River+Systems%3A+An+Approach+to+Reading+the+Landscape-p-9781405192743"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/ReadingLandscape.png"></a>  From:
@@ -75,12 +76,55 @@ This module focus on: [CHAPTER FIVE: Impelling and resisting forces in river sys
 ### Relevant or Cited Literature
 Follow up *selected readings* suggested by Fryris and Brierley (2013) are provided for every chapter in page 328-3334 of the text book. 
 
-### Other Resources or Classes
+###  Classes
 
 On this campus ,we have several follow up classes where you can learn more about hydraulics:
 - CEE 3500 – [Fluid Mechanics](https://catalog.usu.edu/preview_course_nopop.php?catoid=12&coid=88370)
 - CEE 3510 – [Eng. Hydraulics](https://catalog.usu.edu/preview_course_nopop.php?catoid=12&coid=88371)
-- WATS  6900 –[Sed Transport w/ Open Channel Flow (Fall)
+- WATS  6900 –Sed Transport w/ Open Channel Flow (Fall)
 - WATS 6900 – [Sediment Transport in Restoration Design](https://qcnr.usu.edu/courses/sediment_transport?_ga=2.81523679.997753614.1612541789-2075134736.1603320200)
 
 
+#### Measureing Discharge
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Wolman Pebble Count
+</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dNmzVx1oHL0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 14minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> from 
+USFS
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Sampling Sediment in Field</h4>
+      <div class="responsive-embed"> 
+        	<iframe width="560" height="315" src="https://www.youtube.com/embed/uBfIH0r5J1A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        	</div>
+        
+         <i class="fa fa-clock-o" aria-hidden="true"></i> 35inutes <i class="fa fa-youtube-play" aria-hidden="true"></i> from 
+Bill Annable
+        
+      </div>
+    </div>
+
+  </div>
+</div>

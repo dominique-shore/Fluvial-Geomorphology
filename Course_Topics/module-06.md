@@ -33,7 +33,7 @@ This corresponds to the first two sections of the chapter (pages 81-84).  There 
 
 
       <div class="card-section">
-        <h4>Entire Lecture Playlist</h4>
+        <h4>Part 1 - Lecture Playlist</h4>
         <div class="responsive-embed"> 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzLekoRwUqgXk7RXQJh6neox" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -56,7 +56,7 @@ This corresponds to the first two sections of the chapter (pages 81-84).  There 
         	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_06_FluvialGeomorphicProcesses_Part1.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/Module06-1.png"></a>
         	</div>
         
-        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_06_FluvialGeomorphicProcesses_Part1.pdf" target="_blank">Module 5  - Slides</a>
+        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_06_FluvialGeomorphicProcesses_Part1.pdf" target="_blank">Module 6  - Slides</a>
         
       </div>
     </div>
@@ -64,6 +64,49 @@ This corresponds to the first two sections of the chapter (pages 81-84).  There 
   </div>
 </div>
 
+### Hjulström Diagram & Sediment Entrainment  - Slides & Handouts (Part 2)
+
+This corresponds to the next two sections of the chapter (pages 84-87).  
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Part 2 - Lecture Playlist</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzIysyhqCkZUxiV5kbENxHQF" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 45 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_06_FluvialGeomorphicProcesses_Part2.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/Module06-2.png"></a>
+        	</div>
+        
+        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_06_FluvialGeomorphicProcesses_Part2.pdf" target="_blank">Module 6 - Part 2  - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
+-------------
 ### Corresponding Chapter in Course Text
 <a href="https://www.wiley.com/en-au/Geomorphic+Analysis+of+River+Systems%3A+An+Approach+to+Reading+the+Landscape-p-9781405192743"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/ReadingLandscape.png"></a>  From:
 Fryirs KA, Brierley GA. 2013. [Geomorphic Analysis of River Systems: An Approach to Reading the Landscape](https://www.wiley.com/en-au/Geomorphic+Analysis+of+River+Systems%3A+An+Approach+to+Reading+the+Landscape-p-9781405192743), First Edition.  Blackwell Publishing Ltd.: Chichester, U.K.
@@ -73,9 +116,102 @@ This module focus on: [CHAPTER SIX: Sediment movement and deposition in river sy
 ### Relevant or Cited Literature
 Follow up *selected readings* suggested by Fryris and Brierley (2013) are provided for every chapter in page 328-3334 of the text book. 
 
-### Other Resources & Classes
+----------------
 
-Here at USU, we offer the following advanced classes.
+###  Classes
 
-Our very own Peter Wilcock is one of the world's leading sediment transport experts.  
+Here at USU, we offer the following advanced classes on sediment transport:
+- WATS  6900 – Sed Transport w/ Open Channel Flow (Fall)
+- WATS 6900 – [Sediment Transport in Restoration Design](https://qcnr.usu.edu/courses/sediment_transport) (Summer)
+- CEE 5470/ 6470 - [Sedimentation Engineering](https://engineering.usu.edu/cee/students/requirements/rivers)
 
+Our very own [Peter Wilcock](https://qcnr.usu.edu/directory/wilcock_peter.php) is one of the world's leading sediment transport experts.  
+
+### Other Resources
+
+#### Sampling Sediment in Field
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Wolman Pebble Count
+</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dNmzVx1oHL0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 14minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> from 
+USFS
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Sampling Sediment in Field</h4>
+      <div class="responsive-embed"> 
+        	<iframe width="560" height="315" src="https://www.youtube.com/embed/uBfIH0r5J1A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        	</div>
+        
+         <i class="fa fa-clock-o" aria-hidden="true"></i> 35inutes <i class="fa fa-youtube-play" aria-hidden="true"></i> from 
+Bill Annable
+        
+      </div>
+    </div>
+
+  </div>
+</div>
+#### Sediment Transport & Entrainment Lectures
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Sediments within fluid flows, Bernoulli effect, Hjulstrom diagram, Stokes law
+</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D5niYSwwXsk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 10 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> from 
+Geologia da Terra
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Sediment Transport</h4>
+      <div class="responsive-embed"> 
+        	<iframe width="560" height="315" src="https://www.youtube.com/embed/kKXd0dv6ae4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        	</div>
+        
+         <i class="fa fa-clock-o" aria-hidden="true"></i> 11 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> from 
+Matthew Clapham
+        
+      </div>
+    </div>
+
+  </div>
+</div>
