@@ -85,7 +85,7 @@ On this campus ,we have several follow up classes where you can learn more about
 - WATS 6900 – [Sediment Transport in Restoration Design](https://qcnr.usu.edu/courses/sediment_transport?_ga=2.81523679.997753614.1612541789-2075134736.1603320200)
 
 
-#### Measureing Discharge
+#### Measuring Discharge
 
 <div class="row small-up-2 medium-up-2">
 
@@ -95,17 +95,17 @@ On this campus ,we have several follow up classes where you can learn more about
 
 
       <div class="card-section">
-        <h4>Wolman Pebble Count
+        <h4>Cross Section Survey
 </h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dNmzVx1oHL0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0c83YDo01ck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 
 </div>
-<i class="fa fa-clock-o" aria-hidden="true"></i> 14minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> from 
-USFS
+<i class="fa fa-clock-o" aria-hidden="true"></i> 25minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> from 
+Bill Annable
       </div>
     </div>
   </div>
@@ -115,12 +115,12 @@ USFS
 
 
       <div class="card-section">
-        <h4>Sampling Sediment in Field</h4>
+        <h4>Measuring Discharge</h4>
       <div class="responsive-embed"> 
-        	<iframe width="560" height="315" src="https://www.youtube.com/embed/uBfIH0r5J1A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        	<iframe width="560" height="315" src="https://www.youtube.com/embed/dK6b2hmw7Vo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         	</div>
         
-         <i class="fa fa-clock-o" aria-hidden="true"></i> 35inutes <i class="fa fa-youtube-play" aria-hidden="true"></i> from 
+         <i class="fa fa-clock-o" aria-hidden="true"></i> 35 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> from 
 Bill Annable
         
       </div>

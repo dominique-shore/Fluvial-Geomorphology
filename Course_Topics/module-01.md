@@ -8,7 +8,7 @@ weight: 1
 
 ### Why we're covering it
 
-This introductory chapter introduces the organizing framework for how we will approach studying fluvial geomorphology - geomorphic analysis. Another phrase for geomorphic analysis is *reading the landcape*, and in our case of fluvial geomorphic anlalysis, we will focus on *reading riverscapes*. 
+This introductory chapter introduces the organizing framework for how we will approach studying fluvial geomorphology - geomorphic analysis. Another phrase for geomorphic analysis is *reading the landscape, and in our case of fluvial geomorphic analysis, we will focus on *reading riverscapes*. 
 
 ### [Learning Outcomes]({{ site.baseurl }}/syllabus/#course-objectives)
 
@@ -67,5 +67,49 @@ This module focus on: [CHAPTER ONE: Geomorphic analysis of river systems: an app
 ### Relevant or Cited Literature
 Follow up *selected readings* suggested by Fryris and Brierley (2013) are provided for every chapter in page 328-334 of the text book. 
 
+### Other Resources
 
+#### Field Safety
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>River Wading Safely
+</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q3FbacAazd4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 12 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> from 
+Bill Annable
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Field Observations and Safety this Semester</h4>
+      <div class="responsive-embed"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzIht40Xxkb-ckpLPvbuzSo5" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        	</div>
+        
+         <i class="fa fa-clock-o" aria-hidden="true"></i> 10 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> from 
+Joe Wheaton
+        
+      </div>
+    </div>
+
+  </div>
+</div>
 
