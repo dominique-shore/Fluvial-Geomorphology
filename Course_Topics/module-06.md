@@ -139,10 +139,10 @@ This corresponds to next two sections of the chapter (pages 88-102).
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/WATS5150_Module_06_FluvialGeomorphicProcesses_Part3.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/Module06-3.png"></a>
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_06_FluvialGeomorphicProcesses_Part3.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/Module06-3.png"></a>
         	</div>
         
-        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/WATS5150_Module_06_FluvialGeomorphicProcesses_Part3.pdf" target="_blank">Module 6  - Slides</a>
+        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_06_FluvialGeomorphicProcesses_Part3.pdf" target="_blank">Module 6  - Slides</a>
         
       </div>
     </div>
