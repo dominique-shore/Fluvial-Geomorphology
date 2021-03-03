@@ -149,6 +149,49 @@ This corresponds to next two sections of the chapter (pages 88-102).
 
   </div>
 </div>
+
+### Sediment Deposition and Interpreting Sediment Sequences as a Tool to Read Riverscapes (Part 4)
+
+This corresponds to next two sections of the chapter (pages 102-114).   
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Part 4 - Lecture Playlist</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzJSfB15R9jK_vysiylXdwOQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 17 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_06_FluvialGeomorphicProcesses_Part4.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/Module06-4.png"></a>
+        	</div>
+        
+        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_06_FluvialGeomorphicProcesses_Part4.pdf" target="_blank">Module 6  - Part 4 Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
 -------------
 ### Corresponding Chapter in Course Text
 <a href="https://www.wiley.com/en-au/Geomorphic+Analysis+of+River+Systems%3A+An+Approach+to+Reading+the+Landscape-p-9781405192743"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/ReadingLandscape.png"></a>  From:
