@@ -127,7 +127,7 @@ This corresponds to next two sections of the chapter (pages 88-102).
 
 
 </div>
-<i class="fa fa-clock-o" aria-hidden="true"></i> 30 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 30 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i><br> Note <em>§ Material Properties that Affect Sediment Movement</em> was covered in class lecture.
       </div>
     </div>
   </div>
@@ -170,7 +170,7 @@ This corresponds to next two sections of the chapter (pages 102-114).
 
 
 </div>
-<i class="fa fa-clock-o" aria-hidden="true"></i> 17 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 17 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> <br> Note § <em>Interpreting Sediment Sequences as a Tool to Read Riverscapes</em>  was covered in class lecture.
       </div>
     </div>
   </div>
@@ -185,7 +185,7 @@ This corresponds to next two sections of the chapter (pages 102-114).
         	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_06_FluvialGeomorphicProcesses_Part4.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/Module06-4.png"></a>
         	</div>
         
-        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_06_FluvialGeomorphicProcesses_Part4.pdf" target="_blank">Module 6  - Part 4 Slides</a>
+        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_06_FluvialGeomorphicProcesses_Part4.pdf" target="_blank">Module 6  - Part 4 Slides</a> 
         
       </div>
     </div>
