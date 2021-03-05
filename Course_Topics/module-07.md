@@ -6,9 +6,7 @@ weight: 7
 
 ## Background
 
-### Why we're covering it
-
-d
+Channel geometry refers to the three dimensional form of the channel, which we capture quantitatively with topographic surveys. The net change in topography from erosion and deposition through time are channel adjustments and we will explore how we measure and quantify those adjustments.
 
 ### [Learning Outcomes]({{ site.baseurl }}/syllabus/#course-objectives)
 
@@ -29,11 +27,49 @@ d
 ## Resources
 
 ### Slides & Handouts
+#### Part 1 - 
+Check Back Soon
+#### Part 2 - 
+Check Back Soon
+#### Part 3 - Topographic Surveys, Geomorphic Change Detection and your Homework
 
-[Lecture Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2018/Week2_WATS_5350.pdf)
+<div class="row small-up-2 medium-up-2">
 
-<div class="responsive-embed">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTEBwDZh8uD2FbT5guSppFsszlSr5qZ77t7X49_ZkOhPNHNyek1X7MOltB7XEcJHP4WG2Q_4Zl-UQZp/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Part 3 - Lecture Playlist</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzKLa9vIr0mGI1CwxoCXpi8S" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 35 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_07_ChannelGeomertry_Part3.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/Module07-3.png"></a>
+        	</div>
+        
+        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_07_ChannelGeomertry_Part3.pdf" target="_blank">Module 7  - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
 </div>
 
 ### Corresponding Chapter in Course Text
