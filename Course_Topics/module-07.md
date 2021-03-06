@@ -28,7 +28,44 @@ Channel geometry refers to the three dimensional form of the channel, which we c
 
 ### Slides & Handouts
 #### Part 1 - 
-Check Back Soon
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Part 1 - Lecture Playlist</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzLiYfUYTGS71wO9kXPrfLgl" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> xx minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="f" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/Module07-1.png"></a>
+        	</div>
+        
+        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Module 7  - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
 #### Part 2 - 
 Check Back Soon
 #### Part 3 - Topographic Surveys, Geomorphic Change Detection and your Homework
