@@ -44,7 +44,7 @@ Channel geometry refers to the three dimensional form of the channel, which we c
 
 
 </div>
-<i class="fa fa-clock-o" aria-hidden="true"></i> xx minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 42 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
       </div>
     </div>
   </div>
