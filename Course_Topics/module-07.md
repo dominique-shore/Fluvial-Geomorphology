@@ -27,7 +27,7 @@ Channel geometry refers to the three dimensional form of the channel, which we c
 ## Resources
 
 ### Slides & Handouts
-#### Part 1 - 
+#### Part 1 -  Intro + Bed & Bank Processes that Influence Channel Shape
 <div class="row small-up-2 medium-up-2">
 
 
@@ -66,8 +66,47 @@ Channel geometry refers to the three dimensional form of the channel, which we c
 
   </div>
 </div>
-#### Part 2 - 
+#### Part 2 - Channel Shape & Hydraulic Geometry
 Check Back Soon
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Part 2 - Lecture Playlist</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzKIfCyGnxhnHBypu34GYDQy" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> xx minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_07_ChannelGeomertry_Part1.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/Module07-2.png"></a>
+        	</div>
+        
+        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_07_ChannelGeomertry_Part1.pdf" target="_blank">Module 7  - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
 #### Part 3 - Topographic Surveys, Geomorphic Change Detection and your Homework
 
 <div class="row small-up-2 medium-up-2">
