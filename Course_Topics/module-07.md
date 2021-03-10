@@ -24,10 +24,10 @@ Channel geometry refers to the three dimensional form of the channel, which we c
 
 ------
 
-## Resources
 
-### Slides & Handouts
-#### Part 1 -  Intro + Bed & Bank Processes that Influence Channel Shape
+
+## Lectures (videos) & Slides
+### Part 1 -  Intro + Bed & Bank Processes that Influence Channel Shape
 <div class="row small-up-2 medium-up-2">
 
 
@@ -66,7 +66,7 @@ Channel geometry refers to the three dimensional form of the channel, which we c
 
   </div>
 </div>
-#### Part 2 - Channel Shape & Hydraulic Geometry
+### Part 2 - Channel Shape & Hydraulic Geometry
 
 <div class="row small-up-2 medium-up-2">
 
@@ -106,7 +106,7 @@ Channel geometry refers to the three dimensional form of the channel, which we c
 
   </div>
 </div>
-#### Part 3 - Topographic Surveys, Geomorphic Change Detection and your Homework
+### Part 3 - Topographic Surveys, Geomorphic Change Detection and your Homework
 
 <div class="row small-up-2 medium-up-2">
 
@@ -146,6 +146,9 @@ Channel geometry refers to the three dimensional form of the channel, which we c
 
   </div>
 </div>
+
+------------
+## Other Resources
 
 ### Corresponding Chapter in Course Text
 <a href="https://www.wiley.com/en-au/Geomorphic+Analysis+of+River+Systems%3A+An+Approach+to+Reading+the+Landscape-p-9781405192743"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/ReadingLandscape.png"></a>  From:
