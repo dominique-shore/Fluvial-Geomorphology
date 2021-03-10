@@ -97,10 +97,10 @@ Check Back Soon
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_07_ChannelGeomertry_Part1.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/Module07-2.png"></a>
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_07_ChannelGeomertry_Part2.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/Module07-2.png"></a>
         	</div>
         
-        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_07_ChannelGeomertry_Part1.pdf" target="_blank">Module 7  - Slides</a>
+        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_07_ChannelGeomertry_Part2.pdf" target="_blank">Module 7  - Slides</a>
         
       </div>
     </div>
