@@ -67,7 +67,6 @@ Channel geometry refers to the three dimensional form of the channel, which we c
   </div>
 </div>
 #### Part 2 - Channel Shape & Hydraulic Geometry
-Check Back Soon
 
 <div class="row small-up-2 medium-up-2">
 
@@ -85,7 +84,7 @@ Check Back Soon
 
 
 </div>
-<i class="fa fa-clock-o" aria-hidden="true"></i> xx minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 37 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
       </div>
     </div>
   </div>
