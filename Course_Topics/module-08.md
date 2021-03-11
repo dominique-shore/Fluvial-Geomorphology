@@ -30,12 +30,12 @@ d
         <h4>Part 1 - Lecture Playlist</h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzLiYfUYTGS71wO9kXPrfLgl" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzKcQ5wAyMaKCGlDGS4s9pIR" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
 
 
 </div>
-<i class="fa fa-clock-o" aria-hidden="true"></i> xx minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 20 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
       </div>
     </div>
   </div>
@@ -47,10 +47,10 @@ d
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/Module08-1.png"></a>
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_08_InstreamForms_Part1.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/Module08-1.png"></a>
         	</div>
         
-        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Module 8  - Slides</a>
+        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_08_InstreamForms_Part1.pdf" target="_blank">Module 8  - Slides</a>
         
       </div>
     </div>
