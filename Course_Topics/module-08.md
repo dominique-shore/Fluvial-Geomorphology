@@ -6,9 +6,8 @@ weight: 8
 
 ## Background
 
-### Why we're covering it
+Geomorphic units are the building blocks of riverscapes and the first step to reading riverscapes. In this unit, we focus on those building blocks that make up the channel. 
 
-d
 
 ### [Learning Outcomes]({{ site.baseurl }}/syllabus/#course-objectives)
 
