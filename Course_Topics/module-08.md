@@ -35,7 +35,7 @@ d
 
 
 </div>
-<i class="fa fa-clock-o" aria-hidden="true"></i> 20 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 30 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
       </div>
     </div>
   </div>
