@@ -56,6 +56,14 @@ Geomorphic units are the building blocks of riverscapes and the first step to re
 
   </div>
 </div>
+
+### Exercises to Complete During Part 3 of Lecture
+
+If you want to print out just the [exercises](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_01_GeomorphicPrinciples_ExercisesOnly.pdf) you can do so below. Note we only use exercise 3, 4 and 5 (no need to print all 7 pages). These are from a [capstone crash course in fluvial geomorphology](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Design_Geomorphic_Principles.html):
+
+<div align="center">
+<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_01_GeomorphicPrinciples_ExercisesOnly.pdf" class="button">Exercise Handout for Print</a>
+</div>
 -----------
 ## Other Resources
 
