@@ -40,7 +40,7 @@ For the first part of this assignment, I want you to do:
 - 1. B Create a [GCD Project](http://gcd.riverscapes.xyz/Concepts/projects.html) (you will bring this to class on Monday and turn this in for Part 2) with at least:
   -  1.B.1: Three of the Five years loaded as surveys (see videos for how to do error modelling)
   - 1.B.2: Two change detections (threshold @ 80% probability) for two of the epochs 
-  - 1.B.3: A budget segregation with at least two examples of the following mechanisms of change identified:
+  - 1.B.3: A budget segregation with at least two examples each of the following mechanisms of change identified:
     - Bank Erosion 
     - Channel Bed Lowering (degradation / incision)
     - Channel Bed Rising (aggradation)
@@ -96,7 +96,16 @@ For more information on budget segregation, see the following GCD Tutorials:
 
 
 ### Part 2 - Turn in a Web Page
-You will prepare a web page explaining what you did and defending your interpretations. We will elaborate on expectations in Monday's class.
+You will prepare a web page explaining what you did and defending your interpretations. Please include clear annotated figure(s) and/or video showing the identification two examples each of these four mechanisms:
+
+- Bank Erosion 
+- Channel Bed Lowering (degradation / incision)
+- Channel Bed Rising (aggradation)
+- Bar Development 
+
+If you opt not to use video, please instead describe with text what you interpreted and justify your interpretation. 
+
+  
 
 
 -------
