@@ -148,6 +148,9 @@ If you want to print out just the [exercises](https://s3-us-west-2.amazonaws.com
 -----------
 # Other Resources
 
+## Geomorphic Unit Toolkit
+- [Geomorphic Unit Toolkit](http://gut.riverscapes.xyz)
+- [GUT Projects in Riverscapes Warehouse](http://data.riverscapes.xyz)
 
 ## Corresponding Chapter in Course Text
 <a href="https://www.wiley.com/en-au/Geomorphic+Analysis+of+River+Systems%3A+An+Approach+to+Reading+the+Landscape-p-9781405192743"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/ReadingLandscape.png"></a>  From:
@@ -156,11 +159,13 @@ Fryirs KA, Brierley GA. 2013. [Geomorphic Analysis of River Systems: An Approach
 This module focus on: [CHAPTER EIGHT: Instream geomorphic units](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=148)
 
 ## Relevant or Cited Literature
-Follow up *selected readings* suggested by Fryris and Brierley (2013) are provided for every chapter in page 328-3334 of the text book. 
+Follow up *selected readings* suggested by Fryris and Brierley (2013) are provided for every chapter in page 328-334 of the text book. 
 
 ### 2015 Fluvial Taxonomy
 <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2020/Reading/Wheaton_FluvialTaxonomy.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Wheaton2015.png"></a>
 - <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2020/Reading/Wheaton_FluvialTaxonomy.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton J, Fryirs K, Brierley GJ, Bangen SG, Bouwes N, O’Brien G. 2015. [Geomorphic Mapping and Taxonomy of Fluvial Landforms](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2020/Reading/Wheaton_FluvialTaxonomy.pdf). Geomorphology 248 : 273–295. DOI: [10.1016/j.geomorph.2015.07.010](https://dx.doi.org/10.1016/j.geomorph.2015.07.010)
+- Williams RD, Bangen S, Gillies E, Kramer N, Moir H, Wheaton J. 2020. Let the river erode! Enabling lateral migration increases geomorphic unit diversity. Science of The Total Environment : 136817. DOI: [10.1016/j.scitotenv.2020.136817](10.1016/j.scitotenv.2020.136817)
+
 
 ### Brierley & Fryirs (2005) River Styles Framework
 
