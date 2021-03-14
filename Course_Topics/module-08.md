@@ -113,7 +113,7 @@ weight: 8
 
 
 </div>
-<i class="fa fa-clock-o" aria-hidden="true"></i> xx minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 1 hour 10  minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
       </div>
     </div>
   </div>
