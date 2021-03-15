@@ -140,6 +140,7 @@ See Wheaton et al. (2015) Fluvial Taxonomy resources below.
 
 ### Exercises to Complete During Part 3 of Lecture
 
+
 If you want to print out just the [exercises](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2021/WATS5350_Module_01_GeomorphicPrinciples_ExercisesOnly.pdf) you can do so below. Note we only use exercise 3, 4 and 5 (no need to print all 7 pages). These are from a [capstone crash course in fluvial geomorphology](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Design_Geomorphic_Principles.html):
 
 <div align="center">
@@ -147,6 +148,17 @@ If you want to print out just the [exercises](https://s3-us-west-2.amazonaws.com
 </div>
 -----------
 # Other Resources
+
+## Field Trip Handout
+<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_08_FieldTrip.pdf" target="_blank"><img class="float-right" src="{{ site.baseurl }}/assets/images/slides/Module08_FieldTrip.png"></a>
+On Monday, 3/15/2020 we visited the Logan River.  For a [PDF of handout](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_08_FieldTrip.pdf), click below:
+<div align="center">
+<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_08_FieldTrip.pdf" class="hollow button"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Field Trip Handout for Print</a><br>
+<a href="https://photos.app.goo.gl/12RC4vStdFQecekJ7" class="hollow button"><i class="fa fa-camera" aria-hidden="true"></i> Share your Field Trip Photos Here!</a>
+</div>
+### Map for Field Trip Reaches
+<div class="responsive-embed">
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=199HlISAYyFJTkYhLHtj0gPviPJMVi_nU" width="640" height="480"></iframe></div>
 
 ## Geomorphic Unit Toolkit
 - [Geomorphic Unit Toolkit](http://gut.riverscapes.xyz)
