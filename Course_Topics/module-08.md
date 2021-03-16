@@ -156,6 +156,13 @@ On Monday, 3/15/2020 we visited the Logan River.  For a [PDF of handout](https:/
 <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_08_FieldTrip.pdf" class="hollow button"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Field Trip Handout for Print</a><br>
 <a href="https://photos.app.goo.gl/12RC4vStdFQecekJ7" class="hollow button"><i class="fa fa-camera" aria-hidden="true"></i> Share your Field Trip Photos Here!</a>
 </div>
+### Some Tips when Mapping in Field
+
+- Decide what tier of mapping is necessary for your purposes.
+- Clear definition of **minimum mapping unit** in terms of multiple of bankfull width (e.g. 0.25 bfw or 1/3 bfw) for minimum length-scale of longest axis of unit. This helps avoid mapping every micro-habitat (hydraulic unit scale) unit like pocket pools and focus on broader picture).  We discussed how this choice is necessarily problem specific (e.g. you might go finer-scale for some fish habitat work; coarser-scale for broader geomorphic interpretations)
+- The fact that the taxonomy **filters down your choices** to 2 or 3 units at Tier 3 when applying one attribute at a time. The goal is not necessarily to get the absolute correct unit: but narrow down to possible candidates and sometimes units have a "complex" history and are truly a mix of different units. Sometimes it will obviously land on 1 unit, where it does not, don't fight it or force it. Just say it is "one of these two or three", or "most likely this one, but could be that one", or "a mix of these two". 
+- Instead of focusing on identifying units by polygons and identifying their boundaries, when identifying in the field go to their **defining point** or mid point. For example, the top of a bar (convexity) , the deepest part of a pool (concavity), the crest of a riffle, the middle of a boring planar reach. Just identify the point and worry less about the boundaries between the units. 
+
 ### Map for Field Trip Reaches
 <div class="responsive-embed">
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=199HlISAYyFJTkYhLHtj0gPviPJMVi_nU" width="640" height="480"></iframe></div>
