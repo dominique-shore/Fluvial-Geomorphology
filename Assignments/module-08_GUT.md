@@ -37,9 +37,38 @@ If you need a [Education Edition](http://esri.com/educationedition/) license for
 -----------
 # The Assignment
 
-Explore outputs of GUT maps at two sites and explain what is going on. I will take you to two sites on the North Fork Asotin River, which are in the same type of reach, but are experiencing different conditions (i.e. behavior/process) and therefor you see that reflected in different assemblages of geomorphic units. 
+Explore outputs of GUT maps at two sites and explain what is going on. I will take you to two sites on the North Fork Asotin Creek, which are in the same type of reach, but are experiencing different conditions (i.e., behavior/process) and therefor you see that reflected in different assemblages of geomorphic units. 
 
-## Part 1 - Get Data, Unzip & Explore with RAVE
+**Two Sites**: Specifically, you will explore **two sites**, each roughly 250 m in length, approximately 3.5 km away from each other on the North Fork Asotin Creek. The first is a relatively simple, moderate condition "wandering gravel bed river" site called  NF_F4 P1 (North Fork Fish 4 Site Part 1). The second is  a more interesting, good condition "wandering gravel bed river" site called NF_F6 P2.  
+
+**Two Surveys at Each Site**: There are roughly annual topographic surveys at each of these two sites between 2011 and 2017. Choose two surveys (at least) so you can look at temporal contrasts at each site. You can optionally use GCD, but are not required to. 
+
+<div class="row small-up-2 medium-up-2">
+
+ <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4> Don't Get Lost - Overivew</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xPvlcR851wY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+
+</div>
+In this video I show you what you're doing in this assignment. <br> <i class="fa fa-clock-o" aria-hidden="true"></i> 6 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+      </div>
+    </div>
+  </div>
+</div>
+
+**Answer Questions**: Some basic questions are provided below to get you to engage with exploring these sites. You will need to prepare a web page with your answers to these questions. I expect you to use some mix of figures, maps, screen shots or even recorded videos to substantiate your answers and do more than just "tell me" the answer but "show me" and explain your interpretations. 
+
+---------
+## Getting it Done
+### Part 1 - Get Data, Unzip & Explore with RAVE
 
 For the first part of this assignment, I want you to do:
 - 1.A Download the [Provided Asotin  Data](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/Labs/Asotin.zip) (also scroll down to *[Assignment Dataset](#assignment-dataset)* for more info) and see "[Getting Data Downloaded and Organized video](https://www.youtube.com/embed/VJneqqnEW8s)"
@@ -91,14 +120,111 @@ In this video I show you how to  load up data from the Asotin  using  <a href="h
 
 </div>
 
-## Part 2 - Get Data, Unzip & Explore with RAVE
+### Part 2 - Interpret It
 
-For the first part of this assignment, I want you to do:
+Answer (with visual aids) and address the following questions. You will base your answers on the model outputs provided, but you can optionally provide commentary or point out parts of the outputs you disagree with or are confused by. Please organize your answers on your web page in order (okay to refer in answer to previous figure or video, but label accordingly).  I am not expecting a dissertation for each question. A concise, but thoughtful answer will do. If some of them are easier for you to record your thoughts by talking, that is fine (just don't make it all one video and make it organized).
+
+#### 1 North Fork Asotin Creek
+-  Please provide a brief (short paragraph max) description of the North Fork Asotin Creek where these two sites are located.
+
+#### 2  North Fork Asotin  F4
+- **2.1**: Qualitatively describe the in-channel geomorphology of this reach.
+- **2.2**: Choose at least two survey years at this site to consider the temporal variability of morphology at this site. Which survey years are they and why did you choose them?
+- **2.3**: What Tier 2 Forms are present in each year? Do they differ?
+- **2.4**: Do any of the Tier 2 Forms dominate the assemblage or is it fairly mixed? Is this true through time?
+- **2.5**: What Tier 3 Geomorphic Units are present in each year?
+- **2.6**: Zoom in to 2 to 5 x bankfull width portion of the reach and look at the arrangement of geomorphic units. Is it coherent? Does it make sense based on what you have learned so far?
+- **2.7**: How well does GUT appear to be doing in each year at discriminating the in channel geomorphic units? Point out any weaknesses or concerns you might have.
+- **2.7**: Identify in one of your surveys for this reach a distinctive pool, bar and planar feature. For all three identify all five attributes from the fluvial taxonomy (i.e., Table 6), then use those to identify the tier 3 name from Table 7 or 8 (this may differ than what GUT output is because it is not as resolved) and explain which attribute(s) were key for discriminating that unit from other units. 
+  -  2.7A : Pool 
+     - 2.7 A1: GU Forcing
+     - 2.7 A2: GU Orientation
+     - 2.7 A3: GU Position
+     - 2.7 A4: GU Low Flow WS Slope
+     - 2.7 A5: GU Low Flow Relative Roughness 
+     - 2.7 A6: Tier 3 Name
+     - 2.7 A7: Which attributes key for discriminating?
+     - 2.7 A8: Differences with GUT
+  -  2.7B : Bar 
+     - 2.7 B1: GU Forcing
+     - 2.7 B2: GU Orientation
+     - 2.7 B3: GU Position
+     - 2.7 B4: GU Low Flow WS Slope
+     - 2.7 B5: GU Low Flow Relative Roughness 
+     - 2.7 B6: Tier 3 Name
+     - 2.7 B7: Which attributes key for discriminating?
+     - 2.7 B8: Differences with GUT
+  -  2.7C : Planar 
+     - 2.7 C1: GU Forcing
+     - 2.7 C2: GU Orientation
+     - 2.7 C3: GU Position
+     - 2.7 C4: GU Low Flow WS Slope
+     - 2.7 C5: GU Low Flow Relative Roughness 
+     - 2.7 C6: Tier 3 Name
+     - 2.7 C7: Which attributes key for discriminating?
+     - 2.7 C8: Differences with GUT  
+- **2.8**: Turn off GUT and look just at the Topo DEM (e.g Detrended DEM and Contours) for one of the surveys. Manually map one geomorphic unit you think you can read in the topography.
+  - 2.8A - What is the tier 2 Form and the tier 3 shape of the unit you manually identified?
+  - 2.8B - How do the boundaries of the unit you mapped compare with what GUT derived? 
+  - 2.8C - How does the type you identified compare with what GUT identified? Explain the discrepancies if they exist. 
+
+#### 3  North Fork Asotin  F6
+- **3.1**: Qualitatively describe the in-channel geomorphology of this reach.
+- **3.2**: Choose at least two survey years at this site to consider the temporal variability of morphology at this site. Which survey years are they and why did you choose them?
+- **3.3**: What Tier 2 Forms are present in each year? Do they differ?
+- **3.4**: Do any of the Tier 2 Forms dominate the assemblage or is it fairly mixed? Is this true through time?
+- **3.5**: What Tier 3 Geomorphic Units are present in each year?
+- **3.6**: Zoom in to 2 to 5 x bankfull width portion of the reach and look at the arrangement of geomorphic units. Is it coherent? Does it make sense based on what you have learned so far?
+- **3.7**: How well does GUT appear to be doing in each year at discriminating the in channel geomorphic units? Point out any weaknesses or concerns you might have.
+- **3.7**: Identify in one of your surveys for this reach a distinctive pool, bar and planar feature. For all three identify all five attributes from the fluvial taxonomy (i.e. Table 6), then use those to identify the tier 3 name from Table 7 or 8 (this may differ than what GUT output is because it is not as resolved) and explain which attribute(s) were key for discriminating that unit from other units. 
+  -  3.7A : Pool 
+     - 3.7 A1: GU Forcing
+     - 3.7 A2: GU Orientation
+     - 3.7 A3: GU Position
+     - 3.7 A4: GU Low Flow WS Slope
+     - 3.7 A5: GU Low Flow Relative Roughness 
+     - 3.7 A6: Tier 3 Name
+     - 3.7 A7: Which attributes key for discriminating?
+     - 3.7 A8: Differences with GUT
+  -  3.7B : Bar 
+     - 3.7 B1: GU Forcing
+     - 3.7 B2: GU Orientation
+     - 3.7 B3: GU Position
+     - 3.7 B4: GU Low Flow WS Slope
+     - 3.7 B5: GU Low Flow Relative Roughness 
+     - 3.7 B6: Tier 3 Name
+     - 3.7 B7: Which attributes key for discriminating?
+     - 3.7 B8: Differences with GUT
+  -  3.7C : Planar 
+     - 3.7 C1: GU Forcing
+     - 3.7 C2: GU Orientation
+     - 3.7 C3: GU Position
+     - 3.7 C4: GU Low Flow WS Slope
+     - 3.7 C5: GU Low Flow Relative Roughness 
+     - 3.7 C6: Tier 3 Name
+     - 3.7 C7: Which attributes key for discriminating?
+     - 3.7 C8: Differences with GUT  
+- **3.8**: Turn off GUT and look just at the Topo DEM (e.g Detrended DEM and Contours) for one of the surveys. Manually map one geomorphic unit you think you can read in the topography.
+  - 3.8A - What is the tier 2 Form and the tier 3 shape of the unit you manually identified?
+  - 3.8B - How do the boundaries of the unit you mapped compare with what GUT derived? 
+  - 3.8C - How does the type you identified compare with what GUT identified? Explain the discrepancies if they exist. 
+
+#### 3  Differences between F4 & F6
+- **3. 1** : What are the primary differences from exploring GUT between these two sites that you noticed between the in channel geomorphic units of these two sites?
+- **3. 2** : What inferences can you make about geomorphic processes and behavior when contrasting GUT outputs between these two sites?
+- **3.3** : If you only had one GUT output from each of these two sites (i.e. one snap shot) how representative would be your inferences about geomorphic processes? If you did not have the luxury of six or seven surveys, but just one, would your conclusions above be different?
+
+#### 4 Synthesis
+- **4. 1** : How are the Tier 2 Forms from GUT different than what we discussed in field?
+- **4. 2** : How are the Tier 3 GUs GUT exports different then the ones we discussed? Why do you think GUT does not output the same things?
+- **4.3** : How would you apply Tier 4? Do you have enough information here to do that?
+- **4.4** : Does exploring these GUT outputs give you more or less confidence in applying the fluvial taxonomy through manual mapping off of topography versus identification in the field?
+
 
 ---------
 ## What to Turn in 
 
-
+A link to a complete web page with headings and subheadings for the numbers (for each question) above so it is easy to apply the rubric and see what parts you have done and provide you feedback. 
 
 -----------------
 ## Optional Information
