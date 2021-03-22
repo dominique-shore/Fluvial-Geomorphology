@@ -4,6 +4,9 @@ weight: 7
 ---
 # Module 7: Channel Geometry - Topography
 
+<div align="center">
+<a class="button secondary" href="{{ site.baseurl }}/Assignments/module-07_GCD.html"><i class="fa fa-share" aria-hidden="true"></i> See Corresponding Assignment <i class="fa fa-leanpub" aria-hidden="true"></i></a></div>
+
 ## Background
 
 Channel geometry refers to the three dimensional form of the channel, which we capture quantitatively with topographic surveys. The net change in topography from erosion and deposition through time are channel adjustments and we will explore how we measure and quantify those adjustments.

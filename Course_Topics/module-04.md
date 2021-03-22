@@ -4,6 +4,9 @@ weight: 4
 ---
 # Module 4: Catchment Hydrology
 
+<div align="center">
+<a class="button secondary" href="{{ site.baseurl }}/Assignments/module-04_bingo.html"><i class="fa fa-share" aria-hidden="true"></i> See Corresponding Assignment <i class="fa fa-leanpub" aria-hidden="true"></i></a></div>
+
 ## Background
 
 ### Why we're covering it
@@ -108,7 +111,7 @@ Follow up *selected readings* suggested by Fryris and Brierley (2013) are provid
         <h4>Story of Redwood Forests</h4>
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QkW88w9o5lU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-        
+
         <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_03_CatchmentControls.pdf" target="_blank">Module 3  - Slides</a>
         
       </div>

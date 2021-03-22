@@ -4,6 +4,9 @@ weight: 6
 ---
 # Module 8 - Instream Geomorphic Units from GUT
 
+<div align="center">
+<a class="button secondary" href="{{ site.baseurl }}/Course_Topics/module-08.html"><i class="fa fa-reply" aria-hidden="true"></i> See Corresponding Learning Module <i class="fa fa-leanpub" aria-hidden="true"></i></a></div>
+
 ## The Set-Up
 We will take you to the basalt canyons of the Asotin Watershed in southeast Washington. The [Asotin is the focus of an Intensively Monitored Watershed](https://wa-rco.maps.arcgis.com/apps/Cascade/index.html?appid=0ff5118943a843c79571cc2d7015f92e) and experimental restoration to recover Steelhead populations where we have over eight years of repeat topographic surveys (n=112 surveys) across 18 different sites. Scroll through Story Map  below for a brief overview of the IMW:
 <div class="responsive-embed">

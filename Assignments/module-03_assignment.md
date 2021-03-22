@@ -4,6 +4,10 @@ weight: 1
 ---
 # Module 3 Homework: Catchment-Scale Controls on River Geomorphology
 
+
+<div align="center">
+<a class="button secondary" href="{{ site.baseurl }}/Course_Topics/module-03.html"><i class="fa fa-reply" aria-hidden="true"></i> See Corresponding Learning Module <i class="fa fa-leanpub" aria-hidden="true"></i></a></div>
+
 ## The Assignment
 
 You will be performing a variety of morphometrics analyses of the Logan River Watershed.

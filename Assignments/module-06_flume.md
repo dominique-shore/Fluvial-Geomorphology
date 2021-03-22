@@ -4,6 +4,9 @@ weight: 4
 ---
 # Module 6 Flume Observations: Fluvial Geomorphic Processes
 
+<div align="center">
+<a class="button secondary" href="{{ site.baseurl }}/Course_Topics/module-06.html"><i class="fa fa-reply" aria-hidden="true"></i> See Corresponding Learning Module <i class="fa fa-leanpub" aria-hidden="true"></i></a></div>
+
 ## The Set-Up
 We went played with my lab's demonstration flume. It is an [EM-River EM2 Stream Table](https://emriver.com/models/em2/), which is a 1.9  m x 0.8 m flume that can recirculate about 100 L of water. Geology has been kind enough to let us leave this set up in their Geology 101 Lab, where most of you got to cycle through and play with the experiment. 
 

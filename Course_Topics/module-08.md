@@ -4,6 +4,10 @@ weight: 8
 ---
 # Module 8: Instream Forms
 
+<div align="center">
+<a class="button secondary" href="{{ site.baseurl }}/Assignments/module-08_GUT.html"><i class="fa fa-share" aria-hidden="true"></i> See Corresponding Assignment <i class="fa fa-leanpub" aria-hidden="true"></i></a></div>
+
+
 ## Background
 
 <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2020/Reading/Wheaton_FluvialTaxonomy.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/pics/GU.png"></a> Geomorphic units are the building blocks of riverscapes and the first step to reading riverscapes. In this unit, we focus on those building blocks that make up the channel. Geomorphic units are also a convenient lens for discriminating [fluvial habitats](https://restoration-usu.github.io/Ecohydraulics/). We looked at the Wheaton et al. ([2015](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2020/Reading/Wheaton_FluvialTaxonomy.pdf)) Fluvial Taxonomy for geomorphic units, which is an extension and recasting of geomorphic units as described in your book and the [River Styles Framework](https://riverstyles.com/). The taxonomy also describes structural elements and margins in riverscapes, but that is not the focus of this unit.

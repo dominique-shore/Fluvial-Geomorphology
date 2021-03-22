@@ -4,6 +4,10 @@ weight: 3
 ---
 # Module 3: Catchment-Scale Controls on River Geomorphology
 
+<div align="center">
+<a class="button secondary" href="{{ site.baseurl }}/Assignments/module-03_assignment.html"><i class="fa fa-share" aria-hidden="true"></i> See Corresponding Assignment <i class="fa fa-leanpub" aria-hidden="true"></i></a></div>
+
+
 ## Background
 
 ### Why we're covering it

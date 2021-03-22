@@ -4,6 +4,9 @@ weight: 6
 ---
 # Module 6: Fluvial Geomorphic Processes - Sediment movement and deposition in river systems
 
+<div align="center">
+<a class="button secondary" href="{{ site.baseurl }}/Assignments/module-06_flume.html"><i class="fa fa-share" aria-hidden="true"></i> See Corresponding Assignment <i class="fa fa-leanpub" aria-hidden="true"></i></a></div>
+
 ## Background
 
 ### Why we're covering it

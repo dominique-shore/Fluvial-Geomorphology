@@ -4,6 +4,9 @@ weight: 5
 ---
 # Module 5: Hydraulics - Impelling and resisting forces in river systems
 
+<div align="center">
+<a class="button secondary" href="{{ site.baseurl }}/Assignments/module-05_hydraulics.html"><i class="fa fa-share" aria-hidden="true"></i> See Corresponding Assignment <i class="fa fa-leanpub" aria-hidden="true"></i></a></div>
+
 ## Background
 
 ### Why we're covering it

@@ -4,6 +4,9 @@ weight: 5
 ---
 # Module 7 - Topographic Changes
 
+<div align="center">
+<a class="button secondary" href="{{ site.baseurl }}/Course_Topics/module-07.html"><i class="fa fa-reply" aria-hidden="true"></i> See Corresponding Learning Module <i class="fa fa-leanpub" aria-hidden="true"></i></a></div>
+
 ## The Set-Up
 <img class="float-right" src="https://agupubs.onlinelibrary.wiley.com/cms/asset/0820afd5-68ce-4b79-9cd8-1955fb4cc4fa/jgrf20060-fig-0002-m.png"> We will take you to the Highlands of Scotland, to the River Feshie to help you become  familiar with quantitative analysis of channel geometry changes (the subject of Chapter 6). In the figure at right from Wheaton et al. ([2013](http://doi.org/10.1002/jgrf.20060)) we can see a braided gravel bed river actively adjusting through time. You will be given access to topographic surveys from 2003, 2004, 2005, 2006 and 2007 of this reach. 
 

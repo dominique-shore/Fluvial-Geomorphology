@@ -4,6 +4,9 @@ weight: 3
 ---
 # Module 5 Field Observations: Hydraulics
 
+<div align="center">
+<a class="button secondary" href="{{ site.baseurl }}/Course_Topics/module-05.html"><i class="fa fa-reply" aria-hidden="true"></i> See Corresponding Learning Module <i class="fa fa-leanpub" aria-hidden="true"></i></a></div>
+
 ## The Assignment
 
 Go to a local stream or river with flowing water (please do not get in the water for safety purposes). Build as web page with the following:
