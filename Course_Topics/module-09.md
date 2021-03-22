@@ -4,11 +4,11 @@ weight: 9
 ---
 # Module 9: Floodplain Forms & Processes
 
+
 ## Background
 
-### Why we're covering it
-
-d
+<img class="float-right" src="{{ site.baseurl }}/assets/images/pics/floodplain.png"> Floodplains make up the vast majority of most riverscapes and represent the largest temporary store of sediment.  In this unit, we focus on the primary processses by which floodplains are built and reworked, and how these leave characteristic geomorphic units. We will again reference  the Wheaton et al. ([2015](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2020/Reading/Wheaton_FluvialTaxonomy.pdf)) Fluvial Taxonomy for geomorphic units, which is an extension and recasting of geomorphic units as described in your book and the [River Styles Framework](https://riverstyles.com/). 
+<img class="float-left" src="{{ site.baseurl }}/assets/images/pics/valleys.png">
 
 ### [Learning Outcomes]({{ site.baseurl }}/syllabus/#course-objectives)
 
