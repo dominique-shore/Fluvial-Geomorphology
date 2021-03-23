@@ -19,26 +19,70 @@ weight: 9
 
 ------
 
-## Resources
+------
+## Lectures (videos) & Slides
+### Part 1 -  Intro 
+<div class="row small-up-2 medium-up-2">
 
-### Slides & Handouts
 
-[Lecture Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2018/Week2_WATS_5350.pdf)
+  <div class="column">
+    <div class="card">
 
-<div class="responsive-embed">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTEBwDZh8uD2FbT5guSppFsszlSr5qZ77t7X49_ZkOhPNHNyek1X7MOltB7XEcJHP4WG2Q_4Zl-UQZp/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+      <div class="card-section">
+        <h4>Part 1 - Lecture Playlist</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzKcQ5wAyMaKCGlDGS4s9pIR" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> WRONG minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_09_FloodplainFormsProcesses.pdff" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/Module09.png"></a>
+        	</div>
+        
+        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_09_FloodplainFormsProcesses.pdf" target="_blank">Module 9  - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
 </div>
 
-### Corresponding Chapter in Course Text
+-----------
+# Other Resources
+
+## Corresponding Chapter in Course Text
 <a href="https://www.wiley.com/en-au/Geomorphic+Analysis+of+River+Systems%3A+An+Approach+to+Reading+the+Landscape-p-9781405192743"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/ReadingLandscape.png"></a>  From:
 Fryirs KA, Brierley GA. 2013. [Geomorphic Analysis of River Systems: An Approach to Reading the Landscape](https://www.wiley.com/en-au/Geomorphic+Analysis+of+River+Systems%3A+An+Approach+to+Reading+the+Landscape-p-9781405192743), First Edition.  Blackwell Publishing Ltd.: Chichester, U.K.
 
 This module focus on: [CHAPTER NINE: Floodplain forms and processes](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=171)
 
+## Geomorphic Unit Toolkit
+- [Geomorphic Unit Toolkit](http://gut.riverscapes.xyz)
+- [GUT Projects in Riverscapes Warehouse](http://data.riverscapes.xyz)
 
 
-### Relevant or Cited Literature
+## Relevant or Cited Literature
 Follow up *selected readings* suggested by Fryris and Brierley (2013) are provided for every chapter in page 328-3334 of the text book. 
+
+### 2015 Fluvial Taxonomy
+<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2020/Reading/Wheaton_FluvialTaxonomy.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Wheaton2015.png"></a>
+- <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2020/Reading/Wheaton_FluvialTaxonomy.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton J, Fryirs K, Brierley GJ, Bangen SG, Bouwes N, O’Brien G. 2015. [Geomorphic Mapping and Taxonomy of Fluvial Landforms](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2020/Reading/Wheaton_FluvialTaxonomy.pdf). Geomorphology 248 : 273–295. DOI: [10.1016/j.geomorph.2015.07.010](https://dx.doi.org/10.1016/j.geomorph.2015.07.010)
+- Williams RD, Bangen S, Gillies E, Kramer N, Moir H, Wheaton J. 2020. Let the river erode! Enabling lateral migration increases geomorphic unit diversity. Science of The Total Environment : 136817. DOI: [10.1016/j.scitotenv.2020.136817](10.1016/j.scitotenv.2020.136817)
+
 
 
 
