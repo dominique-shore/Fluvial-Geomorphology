@@ -17,16 +17,51 @@ d
 4. Recognize the primary controls on riverscape diversity, in which distinctive suites of physical and biotic processes (behavior) help shape the form and character of those landscapes. 
 
 ------
+https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_10_RiverDiversity.pdf
 
-## Resources
+------
+## Lectures (videos) & Slides
+### Part 1 -  Intro, Multi-Scalar Framing, & Reach Breaks
+<div class="row small-up-2 medium-up-2">
 
-### Slides & Handouts
 
-[Lecture Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2018/Week2_WATS_5350.pdf)
+  <div class="column">
+    <div class="card">
 
-<div class="responsive-embed">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTEBwDZh8uD2FbT5guSppFsszlSr5qZ77t7X49_ZkOhPNHNyek1X7MOltB7XEcJHP4WG2Q_4Zl-UQZp/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+      <div class="card-section">
+        <h4>Part 1 - Lecture Playlist</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzIWeatpUrhfIuzKgv9KUIoB" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
+
+
 </div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 25 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_10_RiverDiversity.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/Module10.png"></a>
+        	</div>
+        
+        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_10_RiverDiversity.pdf" target="_blank">Module 10  - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
 
 ### Corresponding Chapter in Course Text
 <a href="https://www.wiley.com/en-au/Geomorphic+Analysis+of+River+Systems%3A+An+Approach+to+Reading+the+Landscape-p-9781405192743"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/ReadingLandscape.png"></a>  From:
