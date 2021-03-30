@@ -4,6 +4,9 @@ weight: 10
 ---
 # Module 10: River Diversity
 
+<div align="center">
+<a class="button secondary" href="{{ site.baseurl }}/Assignments/module-10_exercise.html"><i class="fa fa-share" aria-hidden="true"></i> See Corresponding Assignment <i class="fa fa-leanpub" aria-hidden="true"></i></a></div>
+
 ## Background
 
 ### Why we're covering it
@@ -17,7 +20,7 @@ d
 4. Recognize the primary controls on riverscape diversity, in which distinctive suites of physical and biotic processes (behavior) help shape the form and character of those landscapes. 
 
 ------
-https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_10_RiverDiversity.pdf
+
 
 ------
 ## Lectures (videos) & Slides
