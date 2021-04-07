@@ -169,6 +169,6 @@ See also:
 
 <a href="https://www.wiley.com/en-au/Geomorphology+and+River+Management%3A+Applications+of+the+River+Styles+Framework-p-9781405115162"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/RiverStyles.jpg"></a> 
 The [River Styles Framework](https://riverstyles.com/) is laid out in Part 2 of the Brierley and Fryirs (2005) book and is the conceptual basis for much of our book. For an overview lecture of the framework, see [this Module](https://restoration-usu.github.io/Ecohydraulics/Modules/RiverStyles.html) in [WATS 6860 Ecohydraulics](https://restoration-usu.github.io/Ecohydraulics/).
-- <a href="https://usu.instructure.com/courses/580268/files/folder/Reading?preview=77096604"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Brierley, G., and K. Fryirs 2005. [Geomorphology and River Management: Applications of the River Styles Framework](https://www.wiley.com/en-au/Geomorphology+and+River+Management%3A+Applications+of+the+River+Styles+Framework-p-9781405115162). Blackwell Publishing, Victoria, Australia. 
+- <a href="https://usu.instructure.com/courses/637781/files?preview=80717725"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Brierley, G., and K. Fryirs 2005. [Geomorphology and River Management: Applications of the River Styles Framework](https://www.wiley.com/en-au/Geomorphology+and+River+Management%3A+Applications+of+the+River+Styles+Framework-p-9781405115162). Blackwell Publishing, Victoria, Australia. 
 
 
