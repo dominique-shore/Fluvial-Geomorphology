@@ -5,7 +5,7 @@ weight: 15
 # Final Project - Contrasting River Styles
 
 
-The core of your final project will be to read riverscapes in three to four contrasting reaches in a watershed of your choosing (other than the Logan River) and to properly characterize them.  You will use the tools you have developed all semester long, and those four "steps" to reading riverscapes identified in [Chapter 1](https://riverscapes.github.io/Fluvial-Geomorphology/Course_Topics/module-01.html). 
+The core of your final project will be to read riverscapes in three to four contrasting reaches in a watershed of your choosing (other than the Logan River) and to properly characterize them.  You will use the interpretive skills you have developed all semester long, and those four "steps" to reading riverscapes identified in [Chapter 1](https://riverscapes.github.io/Fluvial-Geomorphology/Course_Topics/module-01.html). 
 
 <img class="float-right"  src="{{ site.baseurl }}/assets/images/pics/valleySetting.png">The riverscapes you choose should each be long enough in length to be representative (e.g., typically 500 m to  2000 m depending on size of system). The riverscapes should be somewhere you have visited in person or (ideally) can visit in person to complete the assignment. The selection of riverscapes reaches, should collectively satisfy the following criterions:
 -  At least one confined riverscape
@@ -18,32 +18,49 @@ As always, you will be preparing a web page (or series of nested sub-pages) on y
 -----------------
 ## What should my Final Project Page(s) Include?
 
-I expect your web page for the final project to be logically organized, inviting and engaging. It should have clear heading and subheadings for easy and logical navigation and cross referencing. It should have figures, tables and/or interactive maps as appropriate to illustrate key concepts and findings, or report your work. All such figures and tables should have numbered captions, with adequate decriptions. You should have adequate text explaining each piece of the project. If easier for you, you may choose to break up the project into sub-pages, but if you do so please provide easy and logical navigation (e.g. hyperlinks, buttons, etc.) between pages. Finally, make sure to properly cite your sources. 
+I expect your web page for the final project to be logically organized, inviting and engaging. It should have clear heading and subheadings for easy and logical navigation and cross referencing. It should have figures, tables and/or interactive maps as appropriate to illustrate key concepts and findings, or report your work. All such figures and tables should have numbered captions, with adequate descriptions. You should have adequate text explaining each piece of the project. If easier for you, you may choose to break up the project into sub-pages, but if you do so please provide easy and logical navigation (e.g., hyperlinks, buttons, etc.) between pages. Finally, make sure to properly cite your sources. 
 
 ### A Introduction to Your Study Watershed
 <img class="float-left" width="300" src="{{ site.baseurl }}/assets/images/pics/CatchmentMap.png">
-Start with an introduction to the watershed/catchment that contains the three (or more) riverscapes you chose to read.  Think back to the [Module 3 Catchment Assignment]({{ site.baseurl }}/Fluvial-Geomorphology/Assignments/module-03_assignment.html), and how you described the Logan River. This could be as little as one section with a few pargraphs, a figure or two and a table, or could be more elaborate. 
+Start with an introduction to the watershed/catchment that contains the three (or more) riverscapes you chose to read.  Think back to the [Module 3 Catchment Assignment]({{ site.baseurl }}/Fluvial-Geomorphology/Assignments/module-03_assignment.html), and how you described the Logan River. This could be as little as one section with a few paragraphs, a figure or two and a table, or could be more elaborate. 
 
 You should aim to minimally answer the following questions in this section:
--  Location - Where in the world is the watershed and in relationship to other larger basins it may be tributry to? Where does this watershed eventually drain to? 
+-  Location - Where in the world is the watershed and in relationship to other larger basins it may be tributary to? Where does this watershed eventually drain to? 
 - Location of specific riverscape reaches therein (e.g. a catchment map with locations denoted of study reaches)  
 - What is the climate?
 - What is the flow regime?
 - What is the geologic setting? 
 <img class="float-right" width="250" src="{{ site.baseurl }}/assets/images/pics/landscapeUnits.png">
-- What is the physiographic setting? A map of landscape units (e.g. US [EPA Ecoregions](https://www.epa.gov/eco-research/ecoregions)) and how they intersect the drainage network would be helpful.
-- What are the dominant vegetation communities and their distribution in the watershed (e.g. forests, grasslands, rangelands, crops, developed, etc.)?
+- What is the physiographic setting? A map of landscape units (e.g., US [EPA Ecoregions](https://www.epa.gov/eco-re(search/ecoregions)) and how they intersect the drainage network would be helpful.
+- What are the dominant vegetation communities and their distribution in the watershed (e.g., forests, grasslands, rangelands, crops, developed, etc.)?
 - What is the shape & size of the catchment? You may choose to report some of the simpler catchment  morphometrics for your watershed (from Chapter 3).
 - What is the mainstem length of the major river in your watershed?
 
-## What should I do at each site
+## What should I do at each site?
 
-At each site, you should provide a complete reading of the riverscape. Recall the first two steps:
-<a href="http://127.0.0.1:4001/Fluvial-Geomorphology/Course_Topics/module-01.html"><img class="float-right"  src="{{ site.baseurl }}/assets/images/pics/Read2Steps.png"></a>
+At each site, you should provide a complete reading of the riverscape. Recall the steps from [Chapter One]({{ site.baseurl }}/Fluvial-Geomorphology/Course_Topics/module-01.html). You might start by identifying what landforms are present and addressing the questions below:
+<a href="{{ site.baseurl }}/Fluvial-Geomorphology/Course_Topics/module-01.html"><img  src="{{ site.baseurl }}/assets/images/pics/Read2Steps.png"></a>
+
+Once you have addressed those questions, you should think about synthesizing your observations at the reach scale, by addressing the following questions:
+
+<a href="{{ site.baseurl }}/Fluvial-Geomorphology/Course_Topics/module-01.html"><img  src="{{ site.baseurl }}/assets/images/pics/ReadStep3.png"></a>
+
+In the [River Styles Framework](http://riverstyles.com), many of these "site" or "reach-scale" insights are cataloged with proformas and a fairly standard set of figures are used to illustrate your observations and interpretations.  Some of the types of figures you should consider for each site include tier 1, geomorphic unit maps (i.e., valley bottom, active channel, active floodplain, inactive floodplain), in channel geomorphic unit maps, representative conceptual cross sections, annotated photographs.  Some examples are shown below from the O'Brien et al. ([2015](https://www.researchgate.net/publication/270959675_River_StylesR_Report_for_the_Middle_Fork_John_Day_Watershed_Oregon)) Middle Fork John Day Report:
+
+<a href="https://www.researchgate.net/publication/270959675_River_StylesR_Report_for_the_Middle_Fork_John_Day_Watershed_Oregon"><img   src="{{ site.baseurl }}/assets/images/pics/RS_Maps.png"></a>
+
 
 ## What should I do to intercompare each site?
 
-Create a longtiduninal or stacked profile plot and place your riverscape reaches in context of where they fall along the water course you chose. 
+Once you have analyzed all your sites, it is time to put them in their catchment context. This is simplest to do as a collective intercomparison across each of your sites. Recall that in 'reading the riverscape', this is step four:
+
+<a href="{{ site.baseurl }}/Fluvial-Geomorphology/Course_Topics/module-01.html"><img  src="{{ site.baseurl }}/assets/images/pics/ReadStep4.png"></a>
+
+Therein, you should be attempting to answer the following questions and comparing and contrasting how the answers vary between your sites:
+
+<a href="{{ site.baseurl }}/Fluvial-Geomorphology/Course_Topics/module-01.html"><img  src="{{ site.baseurl }}/assets/images/pics/QuestionsStep4.png"></a>
+
+
 
 ------
 ## FAQ
@@ -54,9 +71,9 @@ Create a longtiduninal or stacked profile plot and place your riverscape reaches
 
 - Do I have to use GIS or specific software to complete this assignment?
 
-*Throughout the semester, we have emphasized that there are a lot of ways to get answers, create maps and quantify things.  Some of you may be proficient, efficent and comfortable producing all your maps in [ArcGIS]() or QGIS. That's fine, but not expected. Some may do their maps in webGIS platforms like [Google Maps](https://www.google.com/maps), the [USGS National Map](https://apps.nationalmap.gov/viewer/), [Google Earth](https://www.google.com/earth/), [GeoJSON](http://geojson.io/), or [CalTopo](https://caltopo.com/). Many of you may do field sketches, or sketches on top of basemaps or screenshots from the maps above in things like [PowerPoint](https://office.live.com/start/powerpoint.aspx), [FastStone Capture](https://www.faststone.org/FSCaptureDetail.htm), [SktechPad](https://sketch.io/sketchpad/), [AutoDraw](https://www.autodraw.com/), [Inkscape](https://inkscape.org/) or a plethora of other programs. You can also really effectively do these maps and figures by hand and scan your figures.  I don't care what you use. You can make cartographically effective and useful maps in each, as well as confusing an ineffectie maps in each.*
+*Throughout the semester, we have emphasized that there are a lot of ways to get answers, create maps and quantify things.  Some of you may be proficient, efficient and comfortable producing all your maps in [ArcGIS]() or QGIS. That's fine, but not expected. Some may do their maps in webGIS platforms like [Google Maps](https://www.google.com/maps), the [USGS National Map](https://apps.nationalmap.gov/viewer/), [Google Earth](https://www.google.com/earth/), [GeoJSON](http://geojson.io/), or [CalTopo](https://caltopo.com/). Many of you may do field sketches, or sketches on top of basemaps or screenshots from the maps above in things like [PowerPoint](https://office.live.com/start/powerpoint.aspx), [FastStone Capture](https://www.faststone.org/FSCaptureDetail.htm), [SktechPad](https://sketch.io/sketchpad/), [AutoDraw](https://www.autodraw.com/), [Inkscape](https://inkscape.org/) or a plethora of other programs. You can also really effectively do these maps and figures by hand and scan your figures.  I don't care what you use. You can make cartographically effective and useful maps in each, as well as confusing an ineffective maps in each.*
 
-3. 
+Post your questions on the discussion board! 
 
 ------
 
