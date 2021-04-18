@@ -7,7 +7,7 @@ weight: 15
 
 The core of your final project will be to read riverscapes in three to four contrasting reaches in a watershed of your choosing (other than the Logan River) and to properly characterize them.  You will use the tools you have developed all semester long, and those four "steps" to reading riverscapes identified in [Chapter 1](https://riverscapes.github.io/Fluvial-Geomorphology/Course_Topics/module-01.html). 
 
-The riverscapes you choose should each be long enough in length to be representative (e.g., typically 500 m to  2000 m depending on size of system). The riverscapes should be somewhere you have visited in person or (ideally) can visit in person to complete the assignment. The selection of riverscapes reaches, should collectively satisfy the following criterions:
+<img class="float-right"  src="{{ site.baseurl }}/assets/images/pics/valleySetting.png">The riverscapes you choose should each be long enough in length to be representative (e.g., typically 500 m to  2000 m depending on size of system). The riverscapes should be somewhere you have visited in person or (ideally) can visit in person to complete the assignment. The selection of riverscapes reaches, should collectively satisfy the following criterions:
 -  At least one confined riverscape
 -  At least one partly-confined riverscape 
 -  At least one laterally unconfined riverscape
@@ -18,22 +18,28 @@ As always, you will be preparing a web page (or series of nested sub-pages) on y
 -----------------
 ## What should my Final Project Page(s) Include?
 
-I expect your web page for the final project to be logically organized, inviting and engaging. It should have clear heading and subheadings for easy and logical navigation. It should have figures, tables and/or interactive maps as appropriate to illustrate key concepts and findings, or report your work. All such figures and tables should have numbered captions, with adequate decriptions. You should have adequate text explaining each piece of the project. If easier for you, you may choose to break up the project into sub-pages, but if you do so please provide easy and logical navigation (e.g. hyperlinks, buttons, etc.) between pages. Finally, make sure to properly cite your sources. 
+I expect your web page for the final project to be logically organized, inviting and engaging. It should have clear heading and subheadings for easy and logical navigation and cross referencing. It should have figures, tables and/or interactive maps as appropriate to illustrate key concepts and findings, or report your work. All such figures and tables should have numbered captions, with adequate decriptions. You should have adequate text explaining each piece of the project. If easier for you, you may choose to break up the project into sub-pages, but if you do so please provide easy and logical navigation (e.g. hyperlinks, buttons, etc.) between pages. Finally, make sure to properly cite your sources. 
 
-### A Introduction to Study Watershed
+### A Introduction to Your Study Watershed
+<img class="float-left" width="300" src="{{ site.baseurl }}/assets/images/pics/CatchmentMap.png">
 Start with an introduction to the watershed/catchment that contains the three (or more) riverscapes you chose to read.  Think back to the [Module 3 Catchment Assignment]({{ site.baseurl }}/Fluvial-Geomorphology/Assignments/module-03_assignment.html), and how you described the Logan River. This could be as little as one section with a few pargraphs, a figure or two and a table, or could be more elaborate. 
 
-You should aim to minimally answer the following questions in this section (with sub-sections):
+You should aim to minimally answer the following questions in this section:
 -  Location - Where in the world is the watershed and in relationship to other larger basins it may be tributry to? Where does this watershed eventually drain to? 
-- Location of specific riverscape reaches therein (e.g. a catchment map )  
--  What is the climate?
--  What is the flow regime?
+- Location of specific riverscape reaches therein (e.g. a catchment map with locations denoted of study reaches)  
+- What is the climate?
+- What is the flow regime?
 - What is the geologic setting? 
-
+<img class="float-right" width="250" src="{{ site.baseurl }}/assets/images/pics/landscapeUnits.png">
+- What is the physiographic setting? A map of landscape units (e.g. US [EPA Ecoregions](https://www.epa.gov/eco-research/ecoregions)) and how they intersect the drainage network would be helpful.
+- What are the dominant vegetation communities and their distribution in the watershed (e.g. forests, grasslands, rangelands, crops, developed, etc.)?
+- What is the shape & size of the catchment? You may choose to report some of the simpler catchment  morphometrics for your watershed (from Chapter 3).
+- What is the mainstem length of the major river in your watershed?
 
 ## What should I do at each site
 
-At each site, you should provide a complete reading of the riverscape. 
+At each site, you should provide a complete reading of the riverscape. Recall the first two steps:
+<a href="http://127.0.0.1:4001/Fluvial-Geomorphology/Course_Topics/module-01.html"><img class="float-right"  src="{{ site.baseurl }}/assets/images/pics/Read2Steps.png"></a>
 
 ## What should I do to intercompare each site?
 
