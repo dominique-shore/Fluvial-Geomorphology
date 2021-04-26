@@ -27,7 +27,7 @@ This module focus on: [CHAPTER TWELVE: River evolution](https://ebookcentral-pro
 
 
 ### Relevant or Cited Literature
-Follow up *selected readings* suggested by Fryris and Brierley (2013) are provided for every chapter in page 328-3334 of the text book. 
+Follow up *selected readings* suggested by Fryris and Brierley (2013) are provided for every chapter in page 328-334 of the text book. 
 
 
 
