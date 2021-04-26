@@ -6,9 +6,7 @@ weight: 12
 
 ## Background
 
-### Why we're covering it
-
-d
+River evolution is the term Fryirs and Brierley use to describe the long term trajectory of "change" of routine river adjustments (i.e. normal behavior) within a riverscape. When such changes to behavior are pronounced enough, there is a change from river style  from one flavor to another (e.g. a single thread meandering river to a braided river). Such changes are typically due to a change in flux boundary conditions and these can be driven by changes in climate, tectonics and geologic forcing, and or anthropogenic changes (e.g. Chapter 13). 
 
 ### [Learning Outcomes]({{ site.baseurl }}/syllabus/#course-objectives)
 
@@ -19,13 +17,7 @@ d
 
 ## Resources
 
-### Slides & Handouts
-
-[Lecture Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2018/Week2_WATS_5350.pdf)
-
-<div class="responsive-embed">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTEBwDZh8uD2FbT5guSppFsszlSr5qZ77t7X49_ZkOhPNHNyek1X7MOltB7XEcJHP4WG2Q_4Zl-UQZp/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</div>
+We discussed this chapter together in class after independently read it and did not assign a lecture with slides.
 
 ### Corresponding Chapter in Course Text
 <a href="https://www.wiley.com/en-au/Geomorphic+Analysis+of+River+Systems%3A+An+Approach+to+Reading+the+Landscape-p-9781405192743"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/ReadingLandscape.png"></a>  From:
