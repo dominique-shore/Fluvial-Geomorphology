@@ -6,26 +6,52 @@ weight: 11
 
 ## Background
 
-### Why we're covering it
-
-d
+This chapter focuses on characterizing what the normal range of adjustments from geomorphic processes, and how distinct river styles have a characteristic suite of such mechanisms of adjustments (e.g. avulsions, incision, thalweg shift, bar development, lateral migration, etc.). Following on from a chapter recognizing the diversity of river types (styles), we now have a basis for developing expecations about both the form (character) and processes (behavior) shaping a riverscape.
 
 ### [Learning Outcomes]({{ site.baseurl }}/syllabus/#course-objectives)
 
 3. Apply principles of geomorphic analysis to a diversity of riverscapes.
 7. Gain an appreciation of how geomorphic processes of erosion, deposition transport and storage of sediment shape topography and create, maintain, sculpt and destroy distinctive landforms. 
 
+
 ------
+## Lecture Slides
+### Slides Used in Class
+<div class="row small-up-2 medium-up-2">
 
-## Resources
 
-### Slides & Handouts
+  <div class="column">
+    <div class="card">
 
-[Lecture Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2018/Week2_WATS_5350.pdf)
 
-<div class="responsive-embed">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTEBwDZh8uD2FbT5guSppFsszlSr5qZ77t7X49_ZkOhPNHNyek1X7MOltB7XEcJHP4WG2Q_4Zl-UQZp/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+      <div class="card-section">
+        <h4>No video</h4>
+
+No video lecture was assigned for this module. The slides at right were used and referenced in an in-class lecture and discussion.
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_11_RiverBehavior.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/Module11.png"></a>
+        	</div>
+        
+        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_11_RiverBehavior.pdf" target="_blank">Module 11  - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
 </div>
+
+------
+## Resources
 
 ### Corresponding Chapter in Course Text
 <a href="https://www.wiley.com/en-au/Geomorphic+Analysis+of+River+Systems%3A+An+Approach+to+Reading+the+Landscape-p-9781405192743"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/ReadingLandscape.png"></a>  From:
@@ -35,7 +61,7 @@ This module focus on: [CHAPTER ELEVEN: River behaviour](https://ebookcentral-pro
 
 
 ### Relevant or Cited Literature
-Follow up *selected readings* suggested by Fryris and Brierley (2013) are provided for every chapter in page 328-3334 of the text book. 
+Follow up *selected readings* suggested by Fryris and Brierley (2013) are provided for every chapter in page 328-334 of the text book. 
 
 
 
