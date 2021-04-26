@@ -6,7 +6,7 @@ weight: 11
 
 ## Background
 
-This chapter focuses on characterizing what the normal range of adjustments from geomorphic processes, and how distinct river styles have a characteristic suite of such mechanisms of adjustments (e.g. avulsions, incision, thalweg shift, bar development, lateral migration, etc.). Following on from a chapter recognizing the diversity of river types (styles), we now have a basis for developing expecations about both the form (character) and processes (behavior) shaping a riverscape.
+This chapter focuses on characterizing what the normal range of adjustments from geomorphic processes, and how distinct river styles have a characteristic suite of such mechanisms of adjustments (e.g. avulsions, incision, thalweg shift, bar development, lateral migration, etc.). Following on from a chapter recognizing the diversity of river types (styles), we now have a basis for developing expectations about both the form (character) and processes (behavior) shaping a riverscape.
 
 ### [Learning Outcomes]({{ site.baseurl }}/syllabus/#course-objectives)
 
