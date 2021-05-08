@@ -64,7 +64,7 @@ All have the same mix of processes... just in order. Choose one, and stick to it
 ------------
 ## Bingo Pages
 ### 2021 Class
-Thanks to everyone for sharing their Bingo Pages:
+Thanks to everyone for [sharing their Bingo Pages](https://usu.instructure.com/courses/637781/discussion_topics/2233114):
 
 - [Triton Abeyta](https://sites.google.com/view/tritonabeytawats5150/module-4)
 - [Jens Ammon](https://jensammon5.wixsite.com/jens/field-notes)
@@ -84,3 +84,105 @@ Thanks to everyone for sharing their Bingo Pages:
 - [Manisha Panthi](https://waterinaction.wordpress.com/lets-play/)
 - [Anna Paulding](https://geology3a.weebly.com/hydrology-bingo.html)
 - [Shelby Sawyer](https://sites.google.com/view/shelbysawyer/projects-assignments/bingo)
+
+The 2021 Winners (first three to declare Bingo) were:
+### [Gabe Benitez](https://gavabe45.wixsite.com/website/post/module-4-field-notebook-hydrology-bingo) and [Manisha Panthi](https://waterinaction.wordpress.com/lets-play/)
+
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Infiltration Excess Overland Flow</h4>
+        <div class="responsive-embed"> 
+
+<img src="https://static.wixstatic.com/media/69c1c6_c1d4fc54ce394e3583f1431629ad5e4c~mv2.jpg/v1/fill/w_740,h_987,al_c,q_90,usm_0.66_1.00_0.01/69c1c6_c1d4fc54ce394e3583f1431629ad5e4c~mv2.webp" >
+<br>
+
+
+</div>
+<a href="https://gavabe45.wixsite.com/website/post/module-4-field-notebook-hydrology-bingo">Gabe</a> took this photo on a bike trip through Pennsylvania<a href="https://gavabe45.wixsite.com/website/post/module-4-field-notebook-hydrology-bingo">module 4 Bingo assignment</a> <i class="fa fa-trophy" aria-hidden="true"></i>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Overbank Flow</h4>
+        <div class="responsive-embed"> 
+
+<a href="https://waterinaction.wordpress.com/lets-play/"><img src="https://waterinaction.files.wordpress.com/2021/02/overbank-flow-1.jpeg"></a>
+<br>
+
+
+</div>
+<a href="https://waterinaction.wordpress.com/lets-play/">Manisha</a> had a ton of great examples including this overbank flow exampel from the Naranyani River in Nepal in her  <a href="https://waterinaction.wordpress.com/lets-play/">module 4 Bingo assignment</a> <i class="fa fa-gamepad" aria-hidden="true"></i>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+### [Jens Hammon](https://jensammon5.wixsite.com/jens/field-notes)
+
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Saturation Excess Overland Flow</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="480" height="270" src="https://www.youtube.com/embed/T85gxfM_79M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+
+</div>
+<a href="https://jensammon5.wixsite.com/jens/field-notes">Jens</a> didn't get bingo on this video, but it was a cool example  <a href="https://jensammon5.wixsite.com/jens/field-notesl">module 4 Bingo assignment</a> <i class="fa fa-gamepad" aria-hidden="true"></i>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Stemflow</h4>
+        <div class="responsive-embed"> 
+
+<a href="https://jensammon5.wixsite.com/jens/field-notes"><img src="https://static.wixstatic.com/media/74edfc_4424a2e67f1c493293c744aab86cc5b0~mv2.png/v1/fill/w_281,h_375,al_c,q_85,usm_0.66_1.00_0.01/StemflowAnnotated.webp"></a>
+<br>
+
+
+</div>
+<a href="https://jensammon5.wixsite.com/jens/field-notes">Jens</a> had a neat example of stemflow higlighted in this image for his  <a href="https://jensammon5.wixsite.com/jens/field-notesl">module 4 Bingo assignment</a> <i class="fa fa-gamepad" aria-hidden="true"></i>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+#### Worth a Look
+Just cool examples:
+- [Casey's site](https://cchoate2.wixsite.com/fluvial/field-notebook-copy) is well worth a look.
+- [Haley](https://sites.google.com/aggiemail.usu.edu/hcanham-fluvial/home/module-4) got a double bingo and had a great sheet flow example.
+- [Amy](https://sites.google.com/aggiemail.usu.edu/fluv/projects/hydrology-bingo) did a really exemplar job explaining the hydrologic processes in each of her videos as well as defining them in the videos.
+- [Lauren](https://sites.google.com/aggiemail.usu.edu/lauren-herbine-fluvgeomorph/field-notebook/hydrology-bingo?authuser=0) has some really fun examples and nice stories to go along with each.
+- [Shelby's](https://sites.google.com/view/shelbysawyer/projects-assignments/bingo) snow accumlation time-lapse is a [PBR](http://lowtechpbr.restoration.usu.edu) soft spot for me.
+
+
+-----------
