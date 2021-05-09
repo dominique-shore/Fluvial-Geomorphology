@@ -226,12 +226,22 @@ From <a href="https://jensammon5.wixsite.com/jens/flume-dem">Jens</a>.
         <div class="responsive-embed"> 
 
 <a href="https://fluvialtalk.weebly.com/module-6---flume-assignment.html"><img src="https://fluvialtalk.weebly.com/uploads/1/3/5/8/135836902/sorting_orig.png"></a>
+</div><br>
+
+
+
+From <a href="https://fluvialtalk.weebly.com/module-6---flume-assignment.html">Megh</a>.
+
+
+
+        <div class="responsive-embed"> 
+
+<a href="https://waterinaction.wordpress.com/fluvial-dynamics/"><img src="https://waterinaction.files.wordpress.com/2021/02/img_20210208_162156a.jpg"></a>
 <br>
 
 
 </div>
-From <a href="https://fluvialtalk.weebly.com/module-6---flume-assignment.html">Megh</a>.
-
+One of the clearsest examples of the difference in grain size is in this wonderful example from <a href="https://waterinaction.wordpress.com/fluvial-dynamics/">Manisha</a>.
       </div>
     </div>
   </div>
