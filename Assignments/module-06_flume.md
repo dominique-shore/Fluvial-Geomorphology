@@ -93,18 +93,149 @@ You have to figure out how to document the processes and answer the questions on
 #### 2021
 In our  [2021 class]({{ site.baseurl }}/Fluvial-Geomorphology/syllabus/2021_Spring.html#2021-cohort) some of the students really went above and beyond.  Some of the most effective examples are shown below:
 
-[Lauren](https://sites.google.com/aggiemail.usu.edu/lauren-herbine-fluvgeomorph/projects-and-assignments/flume-observations?authuser=0) did one of the most impressive jobs of taking one of the videos and annotating what's going on throughout:
+
+
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+ <h4>Manisha's Video Annotation of Processes</h4>
+        <div class="responsive-embed"> 
+
+<div class="responsive-embed"><iframe width="900" height="507" src="https://www.youtube.com/embed/e4S-R62fvKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<br>
+
+
+</div>
+<a href="https://waterinaction.wordpress.com/fluvial-dynamics/">Manisha</a> did a great job of using text editing in her video to highlight how the flume works and specific processes..
+
+
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Lauren's Video Annotation of Processes</h4>
+        <div class="responsive-embed"> 
+
 <div class="responsive-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/ahvhg2HeVpk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<br>
 
-[Daniel](https://danielthurber.weebly.com/fluvial-geomorphology/geomorphic-processes) did a great job of explaining individual mechanisms and narrating what was going on:
-<div class="responsive-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/RFwnOwOzDRs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Below Lauren again highlights exactly where structural forcing is taking place:
+</div>
+<a href="https://sites.google.com/aggiemail.usu.edu/lauren-herbine-fluvgeomorph/projects-and-assignments/flume-observations?authuser=0l">Lauren</a> did one of the most impressive jobs of taking one of the videos and annotating what's going on throughout.
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+ <h4>Lauren's Video Annotation of Structural Forcing</h4>
+        <div class="responsive-embed"> 
+
 <div class="responsive-embed"><iframe width="869" height="500" src="https://www.youtube.com/embed/JRjoSl2w7Ck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<br>
+
+
+</div>
+<a href="https://sites.google.com/aggiemail.usu.edu/lauren-herbine-fluvgeomorph/projects-and-assignments/flume-observations?authuser=0">Lauren</a>   again highlights exactly where structural forcing is taking place:
+
+
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Daniel's Narration of Structural Forcing</h4>
+        <div class="responsive-embed"> 
+
+<div class="responsive-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/RFwnOwOzDRs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<br>
+
+
+</div>
+<a href="https://danielthurber.weebly.com/fluvial-geomorphology/geomorphic-processes">Daniel</a>  did a great job of explaining individual mechanisms and narrating what was going on.
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
 
 Here [Lauren](https://sites.google.com/aggiemail.usu.edu/lauren-herbine-fluvgeomorph/projects-and-assignments/flume-observations?authuser=0) and [Gabe](https://gavabe45.wixsite.com/website/post/module-6-flume-observations) explain sorting:
 <div class="responsive-embed"><iframe width="1048" height="611" src="https://www.youtube.com/embed/E9X8THNO73o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+[Jens](https://jensammon5.wixsite.com/jens/flume-dem) and [Megh](https://fluvialtalk.weebly.com/module-6---flume-assignment.html) did a nice job of using really helpful annotations to illustrate different concepts:
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Discharge and Slope Controls with Flume </h4>
+        <div class="responsive-embed"> 
+
+<a href="https://jensammon5.wixsite.com/jens/flume-demo"><img src="https://static.wixstatic.com/media/74edfc_c966ebcd4499464b94413617366c3369~mv2.png/v1/crop/x_0,y_78,w_1716,h_861/fill/w_1716,h_861,al_c,q_90/Slope_PNG.webp"></a>
+<br>
+A simple annotated sketch goes a long way... 
+</div>
+<div class="responsive-embed"> 
+<a href="https://jensammon5.wixsite.com/jens/flume-demo"><img src="https://static.wixstatic.com/media/74edfc_403643522e6f458299cfad9cd9230962~mv2.png/v1/fill/w_590,h_566,al_c,q_85,usm_0.66_1.00_0.01/Discharge_PNG.webp"></a>
+<br>
+</div>
+From <a href="https://jensammon5.wixsite.com/jens/flume-dem">Jens</a>.
+
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Grain Sorting</h4>
+        <div class="responsive-embed"> 
+
+<a href="https://fluvialtalk.weebly.com/module-6---flume-assignment.html"><img src="https://fluvialtalk.weebly.com/uploads/1/3/5/8/135836902/sorting_orig.png"></a>
+<br>
+
+
+</div>
+From <a href="https://fluvialtalk.weebly.com/module-6---flume-assignment.html">Megh</a>.
+
+      </div>
+    </div>
+  </div>
+</div>
 
 
 ## Recipe for a Meandering River
