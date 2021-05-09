@@ -208,7 +208,93 @@ Just cool examples:
 </div>
 
 - [Lauren](https://sites.google.com/aggiemail.usu.edu/lauren-herbine-fluvgeomorph/field-notebook/hydrology-bingo?authuser=0) has some really fun examples and nice stories to go along with each.
+- [Denny's](https://fluvialhaynes.weebly.com/hydrology-bingo.html) definitions were a really helpful way to present these.
+- [Megh](https://fluvialtalk.weebly.com/module-4---bingo.html) had some great examples in his including some real rain and a serious flood in Nepal:
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        
+        <div class="responsive-embed"> 
+
+<iframe width="1000" height="593" src="https://www.youtube.com/embed/9jOosfcYU0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+
+</div>
+
+
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        
+        <div class="responsive-embed"> 
+
+<img src="https://fluvialtalk.weebly.com/uploads/1/3/5/8/135836902/overbank-flow_orig.jpg"  >
+<br>
+
+Now that's overbank flow... 
+</div>
+
+
+      </div>
+    </div>
+  </div>
+
+</div>
 - [Shelby's](https://sites.google.com/view/shelbysawyer/projects-assignments/bingo) snow accumlation time-lapse is a [PBR](http://lowtechpbr.restoration.usu.edu) soft spot for me.
+- [Kat](https://sites.google.com/view/kat-sd/projectsassignments/assignment-3-hydrologic-processes?authuser=0), like Daniel, had some wonderfully clear explanations and defintions. I was particularlly impressed by her multi-tasking (I think she did this [condensation](https://sites.google.com/view/kat-sd/projectsassignments/assignment-3-hydrologic-processes/condensation?authuser=0) and [snow accumulation](https://sites.google.com/view/kat-sd/projectsassignments/assignment-3-hydrologic-processes/snow?authuser=0) videos while walking to class)! Impressive.
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OT93hVi-FyM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+Great use of time... 
+
+</div>
+
+
+      </div>
+    </div>
+  </div>
+
+ <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AzSnaX06Xq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+I guess if you can't see, that's pretty clearly condensation?
+
+</div>
+
+
+      </div>
+    </div>
+  </div>
+</div>
+
 
 
 -----------
