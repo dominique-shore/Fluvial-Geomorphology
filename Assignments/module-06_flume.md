@@ -83,8 +83,24 @@ Here is a shared [Google Album](https://photos.app.goo.gl/bBndwsfLFUVFdUb66). If
 
 ## GoPro Videos
 
-Some videos Joe took:
+### Some videos Joe took:
+
 <div class="responsive-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzJe6tlN7uox9VZSyWN3ks0K" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
+### Some Student Videos:
+[Lauren](https://sites.google.com/aggiemail.usu.edu/lauren-herbine-fluvgeomorph/projects-and-assignments/flume-observations?authuser=0) did one of the most impressive jobs of taking one of the videos and annotating what's going on throughout:
+<div class="responsive-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/ahvhg2HeVpk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+[Daniel](https://danielthurber.weebly.com/fluvial-geomorphology/geomorphic-processes) did a great job of explaining individual mechanisms and narrating what was going on:
+<div class="responsive-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/RFwnOwOzDRs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+Below Lauren again highlights exactly where structural forcing is taking place:
+<div class="responsive-embed"><iframe width="869" height="500" src="https://www.youtube.com/embed/JRjoSl2w7Ck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+Here [Lauren](https://sites.google.com/aggiemail.usu.edu/lauren-herbine-fluvgeomorph/projects-and-assignments/flume-observations?authuser=0) and [Gabe](https://gavabe45.wixsite.com/website/post/module-6-flume-observations) explain sorting:
+<div class="responsive-embed"><iframe width="1048" height="611" src="https://www.youtube.com/embed/E9X8THNO73o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 
 ## Recipe for a Meandering River
 
