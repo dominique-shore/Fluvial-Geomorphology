@@ -81,13 +81,18 @@ Answer (in up to a  paragraph or so and with illustrations if helpful):
 ## Album
 Here is a shared [Google Album](https://photos.app.goo.gl/bBndwsfLFUVFdUb66). If any of your pictures or videos didn't capture everything you need above, you can borrow from here. Please feel  free to contribute and share your own. Others may see different things in the same videos!
 
-## GoPro Videos
+## Videos
 
 ### Some videos Joe took:
 
 <div class="responsive-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzJe6tlN7uox9VZSyWN3ks0K" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
-### Some Student Videos:
+## Some Student Contriubtions:
+You have to figure out how to document the processes and answer the questions on your own but a little inspiration to borrow from never hurts... 
+
+#### 2021
+In our  [2021 class]({{ site.baseurl }}/Fluvial-Geomorphology/syllabus/2021_Spring.html#2021-cohort) some of the students really went above and beyond.  Some of the most effective examples are shown below:
+
 [Lauren](https://sites.google.com/aggiemail.usu.edu/lauren-herbine-fluvgeomorph/projects-and-assignments/flume-observations?authuser=0) did one of the most impressive jobs of taking one of the videos and annotating what's going on throughout:
 <div class="responsive-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/ahvhg2HeVpk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
