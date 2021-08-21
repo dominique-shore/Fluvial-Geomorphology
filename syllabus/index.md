@@ -10,7 +10,7 @@ weight: 1
 
 <img class="float-right" src="{{ site.baseurl }}/assets/images/pics/WATS-5150_Canvas.png">This course focuses on an introduction to fluvial geomorphology through teaching students to read landscapes and riverscapes. Students will develop an appreciation of riverscape diversity, in which distinctive suites of physical and biotic processes (behavior) help shape the form and character of those landscapes. Weekend field trips are required. 
 
-|**Semester(s) Traditionally Offered**| Fall|
+|**Semester(s) Traditionally Offered**| Spring|
 |**Credits**: |3.000 Credit hours |
 |**Levels**: |Graduate, Undergraduate|
 |**Schedule Types**: |Hybrid Face to Face Lecture |
@@ -24,13 +24,13 @@ weight: 1
 - [Fluvial Geomorphology - 12014 - WATS 5150 - 001](https://ssb.banner.usu.edu/zprod/bwckctlg.p_disp_listcrse?term_in=202120&subj_in=WATS&crse_in=5150&schd_in=HL)
 
 
-This course will typically be taught every Fall. However, the first revamped version of the class will be taught Spring 2021 (Fall 2021 will be skipped). Wheaton has a sabbatical planned for Fall 2022-2023. So, next planned for Fall 2023.
+This course will typically be taught every Spring. The first revamped version of the class was taught in [Spring 2021]({{ site.baseurl }}/syllabus/2021_Spring.html) and next class is scheduled to be taught Spring 2022. Wheaton has a sabbatical planned for Fall 2022-2023. A decision has not been reached as to whether or not a substitute instructor will teach in Spring 2023 or we wait for Wheaton's return in Spring 2024.
 
 
 ------
 
 # Fees
-Regular Tuition. $150 Field Trip course fee.
+Regular Tuition. $150 Field Trips course fee.
 
 # Course Objectives
 
@@ -92,7 +92,7 @@ This is the so-called "River-Styles" text book and is a helpful follow up refere
 
 
 
-
+<!---
 
 # Course Requirements
 
@@ -103,6 +103,7 @@ Each student will:
 # Evaluation Methods and Criteria
 
 (e.g., exams, presentations, papers, performances, etc.)
+--->
 
 # Grade Scheme
 
@@ -122,6 +123,8 @@ The following grading standards will be used in this class:
 | D     | < 67.0 % to 60.0% |
 | F     | < 59.0 % to 0.0%  |
 
+<!---
+
 # Course Schedule/Outline
 
 Outline dates and assignments
@@ -129,6 +132,8 @@ Outline dates and assignments
 # Attendance and Excused Absences Policy
 
 Insert course policy content here.
+
+--->
 
 # Library Services
 
