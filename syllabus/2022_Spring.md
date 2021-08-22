@@ -89,7 +89,7 @@ We will use the same recurring Zoom Meeting Link:
    <div class="column column-block">
     <a href="http://joewheaton.org"><img src="{{ site.baseurl }}/assets/images/people/Joe_Cartoon_KellyStanford_Round200.png"></a>
     <h4><a href="http://joewheaton.org">Joseph Wheaton<sup>1,2</sup></a></h4>
-    Associate Professor of Riverscapes<br>
+     Professor of Riverscapes<br>
    <b>Instructor</b><br>
    Office Hour: Wednesday, 12:00 to 13:00 - <a href="https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09">Zoom Drop-In</a> or By Appointment
   </div>
