@@ -54,7 +54,7 @@ The [2021 class]({{ site.baseurl }}/Fluvial-Geomorphology/syllabus/2021_Spring.h
         <h4>Triton Abeyta</h4>
         <div class="responsive-embed"> 
 
-<a href="https://sites.google.com/view/tritonabeytawats5150/module-5?authuser=0"><img src="https://lh4.googleusercontent.com/EhuXQUgfSjNvrT-zN7WOPqvSQqTblapMWjrAsPK3wYuL1MWShE0YxpWTAiAovj9_kzj3b6aC-Iovev_efNxr8Giwm_bYRa-hD8Y2V6OoJdKlbrsI4ztMzUNtS5bi9qt08g=w1280"></a>
+<a href="https://sites.google.com/view/tritonabeytawats5150/module-5?authuser=0"><img src="{{ site.baseurl }}/assets/images/assignments/TritonHydraulics.png"></a>
 <br>
 
 
