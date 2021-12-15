@@ -19,23 +19,20 @@ weight: 2
 
 <!--- Don't forget to update Zoom link --->
 
-| Class     | Time              | Days | Where                     | Dates                 |  Instructors                                                                                         |
-|----------|-------------------|------|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------|
-| Discussion, Workshop and/or Field Trips    | 1:30 pm - 5:00 pm | Monday    | Mainly [Zoom](https://usu-edu.zoom.us/j/86463317630?pwd=Q0VKc2xxWHhibDVuK3Fqd3NlNE0rQT09) | Jan 10 - Apr 27,  2022 |  [Joseph Michael Wheaton ](http://joewheaton.org) |
-| Lecture /Discussion | 1:30 pm - 2:30 pm | Wednesday    | [Zoom](https://usu-edu.zoom.us/j/86463317630?pwd=Q0VKc2xxWHhibDVuK3Fqd3NlNE0rQT09) | Jan 10 - Apr 27,  2022 |  [Joseph Michael Wheaton ](http://joewheaton.org) |
 
-<!--- Don't forget to update Zoom link --->
-We will use the same recurring Zoom Meeting Link:
-<div align="center">
-<a class="hollow button" href="https://usu-edu.zoom.us/j/86463317630?pwd=Q0VKc2xxWHhibDVuK3Fqd3NlNE0rQT09"><img src="{{ site.baseurl }}/assets/images/zoom_icon_32.png">  <b>Zoom Meeting Link</b><br>Mondays & Wednesdays</a>
 
-</div>
+| Type | Time | Days | Where | Date Range | Schedule Type | Instructors |
+|---|---|---|---|---|---|---|
+| Discussion, Workshop and/or Field Trips | 1:30 pm - 5:00 pm | M | [Distance Education](https://www.usu.edu/map/index.cfm?id=540) 105 | Jan 10, 2022 - May 04, 2022 | Face to Face Lecture |  [Joseph Michael Wheaton ](http://joewheaton.org) (P)# |
+| Lecture /Discussion | 1:30 pm - 2:30 pm | W | [Distance Education](https://www.usu.edu/map/index.cfm?id=540) 105 | Jan 10, 2022 - May 04, 2022 | Face to Face Lecture |  [Joseph Michael Wheaton ](http://joewheaton.org) (P)# |
+
+
 
 ### Course Schedule / Outline
 
-<!--- Don't forget to update Canvas link --->
+
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>See Spring 2022 Canvas</b><br> For Latest Schedule</a>
+<a class="hollow button" href="https://usu.instructure.com/courses/698781"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>See Spring 2022 Canvas</b><br> For Latest Schedule</a>
 </div>
 
 #### Rough Plan:
@@ -43,7 +40,7 @@ We will use the same recurring Zoom Meeting Link:
 | Week | M/W  |                 Date                 | Module                                           | Topic                                                        | Book Chapter                                                 |
 | ---- | ---- | :----------------------------------: | ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1    | Mon  |                 1/10                 | [1]({{ site.baseurl }}/Course_Topics/module-01)  | [Geomorphic Analysis - Reading the Landscape]({{ site.baseurl }}/Course_Topics/module-01) | [**Chapter 1**: Geomorphic analysis of river systems: an approach to reading the landscape](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=17) |
-| 2    | Wed  |                 1/12                 | [2]({{ site.baseurl }}/Course_Topics/module-02) | [Key Concepts in Fluvial Geomorphology]({{ site.baseurl }}/Course_Topics/module-02) | [**Chapter 2**: Key concepts in river geomorphology](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=25) |
+| 1   | Wed  |                 1/12                 | [2]({{ site.baseurl }}/Course_Topics/module-02) | [Key Concepts in Fluvial Geomorphology]({{ site.baseurl }}/Course_Topics/module-02) | [**Chapter 2**: Key concepts in river geomorphology](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=25) |
 | 2    | Mon  |       MLK Holiday Monday 1/17        |                                                  |                                                              |                                                              |
 | 2    | Wed  |                 1/19                 | [3]({{ site.baseurl }}/Course_Topics/module-03)  | [Catchment-Scale Controls on River Geomorphology]({{ site.baseurl }}/Course_Topics/module-03) | [**Chapter 3**: Catchment-scale controls on river geomorphology](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=45) |
 | 3    | Mon  |                 1/24                 | [2]({{ site.baseurl }}/Course_Topics/module-02)  | [Catchment Hydrology]({{ site.baseurl }}/Course_Topics/module-04) | [**Chapter 4**: Catchment hydrology](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=60) |
