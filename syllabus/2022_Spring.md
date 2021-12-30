@@ -21,8 +21,8 @@ weight: 2
 
 | Class     | Time              | Days | Where                     | Dates                 |  Instructors                                                                                         |
 |----------|-------------------|------|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------|
-| Discussion, Workshop and/or Field Trips    | 1:30 pm - 5:00 pm | Monday    | Mainly [Zoom](https://usu-edu.zoom.us/j/86463317630?pwd=Q0VKc2xxWHhibDVuK3Fqd3NlNE0rQT09) | Jan 10 - Apr 27,  2022 |  [Joseph Michael Wheaton ](http://joewheaton.org) |
-| Lecture /Discussion | 1:30 pm - 2:30 pm | Wednesday    | [Zoom](https://usu-edu.zoom.us/j/86463317630?pwd=Q0VKc2xxWHhibDVuK3Fqd3NlNE0rQT09) | Jan 10 - Apr 27,  2022 |  [Joseph Michael Wheaton ](http://joewheaton.org) |
+| Discussion, Workshop and/or Field Trips    | 1:30 pm - 5:00 pm | Monday    | Mainly [Zoom](https://usu-edu.zoom.us/j/86463317630?pwd=Q0VKc2xxWHhibDVuK3Fqd3NlNE0rQT09) | Jan 10 - Apr 25,  2022 |  [Joseph Michael Wheaton ](http://joewheaton.org) |
+| Lecture /Discussion | 1:30 pm - 2:30 pm | Wednesday    | [Zoom](https://usu-edu.zoom.us/j/86463317630?pwd=Q0VKc2xxWHhibDVuK3Fqd3NlNE0rQT09) | Jan 10 - Apr 25,  2022 |  [Joseph Michael Wheaton ](http://joewheaton.org) |
 
 <!--- Don't forget to update Zoom link --->
 We will use the same recurring Zoom Meeting Link:
