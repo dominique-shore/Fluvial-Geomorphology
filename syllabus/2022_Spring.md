@@ -15,7 +15,7 @@ weight: 2
 
 ## Spring 2022 WATS 5150/6150
 <!--- Don't forget to update CRN 00000 --->
-[Fluvial Geomorphology - 12811  - WATS 5150 - 001](https://ssb.banner.usu.edu/zprod/bwckctlg.p_disp_listcrse?term_in=202120&subj_in=WATS&crse_in=5150&schd_in=HL)
+[Fluvial Geomorphology - 12811  - WATS 5150 - 001](https://ssb.banner.usu.edu/zprod/bwckctlg.p_disp_course_detail?cat_term_in=202220&subj_code_in=WATS&crse_numb_in=6150)
 
 <!--- Don't forget to update Zoom link --->
 
