@@ -37,3 +37,49 @@ Here are some examples of what [students for this class did back in 2021](https:
 Okay, back to that real or virtual riverscape you visit. Lets put some sideboards on this, you can observe this riverscape you visit (just a reach) in < 15 minutes. Maybe limit your write up and notes and such to less than an hour (not counting building your website... can be done in 5 minutes). If you have questions, post them to [Module 1 Discussion](https://usu.instructure.com/courses/698781/discussion_topics/2442039). 
 
 I want you to read this riverscape, and the whole point is to see how differently you all complete this exercise. For your next field trip, we will more carefully prescribe how to document your observations and reading of the landscape. For now, I don't want to stifle your creativity. Just do what you do. I am curious what you think its important, and what you denote. 
+
+### Other Resources
+
+#### Field Safety
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>River Wading Safely
+</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q3FbacAazd4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 12 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> from 
+Bill Annable
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Field Observations and Safety this Semester</h4>
+      <div class="responsive-embed"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzIht40Xxkb-ckpLPvbuzSo5" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        	</div>
+        
+         <i class="fa fa-clock-o" aria-hidden="true"></i> 10 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> from 
+Joe Wheaton. This is "pandemic-focused" for self-led field trips. However, many of the safety tips and field tips are helpful in general. 
+        
+      </div>
+    </div>
+
+  </div>
+</div>

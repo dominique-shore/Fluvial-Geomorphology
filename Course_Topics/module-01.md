@@ -73,7 +73,7 @@ Follow up *selected readings* suggested by Fryris and Brierley (2013) are provid
 
 ### Other Resources
 
-#### Field Safety
+#### Field Safety for when Reading Riverscapes
 
 <div class="row small-up-2 medium-up-2">
 
