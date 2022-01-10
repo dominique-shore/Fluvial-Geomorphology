@@ -1,6 +1,6 @@
 ---
 title: 	Flume Observations
-weight: 4
+weight: 6
 ---
 # Module 6 Flume Observations: Fluvial Geomorphic Processes
 

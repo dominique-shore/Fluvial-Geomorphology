@@ -1,6 +1,6 @@
 ---
 title: 	Instream Geomorphic Units from GUT
-weight: 6
+weight: 8
 ---
 # Module 8 - Instream Geomorphic Units from GUT
 
@@ -350,5 +350,4 @@ In this video, I show you how to get data I provided from <a href="http://data.r
 
 ### 2020 GUT
 - Williams RD, Bangen S, Gillies E, Kramer N, Moir H, Wheaton J. 2020. Let the river erode! Enabling lateral migration increases geomorphic unit diversity. Science of The Total Environment : 136817. DOI: [10.1016/j.scitotenv.2020.136817](10.1016/j.scitotenv.2020.136817)
-
 

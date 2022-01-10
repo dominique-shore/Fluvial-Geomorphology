@@ -1,6 +1,6 @@
 ---
 title: 	Hydraulics Field Observation
-weight: 3
+weight: 5
 ---
 # Module 5 Field Observations: Hydraulics
 

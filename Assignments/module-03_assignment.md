@@ -1,6 +1,6 @@
 ---
 title: 	Catchment-Scale Controls in Logan River Watershed
-weight: 1
+weight: 2
 ---
 # Module 3 Homework: Catchment-Scale Controls on River Geomorphology
 
