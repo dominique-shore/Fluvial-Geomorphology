@@ -17,17 +17,18 @@ weight: 2
 <!--- Don't forget to update CRN 00000 --->
 [Fluvial Geomorphology - 12811  - WATS 5150 - 001](https://ssb.banner.usu.edu/zprod/bwckctlg.p_disp_course_detail?cat_term_in=202220&subj_code_in=WATS&crse_numb_in=6150)
 
-<!--- Don't forget to update Zoom link --->
+
 
 | Class     | Time              | Days | Where                     | Dates                 |  Instructors                                                                                         |
 |----------|-------------------|------|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------|
-| Discussion, Workshop and/or Field Trips    | 1:30 pm - 5:00 pm | Monday    | Mainly [Zoom](https://usu-edu.zoom.us/j/86463317630?pwd=Q0VKc2xxWHhibDVuK3Fqd3NlNE0rQT09) | Jan 10 - Apr 25,  2022 |  [Joseph Michael Wheaton ](http://joewheaton.org) |
-| Lecture /Discussion | 1:30 pm - 2:30 pm | Wednesday    | [Zoom](https://usu-edu.zoom.us/j/86463317630?pwd=Q0VKc2xxWHhibDVuK3Fqd3NlNE0rQT09) | Jan 10 - Apr 25,  2022 |  [Joseph Michael Wheaton ](http://joewheaton.org) |
+| Discussion, Workshop and/or Field Trips    | 1:30 pm - 5:00 pm | Monday    | [Distance Education 105](https://www.usu.edu/map/index.cfm?id=540) | Jan 10 - Apr 25,  2022 |  [Joseph Michael Wheaton ](http://joewheaton.org) |
+| Lecture /Discussion | 1:30 pm - 2:30 pm | Wednesday    | [Distance Education 105](https://www.usu.edu/map/index.cfm?id=540)  | Jan 10 - Apr 25,  2022 |  [Joseph Michael Wheaton ](http://joewheaton.org) |
 
-<!--- Don't forget to update Zoom link --->
-We will use the same recurring Zoom Meeting Link:
+
+This is a face to face delivery class, and we plan to meet in person at at [Distance Education 105](https://www.usu.edu/map/index.cfm?id=540) most every Monday and Wednesday (unless a field trip is scheduled for Monday by prior arrangement) if permissible. However, we are in the midst of a pandemic (see [student guidelines](https://www.usu.edu/covid-19/communications/students)). Stay home if you're sick, have symptoms or have been exposed. I will turn on Zoom each time we meet in person to make it easy for you to participate if you are in self-isolation, or quarantine and would like to participate. If you are too sick to participate during class, please let me know ahead of time and I can record our class session. We may also sometimes opt to meet virtually as a class and in such instances  we will be using the same [Zoom Link](https://usu-edu.zoom.us/j/86463317630?pwd=Q0VKc2xxWHhibDVuK3Fqd3NlNE0rQT09).  
+
 <div align="center">
-<a class="hollow button" href="https://usu-edu.zoom.us/j/86463317630?pwd=Q0VKc2xxWHhibDVuK3Fqd3NlNE0rQT09"><img src="{{ site.baseurl }}/assets/images/zoom_icon_32.png">  <b>Zoom Meeting Link</b><br>Mondays & Wednesdays</a>
+<a class="hollow button" target="blank" href="https://usu-edu.zoom.us/j/86463317630?pwd=Q0VKc2xxWHhibDVuK3Fqd3NlNE0rQT09"><img src="{{ site.baseurl }}/assets/images/zoom_icon_32.png">  <b>Zoom Meeting Link</b><br>By Arrangement</a>
 
 </div>
 
@@ -35,7 +36,7 @@ We will use the same recurring Zoom Meeting Link:
 
 <!--- Don't forget to update Canvas link --->
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>See Spring 2022 Canvas</b><br> For Latest Schedule</a>
+<a class="hollow button" target="blank" href="https://usu.instructure.com/courses/698781"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>See Spring 2022 Canvas</b><br> For Latest Schedule</a>
 </div>
 
 #### Rough Plan:
@@ -46,9 +47,9 @@ We will use the same recurring Zoom Meeting Link:
 | 2    | Wed  |                 1/12                 | [2]({{ site.baseurl }}/Course_Topics/module-02) | [Key Concepts in Fluvial Geomorphology]({{ site.baseurl }}/Course_Topics/module-02) | [**Chapter 2**: Key concepts in river geomorphology](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=25) |
 | 2    | Mon  |       MLK Holiday Monday 1/17        |                                                  |                                                              |                                                              |
 | 2    | Wed  |                 1/19                 | [3]({{ site.baseurl }}/Course_Topics/module-03)  | [Catchment-Scale Controls on River Geomorphology]({{ site.baseurl }}/Course_Topics/module-03) | [**Chapter 3**: Catchment-scale controls on river geomorphology](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=45) |
-| 3    | Mon  |                 1/24                 | [2]({{ site.baseurl }}/Course_Topics/module-02)  | [[Catchment Hydrology]({{ site.baseurl }}/Course_Topics/module-04)]({{ site.baseurl }}/Course_Topics/module-03) | [**Chapter 4**: Catchment hydrology](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=60) |
-| 3    | Wed  |                 1/26                 | [3]({{ site.baseurl }}/Course_Topics/module-03)  | [[Catchment Hydrology]({{ site.baseurl }}/Course_Topics/module-04)]({{ site.baseurl }}/Course_Topics/module-03) | [**Chapter 4**: Catchment hydrology](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=60) |
-| 4    | Mon  |                 1/31                 | [4]({{ site.baseurl }}/Course_Topics/module-04)  | [[Hydraulics]({{ site.baseurl }}/Course_Topics/module-05)]({{ site.baseurl }}/Course_Topics/module-04) | [**Chapter 5**: Impelling and resisting forces in river systems](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=81) |
+| 3    | Mon  |                 1/24                 | [2]({{ site.baseurl }}/Course_Topics/module-02)  | [Catchment Hydrology]({{ site.baseurl }}/Course_Topics/module-03) | [**Chapter 4**: Catchment hydrology](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=60) |
+| 3    | Wed  |                 1/26                 | [3]({{ site.baseurl }}/Course_Topics/module-03)  | [Catchment Hydrology]({{ site.baseurl }}/Course_Topics/module-03) | [**Chapter 4**: Catchment hydrology](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=60) |
+| 4    | Mon  |                 1/31                 | [4]({{ site.baseurl }}/Course_Topics/module-04)  | [Hydraulics]({{ site.baseurl }}/Course_Topics/module-04) | [**Chapter 5**: Impelling and resisting forces in river systems](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=81) |
 | 4    | Wed  |                 2/2                  | [5]({{ site.baseurl }}/Course_Topics/module-05)  | [Hydraulics]({{ site.baseurl }}/Course_Topics/module-05)     | [**Chapter 5**: Impelling and resisting forces in river systems](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=81) |
 | 5    | Mon  |                 2/7                  | [6]({{ site.baseurl }}/Course_Topics/module-06)  | [Fluvial Geomorphic Processes]({{ site.baseurl }}/Course_Topics/module-06) | [**Chapter 6**: Sediment movement and deposition in river systems](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=97) |
 | 5    | Wed  |                 2/9                  | [6]({{ site.baseurl }}/Course_Topics/module-06)  | [Fluvial Geomorphic Processes]({{ site.baseurl }}/Course_Topics/module-06) | [**Chapter 6**: Sediment movement and deposition in river systems](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=97) |
@@ -58,7 +59,7 @@ We will use the same recurring Zoom Meeting Link:
 | 7    | Wed  |                 2/23                 | [8]({{ site.baseurl }}/Course_Topics/module-08)  | [Instream Forms]({{ site.baseurl }}/Course_Topics/module-08) | [**Chapter 8**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=148) |
 | 8    | Mon  |                 2/28                  | [9]({{ site.baseurl }}/Course_Topics/module-09)  | [Floodplain Forms & Processes]({{ site.baseurl }}/Course_Topics/module-09) | [**Chapter 9**: Floodplain forms and processes](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=171) |
 | 8    | Wed  |                 3/2                  | [9]({{ site.baseurl }}/Course_Topics/module-09)  | [Floodplain Forms & Processes]({{ site.baseurl }}/Course_Topics/module-09) | [**Chapter 9**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=171) |
-|     | Mon - Fri  | Sring Break; No Class |      3/7 to 3/11                                            |                                                              |                                                              |
+|     | Mon - Fri  | Sring Break; No Class |      3/7 to 3/11                                            |    Optional Field Trip TBD                                                          |                                                              |
 | 9    | Mon  |                 3/14                  | [10]({{ site.baseurl }}/Course_Topics/module-10) | [River Diversity]({{ site.baseurl }}/Course_Topics/module-10) | [**Chapter 10**: River diversity](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=190) |
 | 9    | Wed  |                 3/16                 | [10]({{ site.baseurl }}/Course_Topics/module-10) | [River Diversity]({{ site.baseurl }}/Course_Topics/module-10) | [**Chapter 10**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=190) |
 | 10   | Mon  |                 3/21                 | [11]({{ site.baseurl }}/Course_Topics/module-11) | [River Behavior]({{ site.baseurl }}/Course_Topics/module-11) | [**Chapter 11**: River behaviour](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=221) |
@@ -118,7 +119,7 @@ Please use Office Hours (Wednesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom
 <!---- dont' forget to update CAnvas link --->
 
 <div align="center">
-<a class="hollow button" href=""><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2022 Canvas</b><br> WATS 6900 - Intro to LTPBR Course Assignments</a>
+<a class="hollow button" target="blank" href="https://usu.instructure.com/courses/698781"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2022 Canvas</b><br> WATS 6900 - Intro to LTPBR Course Assignments</a>
 
 <a class="hollow button" href="{{ site.baseurl }}/modules"><img src="{{ site.baseurl }}/assets/images/presentation.png"> <b>Modules</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
