@@ -61,9 +61,14 @@ You can get carried away with this assignment. I wouldn't recommend starting the
 
 ### Riverscapes Context 
 
-A [Riverscapes Context Project for HUC 16010203 (Little-Bear Logan)](https://data.riverscapes.xyz/#/PUBLIC_DATA/96c4925e-262f-4726-a6b9-0a57c52639d3) from the [Riverscapes Consortium](http://riverscapes.xyz). - *<i class="fa fa-file-archive-o" aria-hidden="true"></i> 446.87 MB Riverscapes Project viewable in with [RAVE AddIN to ArcGIS 10.X](http://rave.riverscapes.xyz)*. This project has the watershed boundary, DEM and drainage network lines (you can also go find them on other USGS and USDA websites), as well as a ton of additional context. You do not *need* this project to do the homework, but if you plan to do it in ArcGIS 10.6 or later (not ArcGIS Pro), this will help.
+A [Riverscapes Context Project for HUC 16010203 (Little-Bear Logan)](https://data.riverscapes.xyz/#/BEAR/36f363c1-3b46-4185-9077-377936643a15) from the [Riverscapes Consortium](http://riverscapes.xyz). - *<i class="fa fa-file-archive-o" aria-hidden="true"></i> 446.87 MB Riverscapes Project viewable in ArcGIS or QGIS with [RAVE](http://rave.riverscapes.xyz)*. This project has the watershed boundary, DEM and drainage network lines (you can also go find them on other USGS and USDA websites), as well as a ton of additional context. You do not *need* this project to do the homework, but if you plan to do it in ArcGIS 10.6 or later (not ArcGIS Pro), this will help. You can also view the project in [WebRAVE here](https://webrave.riverscapes.xyz/#/BEAR/36f363c1-3b46-4185-9077-377936643a15).
 
-### 
+To download above project, you will need [to create an account](https://riverscapes.xyz/Data_Warehouses/signup.html) and to request access from Joe.
+
+### TauDEM Project
+[TauDEM Project for HUC 16010203 (Little-Bear Logan)](https://webrave.riverscapes.xyz/#/BEAR/ba8b8bf7-a519-4038-ac27-1a2ba3d832e2)
+
+
 
 ### Shapefiles Prepped
 There are three files in this [LoganShapefiles+KMZ.zip ](https://usu.instructure.com/files/79946836/download?download_frd=1) <i class="fa fa-file-archive-o" aria-hidden="true"></i> file:
