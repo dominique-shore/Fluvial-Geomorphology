@@ -31,6 +31,9 @@ This is a face to face delivery class, and we plan to meet in person at at [Dist
 <a class="hollow button" target="blank" href="https://usu-edu.zoom.us/j/86463317630?pwd=Q0VKc2xxWHhibDVuK3Fqd3NlNE0rQT09"><img src="{{ site.baseurl }}/assets/images/zoom_icon_32.png">  <b>Zoom Meeting Link</b><br>By Arrangement</a>
 
 </div>
+- Add Monday to your Google Calendar (with Zoom link):  <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N2s5OWFxaDM5aWo2dmI4ZmZmcHBrZHBiaDVfMjAyMjAxMjRUMjAzMDAwWiBmbzExb3VrZXFzYzRna3BmMDBnbGxvczRqa0Bn&amp;tmsrc=fo11oukeqsc4gkpf00gllos4jk%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+- Add Wednesday to your Google Calendar  (with Zoom link): <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N283M28yM3Nkcm4wY2IwNWFwNjQzZWhza2dfMjAyMjAxMTlUMjAzMDAwWiBmbzExb3VrZXFzYzRna3BmMDBnbGxvczRqa0Bn&amp;tmsrc=fo11oukeqsc4gkpf00gllos4jk%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+
 
 ### Course Schedule / Outline
 
@@ -38,6 +41,8 @@ This is a face to face delivery class, and we plan to meet in person at at [Dist
 <div align="center">
 <a class="hollow button" target="blank" href="https://usu.instructure.com/courses/698781"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>See Spring 2022 Canvas</b><br> For Latest Schedule</a>
 </div>
+
+
 
 #### Rough Plan:
 
