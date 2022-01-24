@@ -27,13 +27,13 @@ Your observations must be your own (no re-using of other's YouTube videos.. thou
 
 ## The Bingo Cards
 
-All have the same mix of processes... just in order. Choose one, and stick to it.
+All have the same mix of processes... just in different orders. Choose one and stick to it.
 
 ### Card 1
 
 | drizzle (precipitation) | sheet flow (interill) | pipeflow                          | infiltration         | percolation       |
 | overbank flow           | snow throughfall       | infiltration excess overland flow | throughflow          | snow accumulation |
-| rain (precipitation)    | base flow             | throughflow                      | snow (precipitation) | condensation      |
+| rain (precipitation)    | base flow             | FREE                     | snow (precipitation) | condensation      |
 | sublimation             | interception          | saturation excess overland flow   | evaporation          | bankfull flow     |
 | gully flow              | stemflow              | subsurface stormflow              | rill flow            | return flow       |
 
@@ -43,7 +43,7 @@ All have the same mix of processes... just in order. Choose one, and stick to it
 | overbank flow           | bankfull flow         | infiltration excess overland flow | gully flow           | snow throughfall |
 | stemflow                | snow accumulation     | subsurface stormflow              | rill flow            | return flow     |
 | drizzle (precipitation) | sheet flow (interill) | pipeflow                          | infiltration         | percolation     |
-| rain (precipitation)    | throughflow           | throughflow                      | snow (precipitation) | base flow       |
+| rain (precipitation)    | throughflow           | FREE                      | snow (precipitation) | base flow       |
 
 ### Card 3
 
@@ -51,14 +51,14 @@ All have the same mix of processes... just in order. Choose one, and stick to it
 | overbank flow           | snow throughfall       | infiltration excess overland flow | throughflow          | snow accumulation |
 | gully flow              | stemflow              | subsurface stormflow              | rill flow            | return flow       |
 | drizzle (precipitation) | sheet flow (interill) | pipeflow                          | infiltration         | percolation       |
-| rain (precipitation)    | base flow             | throughflow                      | snow (precipitation) | condensation      |
+| rain (precipitation)    | base flow             | FREE                      | snow (precipitation) | condensation      |
 
 ### Card 4
 
 | drizzle (precipitation) | sheet flow (interill) | pipeflow                          | infiltration         | percolation     |
 | overbank flow           | bankfull flow         | infiltration excess overland flow | gully flow           | snow throughfall |
 | stemflow                | snow accumulation     | subsurface stormflow              | rill flow            | return flow     |
-| rain (precipitation)    | throughflow           | through flow                      | snow (precipitation) | base flow       |
+| rain (precipitation)    | FREE        | through flow                      | snow (precipitation) | base flow       |
 | sublimation             | condensation          | saturation excess overland flow   | evaporation          | interception    |
 
 ------------
