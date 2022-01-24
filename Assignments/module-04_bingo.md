@@ -9,7 +9,7 @@ weight: 3
 
 ## The Assignment
 
-You are required to get your field notebook page on your website setup and at least  two processes observed by February 3. In setting it up, you need to commit to (and stick with the whole semester) one bingo card. The real assignment will run all semester long. You need to get "Bingo" by the end of the semester. The first three to declare Bingo (and not have their results contested) will get a prize and a Grand Prize will go to the first Full Card winner.
+Get your field notebook page on your website setup and at least two processes observed. In setting it up, you need to commit to (and stick with the whole semester) one bingo card. The real assignment will run all semester long. You need to get "Bingo" by the end of the semester. The first three to declare Bingo (and not have their results contested) will get a prize and a Grand Prize will go to the first Full Card winner.
 
 ## The Rules
 In normal Bingo you all get different bingo cards. Here, you have four  bingo cards to choose from below. Your job is to get Bingo by one of the following winning patterns:  
