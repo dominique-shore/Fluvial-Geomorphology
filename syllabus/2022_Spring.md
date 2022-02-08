@@ -175,7 +175,7 @@ This is the so-called "River-Styles" text book and is a helpful follow up refere
 
 ---------
 
-<!-----
+
 
 # The  Students and Their Work
 
@@ -185,26 +185,8 @@ Their hard work is showcased in some of their course websites below.
 
 | Student               | Student Status and Department | Course Website                                                                  |
 |-----------------------|-----------------------------|---------------------------------------------------------------------------------|
-| [Triton Abeyta](https://sites.google.com/view/tritonabeytawats5150/home?authuser=0)         | Undergrad in WATS           |     [![site]({{ site.baseurl }}/assets/images/people/2021/Triton.png)](https://sites.google.com/view/tritonabeytawats5150/home?authuser=0){:target="_blank"}          |
-| [Jens Ammon](https://jensammon5.wixsite.com/jens/fluvial-geomorphology)            | Undergrad in WATS           |    [![site]({{ site.baseurl }}/assets/images/people/2021/Jens.png)](https://jensammon5.wixsite.com/jens/fluvial-geomorphology){:target="_blank"}                    |
-| [Alec Andretti](https://sites.google.com/aggiemail.usu.edu/alec-arditti-fluvial/home?authuser=0)         | Graduate in WATS            | [![site]({{ site.baseurl }}/assets/images/people/2021/Alec.png)](https://sites.google.com/aggiemail.usu.edu/alec-arditti-fluvial/home?authuser=0){:target="_blank"} |
-| [Devin Baumer](https://baumdevi.wixsite.com/dbaumer)          | Graduate in WATS            |  [![site]({{ site.baseurl }}/assets/images/people/2021/Devin.png)](https://baumdevi.wixsite.com/dbaumer){:target="_blank"}                                            |
-| [Gabe Benitez](https://gavabe45.wixsite.com/website)          | Graduate in CEE             |   [![site]({{ site.baseurl }}/assets/images/people/2021/Gabe.png)](https://gavabe45.wixsite.com/website){:target="_blank"}                                           |
-| [Bryce Bollinger](https://sites.google.com/aggiemail.usu.edu/bryce-5150/home?authuser=0)       | Undergrad in  WATS          |   [![site]({{ site.baseurl }}/assets/images/people/2021/Bryce.png)](https://sites.google.com/aggiemail.usu.edu/bryce-5150/home?authuser=0){:target="_blank"}          |
-| [Haley Canham](https://sites.google.com/aggiemail.usu.edu/hcanham-fluvial/home?authuser=0)          | Graduate in CEE             |   [![site]({{ site.baseurl }}/assets/images/people/2021/Haley.png)](https://sites.google.com/aggiemail.usu.edu/hcanham-fluvial/home?authuser=0){:target="_blank"}     |
-| [Amy Carmellini](https://sites.google.com/aggiemail.usu.edu/fluv/home?authuser=0)        | Graduate in CEE             |    [![site]({{ site.baseurl }}/assets/images/people/2021/Amy.png)](https://sites.google.com/aggiemail.usu.edu/fluv/home?authuser=0){:target="_blank"}               |
-| [Jeffrey Chandler](https://sites.google.com/view/jeffreycgeomorphology/home?authuser=0)      | Undergrad in WILD           |   [![site]({{ site.baseurl }}/assets/images/people/2021/Jeffrey.png)](https://sites.google.com/view/jeffreycgeomorphology/home?authuser=0){:target="_blank"}            |
-| [Casey Choate](https://cchoate2.wixsite.com/fluvial)          | Undergrad in WATS           |     [![site]({{ site.baseurl }}/assets/images/people/2021/Casey.png)](https://cchoate2.wixsite.com/fluvial){:target="_blank"}                                         |
-| [Daniel Cremin-Thurber](https://danielthurber.weebly.com/fluvial-geomorphology) | Graduate in CEE             |      [![site]({{ site.baseurl }}/assets/images/people/2021/Daniel.png)](https://danielthurber.weebly.com/fluvial-geomorphology){:target="_blank"}                      |
-| [Denny Haynes ](https://fluvialhaynes.weebly.com/)         | Graduate in WATS            |      [![site]({{ site.baseurl }}/assets/images/people/2021/Denny.png)](https://fluvialhaynes.weebly.com/){:target="_blank"}                                           |
-| [Lauren Herbine](https://sites.google.com/aggiemail.usu.edu/lauren-herbine-fluvgeomorph/home )        | Graduate in WATS            |   [![site]({{ site.baseurl }}/assets/images/people/2021/Lauren.png)](https://sites.google.com/aggiemail.usu.edu/lauren-herbine-fluvgeomorph/home){:target="_blank"}   |
-| [Megh Raj](https://fluvialtalk.weebly.com/)              | Graduate in CEE             |     [![site]({{ site.baseurl }}/assets/images/people/2021/Megh.png)](https://fluvialtalk.weebly.com/){:target="_blank"}                                              |
-| [Carter Lybeck](https://sites.google.com/view/fluvialgeomorphology/home?authuser=0)         | Undergrad in WATS           |    [![site]({{ site.baseurl }}/assets/images/people/2021/Carter.png)](https://sites.google.com/view/fluvialgeomorphology/home?authuser=0){:target="_blank"}            |
-| [Kathryn Ann Margetts](https://sites.google.com/view/kat-sd/home?authuser=0)  | Graduate in CEE             |      [![site]({{ site.baseurl }}/assets/images/people/2021/Kat.png)](https://sites.google.com/view/kat-sd/home?authuser=0){:target="_blank"}                        |
-| [Manisha Panthi](https://waterinaction.wordpress.com/rivers/ )        | Graduate in CEE             |   [![site]({{ site.baseurl }}/assets/images/people/2021/Manisha.png)](https://waterinaction.wordpress.com/rivers/){:target="_blank"}                                   |
-| [Anna Paulding](https://geology3a.weebly.com/)         | Graduate in CEE             |    [![site]({{ site.baseurl }}/assets/images/people/2021/Anna.png)](https://geology3a.weebly.com/){:target="_blank"}                                                 |
-| [Tansy Remiszewski](https://www.tansyremiszewski.com/fluvialgeomorphology)     | Graduate in WATS            |     [![site]({{ site.baseurl }}/assets/images/people/2021/Tansy.png)](https://www.tansyremiszewski.com/fluvialgeomorphology){:target="_blank"}                        |
-| [Shelby Sawyer](https://sites.google.com/view/shelbysawyer/home?authuser=0)         | Graduate in WATS            |        [![site]({{ site.baseurl }}/assets/images/people/2021/Shelby.png)](https://sites.google.com/view/shelbysawyer/home?authuser=0){:target="_blank"}                |
-| [Clark Taylor](https://sites.google.com/view/clark-taylor-wats-5150/home?authuser=0)          | Undergrad in GEO            |    [![site]({{ site.baseurl }}/assets/images/people/2021/Clark.png)](https://sites.google.com/view/clark-taylor-wats-5150/home?authuser=0){:target="_blank"}          |
-
---->
+| Gretchen Dana | Undergrad in Environmental Science |     [![site]({{ site.baseurl }}/assets/images/people/2022/Gretchen.png)](https://sites.google.com/view/tritonabeytawats5150/home?authuser=0){:target="_blank"}     |
+| Diane Wagner | Graduate in WATS    |    [![site]({{ site.baseurl }}/assets/images/people/2022/Diane.png)](https://jensammon5.wixsite.com/jens/fluvial-geomorphology){:target="_blank"}              |
+| Steph Aristizabal | Undergrad in WATS    | [![site]({{ site.baseurl }}/assets/images/people/2022/Steph.png)](https://sites.google.com/aggiemail.usu.edu/alec-arditti-fluvial/home?authuser=0){:target="_blank"} |
+| Megan Conley | Graduate in CEE          |  [![site]({{ site.baseurl }}/assets/images/people/2022/Megan.png)](https://baumdevi.wixsite.com/dbaumer){:target="_blank"}                                      |
+| Julia Bennion |Undergrad in WATS|[![site]({{ site.baseurl }}/assets/images/people/2022/Julia.png)](https://baumdevi.wixsite.com/dbaumer){:target="_blank"}|
