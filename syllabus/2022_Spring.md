@@ -185,8 +185,8 @@ Their hard work is showcased in some of their course websites below.
 
 | Student               | Student Status and Department | Course Website                                                                  |
 |-----------------------|-----------------------------|---------------------------------------------------------------------------------|
-| [Gretchen Dana](https://sites.google.com/view/gretchendana/fluvial-geomorphology?authuser=0) | Undergrad in Environmental Science |     ![Gretchen](https://user-images.githubusercontent.com/73319684/152893656-c01be666-c9b0-4470-bdba-22a21a310761.PNG)     |
+| [Gretchen Dana](https://sites.google.com/view/gretchendana/fluvial-geomorphology?authuser=0) | Undergrad in Environmental Studies |     ![Gretchen](https://user-images.githubusercontent.com/73319684/152893656-c01be666-c9b0-4470-bdba-22a21a310761.PNG)     |
 | [Diane Wagner](https://sites.google.com/view/diane-wagner-fluvial/home?authuser=0) | Graduate in WATS    | ![Diane](https://user-images.githubusercontent.com/73319684/152893614-dc248421-7616-4e03-b5dc-4ec801f35e15.PNG) |
-| [Steph Aristizabal](https://sites.google.com/view/stepharistizabal/home?authuser=0) | Undergrad in WATS    | ![Steph](https://user-images.githubusercontent.com/73319684/152893897-038beb1a-9493-4924-b5c4-175ef7bb50a4.PNG) |
+| [Steph Aristizabal](https://sites.google.com/view/stepharistizabal/home?authuser=0) | Undergrad in MRAE | ![Steph](https://user-images.githubusercontent.com/73319684/152893897-038beb1a-9493-4924-b5c4-175ef7bb50a4.PNG) |
 | [Megan Conley](https://meganconley.weebly.com/) | Graduate in CEE          | ![Megan](https://user-images.githubusercontent.com/73319684/152893927-d496af5b-f556-4596-99e9-6c6e86b8908e.PNG) |
 | [Julia Bennion](https://sites.google.com/view/juliasluitergeomorphologist/home?authuser=0) |Undergrad in WATS| ![Julia](https://user-images.githubusercontent.com/73319684/152893991-37fdd092-6a7d-4a5e-8a5c-8082a7f03132.PNG) |
