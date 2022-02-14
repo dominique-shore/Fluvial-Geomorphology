@@ -181,7 +181,7 @@ Just cool examples:
 - [Casey's site](https://cchoate2.wixsite.com/fluvial/field-notebook-copy) is well worth a look.
 - [Haley](https://sites.google.com/aggiemail.usu.edu/hcanham-fluvial/home/module-4) got a double bingo and had a great sheet flow example.
 - [Amy](https://sites.google.com/aggiemail.usu.edu/fluv/projects/hydrology-bingo) did a really exemplar job explaining the hydrologic processes in each of her videos as well as defining them in the videos.
-- [Daniel](https://danielthurber.weebly.com/fluvial-geomorphology/hydrology-bingo) and [Jeff](https://sites.google.com/view/jeffreycgeomorphology/projectsassingmnets/bingo-assignment?authuser=0) both have a ton of the bingo card populated with links to  videos. Daniel's explanations and definitions are exceptionally clear and useful. I was particularlly impressed by the coffee infiltration (I think Daniel could be one of those professional narrators or book on tape readers):
+- [Daniel](https://danielthurber.weebly.com/fluvial-geomorphology/hydrology-bingo) and [Jeff](https://sites.google.com/view/jeffreycgeomorphology/projectsassingmnets/bingo-assignment?authuser=0) both have a ton of the bingo card populated with links to  videos. Daniel's explanations and definitions are exceptionally clear and useful. I was particularly impressed by the coffee infiltration (I think Daniel could be one of those professional narrators or book on tape readers):
 <div class="row small-up-2 medium-up-2">
 
 
