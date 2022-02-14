@@ -190,3 +190,118 @@ Their hard work is showcased in some of their course websites below.
 | [Steph Aristizabal](https://sites.google.com/view/stepharistizabal/home?authuser=0) | Undergrad in MRAE | ![Steph](https://user-images.githubusercontent.com/73319684/152893897-038beb1a-9493-4924-b5c4-175ef7bb50a4.PNG) |
 | [Megan Conley](https://meganconley.weebly.com/) | Graduate in CEE          | ![Megan](https://user-images.githubusercontent.com/73319684/152893927-d496af5b-f556-4596-99e9-6c6e86b8908e.PNG) |
 | [Julia Bennion](https://sites.google.com/view/juliasluitergeomorphologist/home?authuser=0) |Undergrad in WATS| ![Julia](https://user-images.githubusercontent.com/73319684/152893991-37fdd092-6a7d-4a5e-8a5c-8082a7f03132.PNG) |
+
+### Great examples from the 2022 class
+
+      <div class="card-section">
+        <h4>Flow Types</h4>
+        <div class="responsive-embed"> 
+
+![Julia hydraulics2](https://user-images.githubusercontent.com/73319684/153944889-1e20857d-3da1-4af7-8b16-0a06a763a379.PNG)
+<br>
+
+</div>
+**Julia** had some excellently annotated images from [our field trip to Spring Hollow](https://sites.google.com/view/juliasluitergeomorphologist/hydraulics-in-the-field?authuser=0) that explain some fundamental hydraulic processes.  <i class="fa fa-trophy" aria-hidden="true"></i>
+
+      </div>
+    </div>
+
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+
+      <div class="card-section">
+        <h4>Overbank Flow</h4>
+        <div class="responsive-embed"> 
+
+![Julia hydraulics3](https://user-images.githubusercontent.com/73319684/153944937-9bea9e01-145f-4522-8cf5-8a4e56156e92.png)
+
+<br>
+
+</div>
+More clean annotations from Julia, this diagram is describing a hydraulic jump.<i class="fa fa-gamepad" aria-hidden="true"></i>
+
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+<div class="row small-up-2 medium-up-2">
+
+
+
+  <div class="column">
+    <div class="card">
+
+
+
+      <div class="card-section">
+        <h4>Hydraulic Jump</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="480" height="270" src="https://youtu.be/JyHyWSJb6u4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+</div>
+**Steph** did a great job of explaining a hydraulic jump in this video. <i class="fa fa-gamepad" aria-hidden="true"></i>
+
+      </div>
+    </div>
+
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+
+      <div class="card-section">
+        <h4>Field Sketches</h4>
+        <div class="responsive-embed"> 
+
+![Megan hydraulics](https://user-images.githubusercontent.com/73319684/153945436-36237824-db94-48ab-a1c4-0a439f68568b.PNG)
+<br>
+
+</div>
+**Megan** created a couple of clean, informative field sketches, also from her [Spring Hollow site visit](https://meganconley.weebly.com/module-5---hydraulic-observations.html).  <i class="fa fa-gamepad" aria-hidden="true"></i>
+
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+
+<div class="row small-up-2 medium-up-2">
+
+
+
+**Julia** had some excellently annotated images from [our field trip to Spring Hollow](https://sites.google.com/view/juliasluitergeomorphologist/hydraulics-in-the-field?authuser=0) that explain some fundamental hydraulic processes. 
+
+| ![Julia hydraulics2](https://user-images.githubusercontent.com/73319684/153944889-1e20857d-3da1-4af7-8b16-0a06a763a379.PNG) | ![Julia hydraulics3](https://user-images.githubusercontent.com/73319684/153944937-9bea9e01-145f-4522-8cf5-8a4e56156e92.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+**Megan** created a couple of clean, informative field sketches, also from her [Spring Hollow site visit](https://meganconley.weebly.com/module-5---hydraulic-observations.html). 
+
+![Megan hydraulics](https://user-images.githubusercontent.com/73319684/153945436-36237824-db94-48ab-a1c4-0a439f68568b.PNG)
+
+Here she very clearly outlines some hydraulic processes from a photo we took with the drone:
+
+![Megan hydraulics2](https://user-images.githubusercontent.com/73319684/153945551-2936484d-d670-4bcd-a9a7-27d7e100b4bd.jpg)
+
+**Steph** did a great job of explaining a hydraulic jump in this video.
+
+<iframe src="https://youtu.be/JyHyWSJb6u4" width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+
+
+
+**Gretchen** has been painting beautifully informative field sketches for her various assignments:
+
+![Gretchen fieldobs](https://user-images.githubusercontent.com/73319684/153949969-9fae912d-b733-4151-b9a1-975617a842f1.JPG)
