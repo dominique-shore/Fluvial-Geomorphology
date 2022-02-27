@@ -130,7 +130,7 @@ This corresponds to next two sections of the chapter (pages 88-102).
 
 
 </div>
-<i class="fa fa-clock-o" aria-hidden="true"></i> 30 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i><br> Note <em>§ Material Properties that Affect Sediment Movement</em> was covered in class lecture.
+<i class="fa fa-clock-o" aria-hidden="true"></i> 1 hour 56 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
       </div>
     </div>
   </div>
@@ -173,7 +173,7 @@ This corresponds to next two sections of the chapter (pages 102-114).
 
 
 </div>
-<i class="fa fa-clock-o" aria-hidden="true"></i> 17 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> <br> Note § <em>Interpreting Sediment Sequences as a Tool to Read Riverscapes</em>  was covered in class lecture.
+<i class="fa fa-clock-o" aria-hidden="true"></i> 47 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> <br> Note: No Lecture on <em> Key Messages</em>  as this was covered in class lecture.
       </div>
     </div>
   </div>
@@ -303,7 +303,7 @@ Matthew Clapham
     </div>
 
   </div>
-  
+
    <div class="column">
     <div class="card">
 
