@@ -84,5 +84,33 @@ Follow up *selected readings* suggested by Fryris and Brierley (2013) are provid
 - Williams RD, Bangen S, Gillies E, Kramer N, Moir H, Wheaton J. 2020. Let the river erode! Enabling lateral migration increases geomorphic unit diversity. Science of The Total Environment : 136817. DOI: [10.1016/j.scitotenv.2020.136817](10.1016/j.scitotenv.2020.136817)
 
 
+# Other Examples
+### Meander Migration
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Why Rivers Curve
+</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8a3r-cG8Wic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 3 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> from 
+Minute Earth
+      </div>
+    </div>
+  </div>
+
+ 
+</div>
 
 

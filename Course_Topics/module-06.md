@@ -261,7 +261,7 @@ Bill Annable
 
   </div>
 </div>
-#### Sediment Transport & Entrainment Lectures
+#### Sediment Transport & Entrainment Lectures and Videos
 
 <div class="row small-up-2 medium-up-2">
 
@@ -303,4 +303,26 @@ Matthew Clapham
     </div>
 
   </div>
+  
+   <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Underwater Video of Sediment Transport
+</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpexS4-9IF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+
 </div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 2.5 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> from 
+HighTideExp
+      </div>
+    </div>
+
+  </div>
+</div>
+
