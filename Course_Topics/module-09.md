@@ -17,7 +17,6 @@ weight: 9
 7. Gain an appreciation of how geomorphic processes of erosion, deposition transport and storage of sediment shape topography and create, maintain, sculpt and destroy distinctive landforms. 
 
 
-------
 
 ------
 ## Lectures (videos) & Slides
@@ -33,12 +32,12 @@ weight: 9
         <h4>Part 1 - Lecture Playlist</h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzKcQ5wAyMaKCGlDGS4s9pIR" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C9cRF9ArnWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 
 </div>
-<i class="fa fa-clock-o" aria-hidden="true"></i> WRONG minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 12 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
       </div>
     </div>
   </div>
@@ -61,6 +60,206 @@ weight: 9
   </div>
 </div>
 
+### Part 2 -  Floodplain Formation Processes 
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Part 2 - Lecture Playlist</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzKyCdF_jTtNOOYAmUQLZ9qU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 1 hour 4  minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_09_FloodplainFormsProcesses.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/Module09_II.png"></a>
+        	</div>
+        
+        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_09_FloodplainFormsProcesses.pdf" target="_blank">Module 9  - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
+
+### Part 3 -  Floodplain Reworking Processes 
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Part 3 - Lecture Playlist</h4>
+        <div class="responsive-embed"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzLNC2fUeNDRm5sEwarzP86r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 51 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_09_FloodplainFormsProcesses.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/Module09_III.png"></a>
+        	</div>
+        
+        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_09_FloodplainFormsProcesses.pdf" target="_blank">Module 9  - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
+
+### Part 4 -  Floodplain Geomorphic Units 
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Part 4 - Lecture </h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/60im48xLgPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 33 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_09_FloodplainFormsProcesses.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/Module09_IV.png"></a>
+        	</div>
+        
+        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_09_FloodplainFormsProcesses.pdf" target="_blank">Module 9  - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
+
+### Part 5 -  Energy Spectrum of Floodplains 
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Part 5 - Lecture</h4>
+        <div class="responsive-embed"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tEkmPvw-YU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 6  minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_09_FloodplainFormsProcesses.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/Module09_V.png"></a>
+        	</div>
+        
+        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_09_FloodplainFormsProcesses.pdf" target="_blank">Module 9  - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
+
+### Floodplains 
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Flooding of Floodplains, not during "Floods"</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aGAXeMsizGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 13 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+      </div>
+    </div>
+  </div>
+
+<!--
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_09_FloodplainFormsProcesses.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/Module09.png"></a>
+        	</div>
+        
+        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_09_FloodplainFormsProcesses.pdf" target="_blank">Module 9  - Slides</a>
+        
+      </div>
+    </div>
+
+  </div> -->
+  
+</div>
+ 
 -----------
 # Other Resources
 
@@ -110,7 +309,118 @@ Minute Earth
     </div>
   </div>
 
- 
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Time Lapse on Variety of Rivers</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A5ZmXcTs0Cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+
 </div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 1 minute <i class="fa fa-youtube-play" aria-hidden="true"></i> from 
+Minute Earth
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Why Rivers Curve
+</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kJuWNjYBudI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 46 Seconds <i class="fa fa-youtube-play" aria-hidden="true"></i> from Satelite Timelapse
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4></h4>
+        <div class="responsive-embed"> </div>
+
+<br>
+
+
+</div>
+<!--<i class="fa fa-clock-o" aria-hidden="true"></i> 1 minute <i class="fa fa-youtube-play" aria-hidden="true"></i> from 
+Minute Earth-->
+      </div>
+    </div>
+  </div>
+
+
+
+### Physcial Models
+
+<div class="row small-up-2 medium-up-2">
+
+<div class="column">
+    <div class="card">
+    
+      <div class="card-section">
+        <h4>Meandering and braided river in the laboratory</h4>
+        <div class="responsive-embed"> 
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/fv_oCOvsnLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</div>
+	<br><i class="fa fa-clock-o" aria-hidden="true"></i> 24 seconds <i class="fa fa-youtube-play" aria-hidden="true"></i> From Wout  van Dijk
+      </div>
+      
+    </div>
+  </div>
+  </div>
+
+### Morphodynamic Models (Numerical Simulations)
+
+<div class="row small-up-2 medium-up-2">
+
+<div class="column">
+    <div class="card">
+    
+      <div class="card-section">
+        <h4>Modelling the evolution of large river floodplains</h4>
+        <div class="responsive-embed"> 
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/caudHcjuhvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</div>
+	<br><i class="fa fa-clock-o" aria-hidden="true"></i> 30 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://geography.exeter.ac.uk/staff/index.php?web_id=Andrew_Nicholas">Andrew Nicholas</a> (my modelling hero) prsenting at 2014 <a href="https://csdms.colorado.edu/wiki/Main_Page">CSDMS</a> Meeting in 2014.
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+    
+      <div class="card-section">
+        <h4>Modelling Floodplain Evolution</h4>
+        <div class="responsive-embed"> 
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/_G9i_NjYVrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</div>
+	<br><i class="fa fa-clock-o" aria-hidden="true"></i> 40 seconds <i class="fa fa-youtube-play" aria-hidden="true"></i> From <a href="https://csdms.colorado.edu/wiki/Model:CHILD">CHILD model</a> at CU Boulder
+      </div>
+      
+    </div>
+  </div>
+  </div>
 
 
