@@ -20,16 +20,16 @@ weight: 1
 
 ## Schedule
 <!--- Don't forget to update Canvas link --->
-[Spring 2022 WATS 5150/6150]({{ site.baseurl }}/syllabus/2022_Spring.html)
-- [Fluvial Geomorphology - 00000  - WATS 5150 - 001]()
 
+- [Spring 2024 WATS 5150/6150]()
+
+This course will typically be taught every Spring (pending adequate demand). The first revamped version of the class was taught in [Spring 2021]({{ site.baseurl }}/syllabus/2021_Spring.html) and again was taught in [Spring 2022]({{ site.baseurl }}/syllabus/2022_Spring.html). The next class is scheduled to be taught Spring 2024. There are **no planned offerings for Spring 2023** of Fluvial as Wheaton will be on sabbatical  for Fall 2022- Spring 2023.
 #### Past Versions
+- [Spring 2022 WATS 5150/6150]({{ site.baseurl }}/syllabus/2022_Spring.html)
+- [Spring 2021 WATS 5150/6150]({{ site.baseurl }}/syllabus/2021_Spring.html)
 
-[Spring 2021 WATS 5150/6150]({{ site.baseurl }}/syllabus/2021_Spring.html)
-- [Fluvial Geomorphology - 12014 - WATS 5150 - 001](https://ssb.banner.usu.edu/zprod/bwckctlg.p_disp_listcrse?term_in=202120&subj_in=WATS&crse_in=5150&schd_in=HL)
 
 
-This course will typically be taught every Spring. The first revamped version of the class was taught in [Spring 2021]({{ site.baseurl }}/syllabus/2021_Spring.html) and next class is scheduled to be taught Spring 2022. Wheaton has a sabbatical planned for Fall 2022-2023. A decision has not been reached as to whether or not a substitute instructor will teach in Spring 2023 or we wait for Wheaton's return in Spring 2024.
 
 
 ------
