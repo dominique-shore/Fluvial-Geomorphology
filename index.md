@@ -9,7 +9,8 @@ weight: 1
 Welcome to the Fluvial Geomorphology Course Website! This website is primarily for students of the [WATS 5150/6150]({{ site.baseurl }}/syllabus/) and [GEO 5150/6150]({{ site.baseurl }}/syllabus/) introductory fluvial geomorphology course taught at [Utah State University](https://qcnr.usu.edu/wats/). Secondary audiences may include other students and practitioners looking for an introduction to fluvial geomorphology and the study of riverscapes. 
 <br><br>
 <div align="center">
-	<a class="hollow button" href="{{ site.baseurl }}/syllabus/"> See Syllabus <br> for More Details</a>
+	<a class="hollow button" href="{{ site.baseurl }}/syllabus/"> See Syllabai <br> for More Details</a>
+	<a class="hollow button" href="{{ site.baseurl }}/syllabus/2024_Spring.html"> See <b>Spring 2024</b> <br> Schedule & Syllabus  </a>
 	<a class="hollow button" href="{{ site.baseurl }}/syllabus/2022_Spring.html"> See <b>Spring 2022</b> <br> Schedule & Syllabus  </a>
 	<a class="hollow button" href="{{ site.baseurl }}/Course_Topics/"><img src="{{ site.baseurl }}/assets/images/favicons/android-icon-48x48.png">  Fluvial Geomorphology  <b> Course Topics</b></a>  
 
@@ -18,6 +19,8 @@ Welcome to the Fluvial Geomorphology Course Website! This website is primarily f
 <div align="center">
 <img  src="{{ site.baseurl }}/assets/images/pics/IcefieldsParkway.png">
 </div>
+
+*Professor Wheaton will be on sabbatical for 2023, so next offering will be [2024]({{ site.baseurl }}/syllabus/2024_Spring.html). Students are welcome to use the online lectures and assignments for their own self-paced study.*
 
 ------
 

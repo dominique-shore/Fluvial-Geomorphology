@@ -19,15 +19,20 @@ weight: 1
 
 
 ## Schedule
-<!--- Don't forget to update Canvas link --->
 
-- [Spring 2024 WATS 5150/6150]()
+This course will typically be taught every Spring (pending adequate demand). The first revamped version of the class was taught in [Spring 2021]({{ site.baseurl }}/syllabus/2021_Spring.html) and again was taught in [Spring 2022]({{ site.baseurl }}/syllabus/2022_Spring.html). The next class is scheduled to be taught [Spring 2024]({{ site.baseurl }}/syllabus/2024_Spring.html). There are **no planned offerings for Spring 2023** of Fluvial as Wheaton will be on sabbatical  for Fall 2022- Spring 2023.
 
-This course will typically be taught every Spring (pending adequate demand). The first revamped version of the class was taught in [Spring 2021]({{ site.baseurl }}/syllabus/2021_Spring.html) and again was taught in [Spring 2022]({{ site.baseurl }}/syllabus/2022_Spring.html). The next class is scheduled to be taught Spring 2024. There are **no planned offerings for Spring 2023** of Fluvial as Wheaton will be on sabbatical  for Fall 2022- Spring 2023.
+<a class="hollow button" href="{{ site.baseurl }}/syllabus/2024_Spring.html)"><img src="{{ site.baseurl }}/assets/images/favicons/android-icon-48x48.png">  See <b>Spring 2024</b> <br> Schedule & Syllabus </a>  
+
+
+
 #### Past Versions
-- [Spring 2022 WATS 5150/6150]({{ site.baseurl }}/syllabus/2022_Spring.html)
-- [Spring 2021 WATS 5150/6150]({{ site.baseurl }}/syllabus/2021_Spring.html)
-
+Past versions of the course give an idea of the schedule, syllabus and work the previous cohorts of students undertook.
+<div align="center">
+	<a class="hollow button" href="{{ site.baseurl }}/syllabus/"> See Syllabai <br> for More Details</a>
+	<a class="hollow button" href="{{ site.baseurl }}/syllabus/2021_Spring.html"> See <b>Spring 2021</b> <br> Schedule & Syllabus  </a>
+	<a class="hollow button" href="{{ site.baseurl }}/syllabus/2022_Spring.html"> See <b>Spring 2022</b> <br> Schedule & Syllabus  </a>
+	</div>
 
 
 
