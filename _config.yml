@@ -59,13 +59,12 @@ settings:
     - title: "LTPBR"
       url: http://lowtechpbr.restoration.usu.edu/
     - title: "Riverscapes Consortium"
-      url: https://riverscapes.xyz
+      url: https://riverscapes.net
     - title: "Tools"
-      url: https://riverscapes.xyz/Tools/
+      url: https://riverscapes.net/Tools/
     - title: "Data"
       url: https://data.riverscapes.xyz
-    - title: "Maps"
-      url: https://maps.riverscapes.xyz
+
 
 
 # Here is how we retrieve the remote theme. Changes to this remote theme will show up after you 
