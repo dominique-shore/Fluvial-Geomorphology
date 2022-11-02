@@ -130,7 +130,9 @@ If you opt not to use video, please instead describe with text what you interpre
                     <li>5 annual surveys</li>
                     <li>Mix of RTKGPS and Total Station</li>
                     <li>1m cell resolution</li>
-                    <li><a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/GCD/GCD7/Tutorials/GeoTERM_Feshie.zip">Download</a></li>
+                    <li><a href="https://doi.org/10.5281/zenodo.7261352">Download</a></li>
+                    <a href="https://doi.org/10.5281/zenodo.7261352"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7261352.svg" alt="DOI"></a>
+
                 </ul>
             </div>
         </div>
